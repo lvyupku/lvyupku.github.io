@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "研究方向"
+title: ""
 permalink: /researchinterests/
 author_profile: true
 ---
