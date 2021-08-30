@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "科研团队"
+title: ""
 permalink: /members/
 author_profile: true
 ---
