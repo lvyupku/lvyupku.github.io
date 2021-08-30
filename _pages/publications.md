@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /
+permalink: /publications/
 author_profile: true
 ---
 国际期刊
