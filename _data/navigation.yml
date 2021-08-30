@@ -4,11 +4,11 @@ main:
     url: /publications/
 
   - title: "论文论著"
-    url: /talks/    
+    url: /publications/
 
   - title: "科研团队"
-    url: /teaching/    
+    url: /members/    
     
   - title: "招生信息"
-    url: /portfolio/
+    url: /enrollment/
         
