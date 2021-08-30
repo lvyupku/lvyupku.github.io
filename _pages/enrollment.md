@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "招生信息"
+title: ""
 permalink: /enrollment/
 author_profile: true
 ---
