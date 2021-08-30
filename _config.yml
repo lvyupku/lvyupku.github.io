@@ -11,9 +11,9 @@ title                    : "曹欣 / 个人主页"
 title_separator          : "-"
 name                     : &name "曹欣"
 description              : &description "西北大学·信息科学与技术学院·副教授·硕士生导师"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://caoxin918.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "caoxin918/caoxin918.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
