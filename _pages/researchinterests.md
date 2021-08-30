@@ -11,3 +11,4 @@ author_profile: true
 文物数字化虚拟修复（计算机视觉、点云处理相关）
 ===
 借助计算机图形学技术，通过数字化方式指导文物碎片的修复工作
+![avatar](/images/pointcloud.jpg)
