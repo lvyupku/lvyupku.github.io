@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "论文著作"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
