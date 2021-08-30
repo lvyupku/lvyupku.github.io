@@ -1,7 +1,7 @@
 ---
 layout: single
 title: ""
-permalink: /
+permalink: /researchinterests/
 author_profile: true
 ---
 医学图像处理（图像处理、深度学习相关）
