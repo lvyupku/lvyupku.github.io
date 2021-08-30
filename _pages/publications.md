@@ -6,37 +6,37 @@ author_profile: true
 ---
 国际期刊
 ===
-·Wenmin Yao, Tong Chu, Wenlong Tang, Jingyu Wang, **Xin Cao**, Fengjun Zhao, Kang Li, Guohua Geng, Mingquan Zhou. “SPPD: A Novel Reassembly Method for 3D Terracotta Warrior Fragments Based on Fracture Surface Information”, ISPRS Int. J. Geo-Inf. (2021).    
-·**Xin Cao**, Jun Zhang, Jianan Yang, Chunxiao Fan, Fengjun Zhao, Wei Zhou, Lin Wang, Guohua Geng, Mingquan Zhou and Xueli Chen*. “A deep unsupervised clustering-based post-processing framework for high-fidelity Cerenkov Luminescence Tomography”, Journal of Applied Physics (2020).     
-·Guohue Geng, Jie Liu, **Xin Cao**, Yangyang Liu, Wei Zhou, Fengjun Zhao, Linzhi Su, and Mingquan Zhou. “Simplification Method for 3D Terracotta WarriorFragments Based on Local Structure and Deep Neural networks”, Journal of the Optical Society of America A (2020).    
-·Kang Yang, **Xin Cao**, Guohua Geng, Kang Li and Mingquan Zhou. “Classification of 3D Terracotta Warriors fragments based on geospatial and texture information”, Journal of Visualization (2020).     
-·Wei Zhou, Xingxing Hao, Kaidi Wang, Zhenyang Zhang, Yongxiang Yu, Haonan Su, Kang Li, **Xin Cao**, Arjan Kuijper. “Improved estimation of motion blur parameters for restoration from a single image”, Plos One 9 (2020).       
-·B. Wang, P. Jiao, H. Yi, **Xin Cao**, F. Zhao, Y. Hou, and X. He, "The image reconstruction for fluorescence molecular tomography via a non-uniform mesh," Optical Review 27, 31-38 (2020).       
-·Fengjun Zhao, Bin Wu, Fei Chen, **Xin Cao**, Huangjian Yi, Yuqing Hou, Xiaowei He, and Jimin Liang, "An automatic multi-class coronary atherosclerosis plaque detection and classification framework," Medical & Biological Engineering & Computing 57, 245-257 (2019).     
-·Xiao Wei, Di Lu, **Xin Cao**, Linzhi Su, Lin Wang, Hongbo Guo, Yuqing Hou, and Xiaowei He, "A fuzzy artificial neural network-based method for Cerenkov luminescence tomography," Aip Advances 9 (2019).     
-·Lin Wang, Honghao Cao, **Xin Cao**, Shenghan Ren, Ke Li, Yonghua Zhan, Xueli Chen, and Xiaowei He, "Adaptively Hybrid 3rd Simplified Spherical Harmonics With Diffusion Equation-Based Multispectral Cerenkov Luminescence Tomography," Ieee Access 7, 160779-160785 (2019).      
-·Chunxiao Fan, Fu Li, **Xin Cao**, Biao Qian, and Peipei Song, "A parallel arithmetic for hardware realization of digital filters," Microelectronics Journal 83, 131-136 (2019).      
-·**Xin Cao**, Xiao Wei, Feng Yan, Lin Wang, Linzhi Su, Yuqing Hou, Guohua Geng, and Xiaowei He, "A Novel Stacked Denoising Autoencoder-Based Reconstruction Framework for Cerenkov Luminescence Tomography," Ieee Access 7, 85178-85189 (2019).      
-·Fengjun Zhao, Feifei Sun, Yuqing Hou, Yanrong Chen, Dongmei Chen, **Xin Cao**, Huangjian Yi, Bin Wang, Xiaowei He, and Jimin Liang, "A monocentric centerline extraction method for ring-like blood vessels," Medical & Biological Engineering & Computing 56, 695-707 (2018).      
-·Fengjun Zhao, Yibing Chen, Fei Chen, Xuelei He, **Xin Cao**, Yuqing Hou, Huangjian Yi, Xiaowei He, and Jimin Liang, "Semi-Supervised Cerebrovascular Segmentation by Hierarchical Convolutional Neural Network," Ieee Access 6, 67841-67852 (2018).      
-·Lin Wang, **Xin Cao**, Qingyun Ren, Xueli Chen, and Xiaowei He, "Hybrid model based unified scheme for endoscopic Cerenkov and radio-luminescence tomography: Simulation demonstration," Journal of Applied Physics 123 (2018).      
-·Lin Wang, **Xin Cao**, Xu Cao, Fei Kang, Yonghua Zhan, Xiaowei He, Jing Wang, and Xueli Chen, "Feasibility study of radioluminescence film imaging: an optical way to detect medical radionuclides," Optoelectronics and Advanced Materials-Rapid Communications 12, 542-546 (2018).      
-·Linzhi Su, and **Xin Cao**, "Fuzzy autoencoder for multiple change detection in remote sensing images," Journal of Applied Remote Sensing 12 (2018).      
-·Xin Cao, Yi Sun, Fei Kang, Lin Wang, Huangjian Yi, Fengjun Zhao, Linzhi Su, and Xiaowei He, "A novel denoising framework for cerenkov luminescence imaging based on spatial information improved clustering and curvature-driven diffusion," Journal of Innovative Optical Health Sciences 11 (2018).      
-·Yonghua Zhan, Xu Cao, **Xin Cao**, Yingchao Li, Jie Tian, Jimin Liang, and Xueli Chen, "Silica Cross-Linked Micellar Core-Shell Nanoparticles Encapsulating IR-780 with Strong Bright and Good Biocompatibility for Optical Imaging In Vivo," Journal of Biomedical Nanotechnology 13, 144-154 (2017).       
-·**Xin Cao**, Yonghua Zhan, Xu Cao, Jimin Liang, and Xueli Chen, "Harnessing the Power of Cerenkov Luminescence Imaging for Gastroenterology: Cerenkov Luminescence Endoscopy," Current Medical Imaging Reviews 13, 50-57 (2017).        
-·Yonghua Zhan, Xu Cao, **Xin Cao**, Fei Kang, Jing Wang, Jimin Linag, Zhimin Li, and Xueli Chen, "Simultaneous multimodali molecular imaging with neodymium-doped Y3Al5O12 nanoparticles," Optoelectronics and Advanced Materials-Rapid Communications 10, 685-688 (2016).       
-·Hao Hu+, **Xin Cao+**, Fei Kang, Min Wang, Yenan Lin, Muhan Liu, Shujun Li, Liping Yao, Jie Liang, Jimin Liang, Yongzhan Nie, Xueli Chen, Jing Wang, and Kaichun Wu, "Feasibility study of novel endoscopic Cerenkov luminescence imaging system in detecting and quantifying gastrointestinal disease: first human results," European Radiology 25, 1814-1822 (2015).        
-·**Xin Cao**, Xueli Chen, Fei Kang, Yonghua Zhan, Xu Cao, Jing Wang, Jimin Liang, and Jie Tian, "Intensity Enhanced Cerenkov Luminescence Imaging Using Terbium-Doped Gd2O2S Microparticles," Acs Applied Materials & Interfaces 7, 11775-11782 (2015).      
-·**Xin Cao**, Xueli Chen, Fei Kang, Xu Cao, Yonghua Zhan, Jing Wang, Kaichun Wu, and Jimin Liang, "Sensitivity improvement of Cerenkov luminescence endoscope with terbium doped Gd2O2S nanoparticles," Applied Physics Letters 106 (2015).       
-·**Xin Cao**, Xueli Chen, Fei Kang, Yenan Lin, Muhan Liu, Hao Hu, Yongzhan Nie, Kaichun Wu, Jing Wang, Jimin Liang, and Jie Tian, "Performance evaluation of endoscopic Cerenkov luminescence imaging system: in vitro and pseudotumor studies," Biomedical Optics Express 5, 3660-3670 (2014).         
-·Xueli Chen, Jimin Liang, **Xin Cao**, Defu Yang, Dongmei Chen, Jorge Ripoll, and Jie Tian, "Feasibility study of endoscopic x-ray luminescence computed tomography: Simulation demonstration and phantom application," Journal of Applied Physics 114 (2013).         
++ Wenmin Yao, Tong Chu, Wenlong Tang, Jingyu Wang, **Xin Cao※**, Fengjun Zhao, Kang Li, Guohua Geng, Mingquan Zhou. “SPPD: A Novel Reassembly Method for 3D Terracotta Warrior Fragments Based on Fracture Surface Information”, ISPRS Int. J. Geo-Inf. (2021).    
++ **Xin Cao**, Jun Zhang, Jianan Yang, Chunxiao Fan, Fengjun Zhao, Wei Zhou, Lin Wang, Guohua Geng, Mingquan Zhou and Xueli Chen*. “A deep unsupervised clustering-based post-processing framework for high-fidelity Cerenkov Luminescence Tomography”, Journal of Applied Physics (2020).     
++ Guohue Geng, Jie Liu, **Xin Cao※**, Yangyang Liu, Wei Zhou, Fengjun Zhao, Linzhi Su, and Mingquan Zhou. “Simplification Method for 3D Terracotta WarriorFragments Based on Local Structure and Deep Neural networks”, Journal of the Optical Society of America A (2020).    
++ Kang Yang, **Xin Cao※**, Guohua Geng, Kang Li and Mingquan Zhou. “Classification of 3D Terracotta Warriors fragments based on geospatial and texture information”, Journal of Visualization (2020).     
++ Wei Zhou, Xingxing Hao, Kaidi Wang, Zhenyang Zhang, Yongxiang Yu, Haonan Su, Kang Li, **Xin Cao※**, Arjan Kuijper. “Improved estimation of motion blur parameters for restoration from a single image”, Plos One 9 (2020).       
++ B. Wang, P. Jiao, H. Yi, **Xin Cao**, F. Zhao, Y. Hou, and X. He, "The image reconstruction for fluorescence molecular tomography via a non-uniform mesh," Optical Review 27, 31-38 (2020).       
++ Fengjun Zhao, Bin Wu, Fei Chen, **Xin Cao**, Huangjian Yi, Yuqing Hou, Xiaowei He, and Jimin Liang, "An automatic multi-class coronary atherosclerosis plaque detection and classification framework," Medical & Biological Engineering & Computing 57, 245-257 (2019).     
++ Xiao Wei, Di Lu, **Xin Cao※**, Linzhi Su, Lin Wang, Hongbo Guo, Yuqing Hou, and Xiaowei He, "A fuzzy artificial neural network-based method for Cerenkov luminescence tomography," Aip Advances 9 (2019).     
++ Lin Wang, Honghao Cao, **Xin Cao**, Shenghan Ren, Ke Li, Yonghua Zhan, Xueli Chen, and Xiaowei He, "Adaptively Hybrid 3rd Simplified Spherical Harmonics With Diffusion Equation-Based Multispectral Cerenkov Luminescence Tomography," Ieee Access 7, 160779-160785 (2019).      
++ Chunxiao Fan, Fu Li, **Xin Cao**, Biao Qian, and Peipei Song, "A parallel arithmetic for hardware realization of digital filters," Microelectronics Journal 83, 131-136 (2019).      
++ **Xin Cao**, Xiao Wei, Feng Yan, Lin Wang, Linzhi Su, Yuqing Hou, Guohua Geng, and Xiaowei He, "A Novel Stacked Denoising Autoencoder-Based Reconstruction Framework for Cerenkov Luminescence Tomography," Ieee Access 7, 85178-85189 (2019).      
++ Fengjun Zhao, Feifei Sun, Yuqing Hou, Yanrong Chen, Dongmei Chen, **Xin Cao**, Huangjian Yi, Bin Wang, Xiaowei He, and Jimin Liang, "A monocentric centerline extraction method for ring-like blood vessels," Medical & Biological Engineering & Computing 56, 695-707 (2018).      
++ Fengjun Zhao, Yibing Chen, Fei Chen, Xuelei He, **Xin Cao**, Yuqing Hou, Huangjian Yi, Xiaowei He, and Jimin Liang, "Semi-Supervised Cerebrovascular Segmentation by Hierarchical Convolutional Neural Network," Ieee Access 6, 67841-67852 (2018).      
++ Lin Wang, **Xin Cao**, Qingyun Ren, Xueli Chen, and Xiaowei He, "Hybrid model based unified scheme for endoscopic Cerenkov and radio-luminescence tomography: Simulation demonstration," Journal of Applied Physics 123 (2018).      
++ Lin Wang, **Xin Cao※**, Xu Cao, Fei Kang, Yonghua Zhan, Xiaowei He, Jing Wang, and Xueli Chen, "Feasibility study of radioluminescence film imaging: an optical way to detect medical radionuclides," Optoelectronics and Advanced Materials-Rapid Communications 12, 542-546 (2018).      
++ Linzhi Su, and **Xin Cao※**, "Fuzzy autoencoder for multiple change detection in remote sensing images," Journal of Applied Remote Sensing 12 (2018).      
++ **Xin Cao**, Yi Sun, Fei Kang, Lin Wang, Huangjian Yi, Fengjun Zhao, Linzhi Su, and Xiaowei He, "A novel denoising framework for cerenkov luminescence imaging based on spatial information improved clustering and curvature-driven diffusion," Journal of Innovative Optical Health Sciences 11 (2018).      
++ Yonghua Zhan, Xu Cao, **Xin Cao**, Yingchao Li, Jie Tian, Jimin Liang, and Xueli Chen, "Silica Cross-Linked Micellar Core-Shell Nanoparticles Encapsulating IR-780 with Strong Bright and Good Biocompatibility for Optical Imaging In Vivo," Journal of Biomedical Nanotechnology 13, 144-154 (2017).       
++ **Xin Cao**, Yonghua Zhan, Xu Cao, Jimin Liang, and Xueli Chen, "Harnessing the Power of Cerenkov Luminescence Imaging for Gastroenterology: Cerenkov Luminescence Endoscopy," Current Medical Imaging Reviews 13, 50-57 (2017).        
++ Yonghua Zhan, Xu Cao, **Xin Cao**, Fei Kang, Jing Wang, Jimin Linag, Zhimin Li, and Xueli Chen, "Simultaneous multimodali molecular imaging with neodymium-doped Y3Al5O12 nanoparticles," Optoelectronics and Advanced Materials-Rapid Communications 10, 685-688 (2016).       
++ Hao Hu+, **Xin Cao+**, Fei Kang, Min Wang, Yenan Lin, Muhan Liu, Shujun Li, Liping Yao, Jie Liang, Jimin Liang, Yongzhan Nie, Xueli Chen, Jing Wang, and Kaichun Wu, "Feasibility study of novel endoscopic Cerenkov luminescence imaging system in detecting and quantifying gastrointestinal disease: first human results," European Radiology 25, 1814-1822 (2015).        
++ **Xin Cao**, Xueli Chen, Fei Kang, Yonghua Zhan, Xu Cao, Jing Wang, Jimin Liang, and Jie Tian, "Intensity Enhanced Cerenkov Luminescence Imaging Using Terbium-Doped Gd2O2S Microparticles," Acs Applied Materials & Interfaces 7, 11775-11782 (2015).      
++ **Xin Cao**, Xueli Chen, Fei Kang, Xu Cao, Yonghua Zhan, Jing Wang, Kaichun Wu, and Jimin Liang, "Sensitivity improvement of Cerenkov luminescence endoscope with terbium doped Gd2O2S nanoparticles," Applied Physics Letters 106 (2015).       
++ **Xin Cao**, Xueli Chen, Fei Kang, Yenan Lin, Muhan Liu, Hao Hu, Yongzhan Nie, Kaichun Wu, Jing Wang, Jimin Liang, and Jie Tian, "Performance evaluation of endoscopic Cerenkov luminescence imaging system: in vitro and pseudotumor studies," Biomedical Optics Express 5, 3660-3670 (2014).         
++ Xueli Chen, Jimin Liang, **Xin Cao**, Defu Yang, Dongmei Chen, Jorge Ripoll, and Jie Tian, "Feasibility study of endoscopic x-ray luminescence computed tomography: Simulation demonstration and phantom application," Journal of Applied Physics 114 (2013).         
 
 国内期刊
 ===
-·周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣**。结构与纹理融合的三维文物孔洞修复方法。光学精密工程，2021   
-·卢笛; 卫潇; **曹欣**; 贺小伟; 侯榆青。基于自编码器的荧光分子断层成像快速重建。光学学报，2019    
-·贺小伟; 卫潇; **曹欣**; 侯榆青。一种基于模糊C均值聚类的新型单视图切伦科夫发光断层成像方法。光学学报，2018   
-·贺小伟; 孙怡; 卫潇; 卢笛; **曹欣**; 侯榆青。基于空间信息改进聚类的切伦科夫荧光图像去噪算法。光学学报，2018   
-·侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。结合流形正则和变量分离近似稀疏重构的荧光分子断层成像。光学学报，2018     
-·侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像。光学学报，2017     
++ 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。结构与纹理融合的三维文物孔洞修复方法。光学精密工程，2021   
++ 卢笛; 卫潇; **曹欣※**; 贺小伟; 侯榆青。基于自编码器的荧光分子断层成像快速重建。光学学报，2019    
++ 贺小伟; 卫潇; **曹欣※**; 侯榆青。一种基于模糊C均值聚类的新型单视图切伦科夫发光断层成像方法。光学学报，2018   
++ 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。基于空间信息改进聚类的切伦科夫荧光图像去噪算法。光学学报，2018   
++ 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。结合流形正则和变量分离近似稀疏重构的荧光分子断层成像。光学学报，2018     
++ 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像。光学学报，2017     
