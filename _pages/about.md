@@ -1,12 +1,10 @@
 ---
+layout: single
+title: ""
 permalink: /
-title: " "
-excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 教育经历
 ====
 ·2011.08-2016.06，西安电子科技大学，电子工程学院，模式识别与智能系统博士，导师；梁继民教授  
