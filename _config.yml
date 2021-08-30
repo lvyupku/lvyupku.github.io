@@ -175,16 +175,13 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  members:
     output: true
     permalink: /:collection/:path/
-  talks:
+  enrollment:
     output: true
     permalink: /:collection/:path/
 
@@ -221,7 +218,7 @@ defaults:
   # _科研团队
   - scope:
       path: ""
-      type: portfolio
+      type: members
     values:
       layout: single
       author_profile: true
@@ -230,7 +227,7 @@ defaults:
   # _招生信息
   - scope:
       path: ""
-      type: talks
+      type: enrollment
     values:
       layout: talk
       author_profile: true
