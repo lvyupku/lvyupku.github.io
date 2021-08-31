@@ -6,6 +6,7 @@ author_profile: true
 ---
 国际期刊
 ===
+
 | |
 | :---- |
 | Wenmin Yao, Tong Chu, Wenlong Tang, Jingyu Wang, **Xin Cao※**, Fengjun Zhao, Kang Li, Guohua Geng, Mingquan Zhou. “SPPD: A Novel Reassembly Method for 3D Terracotta Warrior Fragments Based on Fracture Surface Information”, ISPRS Int. J. Geo-Inf. (2021).  |
@@ -36,6 +37,7 @@ author_profile: true
         
 国内期刊
 ===
+
 |  |
 | :---- |
 | 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。结构与纹理融合的三维文物孔洞修复方法。光学精密工程，2021 |  
