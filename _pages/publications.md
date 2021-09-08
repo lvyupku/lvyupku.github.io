@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+| Jie liu, **Xin Cao**, Pingchuan Zhang, Xueli Xu, Yangyang Liu, Guohua Geng, Fengjun Zhao, Kang Li, Mingquan Zhou. “AMS-Net: An attention-based multi-scale network for classification of 3D Terracotta Warrior fragments”, Remote Sensing. (2021).  |
 | Wenmin Yao, Tong Chu, Wenlong Tang, Jingyu Wang, **Xin Cao※**, Fengjun Zhao, Kang Li, Guohua Geng, Mingquan Zhou. “SPPD: A Novel Reassembly Method for 3D Terracotta Warrior Fragments Based on Fracture Surface Information”, ISPRS Int. J. Geo-Inf. (2021).  |
 | **Xin Cao**, Jun Zhang, Jianan Yang, Chunxiao Fan, Fengjun Zhao, Wei Zhou, Lin Wang, Guohua Geng, Mingquan Zhou and Xueli Chen*. “A deep unsupervised clustering-based post-processing framework for high-fidelity Cerenkov Luminescence Tomography”, Journal of Applied Physics (2020). |
 | Guohue Geng, Jie Liu, **Xin Cao※**, Yangyang Liu, Wei Zhou, Fengjun Zhao, Linzhi Su, and Mingquan Zhou. “Simplification Method for 3D Terracotta WarriorFragments Based on Local Structure and Deep Neural networks”, Journal of the Optical Society of America A (2020). |
