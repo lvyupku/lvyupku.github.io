@@ -86,7 +86,7 @@ author:
   location         : "中国·西安"
   employer         :
   wechat           : wojiaocaoxin
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=5iI5G0IAAAAJ&view_op=list_works&sortby=pubdate"
   email            : xin_cao@163.com
   researchgate     : "https://www.researchgate.net/profile/Xin-Cao-7"
   uri              :
@@ -232,6 +232,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+ 
 
 # Sass/SCSS
 sass:
