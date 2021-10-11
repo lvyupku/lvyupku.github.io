@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+| Wei Zhou, Xingxing Hao, Jin Cui, Yongxiang Yu, **Xin Cao※**, Arjan Kuijper. “A self-adaptive learning method for motion blur kernel estimation of the single image”, Optik. (2021).  |
 | Jie liu†, **Xin Cao†**, Pingchuan Zhang, Xueli Xu, Yangyang Liu, Guohua Geng, Fengjun Zhao, Kang Li, Mingquan Zhou. “AMS-Net: An attention-based multi-scale network for classification of 3D Terracotta Warrior fragments”, Remote Sensing. (2021) (equal contribution).  |
 | Wenmin Yao, Tong Chu, Wenlong Tang, Jingyu Wang, **Xin Cao※**, Fengjun Zhao, Kang Li, Guohua Geng, Mingquan Zhou. “SPPD: A Novel Reassembly Method for 3D Terracotta Warrior Fragments Based on Fracture Surface Information”, ISPRS Int. J. Geo-Inf. (2021).  |
 | **Xin Cao**, Jun Zhang, Jianan Yang, Chunxiao Fan, Fengjun Zhao, Wei Zhou, Lin Wang, Guohua Geng, Mingquan Zhou and Xueli Chen*. “A deep unsupervised clustering-based post-processing framework for high-fidelity Cerenkov Luminescence Tomography”, Journal of Applied Physics (2020). |
