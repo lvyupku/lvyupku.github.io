@@ -9,7 +9,7 @@ author_profile: true
 
 | |
 | :---- |
-| Xueli Xu, Guohua Geng, **Xin Cao※**, Kang Li and Mingquan Zhou. “TDNet: Transformer-based network for point cloud denoising”, Journal of the Optical Society of America A. (2021).  |
+| Xueli Xu, Guohua Geng, **Xin Cao※**, Kang Li and Mingquan Zhou. “TDNet: Transformer-based network for point cloud denoising”, Applied Optics. (2021).  |
 | Tong Chu, Wenmin Yao, Jie Liu, Xueli Xu, Haiyang Nan, **Xin Cao※**, Kang Li, and Mingquan Zhou. “A novel hole-filling framework by combining structural and textural information for the 3D Terracotta Warriors”, Journal of Applied Remote Sensing. (2021).  |
 | Wei Zhou, Xingxing Hao, Jin Cui, Yongxiang Yu, **Xin Cao※**, Arjan Kuijper. “A self-adaptive learning method for motion blur kernel estimation of the single image”, Optik. (2021).  |
 | Jie liu†, **Xin Cao†**, Pingchuan Zhang, Xueli Xu, Yangyang Liu, Guohua Geng, Fengjun Zhao, Kang Li, Mingquan Zhou. “AMS-Net: An attention-based multi-scale network for classification of 3D Terracotta Warrior fragments”, Remote Sensing. (2021) (equal contribution).  |
