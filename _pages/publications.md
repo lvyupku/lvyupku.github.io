@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Yibing Chen,Siqi Fan,Yongfeng Chen,Chang Che,**Xin Cao**,Xiaowei He,Xiaolei Song,Fengjun Zhao. “Vessel segmentation from volumetric images: a multi-scale double-pathway network with class-balanced loss at the voxel level”, MEDICAL PHYSICS. (2021).  |
 | Xueli Xu, Guohua Geng, **Xin Cao※**, Kang Li and Mingquan Zhou. “TDNet: Transformer-based network for point cloud denoising”, Applied Optics. (2021).  |
 | Tong Chu, Wenmin Yao, Jie Liu, Xueli Xu, Haiyang Nan, **Xin Cao※**, Kang Li, and Mingquan Zhou. “A novel hole-filling framework by combining structural and textural information for the 3D Terracotta Warriors”, Journal of Applied Remote Sensing. (2021).  |
 | Wei Zhou, Xingxing Hao, Jin Cui, Yongxiang Yu, **Xin Cao※**, Arjan Kuijper. “[A self-adaptive learning method for motion blur kernel estimation of the single image](https://caoxin918.github.io/files/zhouwei-optik-2021.pdf)”, Optik. (2021).  |
