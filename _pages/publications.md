@@ -4,7 +4,7 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-国际期刊
+国际期刊/会议
 ===
 
 | |
