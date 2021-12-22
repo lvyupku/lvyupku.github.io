@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Yao Hu, Wei Zhou, Guohua Geng, Kang Li, Xingxing Hao, ,**Xin Cao**. “[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)](https://caoxin918.github.io/files/Huyao2021.pdf)”, The 5th International Conference on Computer Science and Application Engineering. (2021).  |
 |Yibing Chen,Siqi Fan,Yongfeng Chen,Chang Che,**Xin Cao**,Xiaowei He,Xiaolei Song,Fengjun Zhao. “[Vessel segmentation from volumetric images: a multi-scale double-pathway network with class-balanced loss at the voxel level](https://caoxin918.github.io/files/zhao-mp-2021.pdf)”, MEDICAL PHYSICS. (2021).  |
 | Xueli Xu, Guohua Geng, **Xin Cao※**, Kang Li and Mingquan Zhou. “TDNet: Transformer-based network for point cloud denoising”, Applied Optics. (2021).  |
 | Tong Chu, Wenmin Yao, Jie Liu, Xueli Xu, Haiyang Nan, **Xin Cao※**, Kang Li, and Mingquan Zhou. “[Hole-filling framework by combining structural and textural information for the 3D Terracotta Warriors](https://caoxin918.github.io/files/JARS-chutong2021.pdf)”, Journal of Applied Remote Sensing. (2021).  |
