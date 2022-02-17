@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+| Haolin Wang, Zhonghao Wang, Jingle Wang, Kang Li, Guohua Geng, Fei Kang, **Xin Cao※**, "[ICA-Unet: An Improved U-Net Network for Brown Adipose Tissue Segmentation](https://caoxin918.github.io)" Journal of Innovative Optical Health Sciences (2022).  |  
 |Yao Hu, Wei Zhou, Guohua Geng, Kang Li, Xingxing Hao, **Xin Cao**. “[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)](https://caoxin918.github.io/files/Huyao2021.pdf)”, The 5th International Conference on Computer Science and Application Engineering. (2021).  |
 |Yibing Chen,Siqi Fan,Yongfeng Chen,Chang Che,**Xin Cao**,Xiaowei He,Xiaolei Song,Fengjun Zhao. “[Vessel segmentation from volumetric images: a multi-scale double-pathway network with class-balanced loss at the voxel level](https://caoxin918.github.io/files/zhao-mp-2021.pdf)”, MEDICAL PHYSICS. (2021).  |
 | Xueli Xu, Guohua Geng, **Xin Cao※**, Kang Li and Mingquan Zhou. “TDNet: Transformer-based network for point cloud denoising”, Applied Optics. (2021).  |
