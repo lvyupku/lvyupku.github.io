@@ -11,7 +11,6 @@ author_profile: true
 | :---- |
 | Linzhi Su, Qiaoyun Xie, Fengjun Zhao, **Xin Cao※**. “[Change Detection for Multi-Spectral Images Using Modified Semantic Segmentation Network](https://caoxin918.github.io)”, Journal of Applied Remote Sensing. (2022).  |
 | Haolin Wang, Zhonghao Wang, Jingle Wang, Kang Li, Guohua Geng, Fei Kang, **Xin Cao※**, "[ICA-Unet: An Improved U-Net Network for Brown Adipose Tissue Segmentation](https://caoxin918.github.io)" Journal of Innovative Optical Health Sciences (2022).  |  
-|Yao Hu, Wei Zhou, Guohua Geng, Kang Li, Xingxing Hao, **Xin Cao**. “[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)](https://caoxin918.github.io/files/Huyao2021.pdf)”, The 5th International Conference on Computer Science and Application Engineering. (2021).  |
 |Yibing Chen,Siqi Fan,Yongfeng Chen,Chang Che,**Xin Cao**,Xiaowei He,Xiaolei Song,Fengjun Zhao. “[Vessel segmentation from volumetric images: a multi-scale double-pathway network with class-balanced loss at the voxel level](https://caoxin918.github.io/files/zhao-mp-2021.pdf)”, MEDICAL PHYSICS. (2021).  |
 | Xueli Xu, Guohua Geng, **Xin Cao※**, Kang Li and Mingquan Zhou. “TDNet: Transformer-based network for point cloud denoising”, Applied Optics. (2021).  |
 | Tong Chu, Wenmin Yao, Jie Liu, Xueli Xu, Haiyang Nan, **Xin Cao※**, Kang Li, and Mingquan Zhou. “[Hole-filling framework by combining structural and textural information for the 3D Terracotta Warriors](https://caoxin918.github.io/files/JARS-chutong2021.pdf)”, Journal of Applied Remote Sensing. (2021).  |
@@ -58,3 +57,52 @@ author_profile: true
 | 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。基于空间信息改进聚类的切伦科夫荧光图像去噪算法。光学学报，2018  | 
 | 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。结合流形正则和变量分离近似稀疏重构的荧光分子断层成像。光学学报，2018  |   
 | 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像。光学学报，2017    | 
+
+国际/国内会议
+===
+
+|  |
+| :---- |
+|Yao Hu, Wei Zhou, Guohua Geng, Kang Li, Xingxing Hao, **Xin Cao**. “[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)](https://caoxin918.github.io/files/Huyao2021.pdf)”, The 5th International Conference on Computer Science and Application Engineering. (2021).  |
+| **Xin Cao**, et al. Improving sensitivity of endoscopy-based Cerenkov luminescence imaging system using radioluminescence microparticles. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2015, Jun. 2015. (Poster presentation) |
+| **Xin Cao**, et al. A novel imaging algorithm for endoscopic Cerenkov luminescence tomography. World Molecular Imaging Congress 2014, Sep. 2014. (Poster presentation) |
+| **Xin Cao**, et al. Sensitivity evaluation of endoscopic Cerenkov luminescence imaging system. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2014, Jun. 2014. (Poster presentation) |
+| **Xin Cao**, et al. A feasibility study of an endoscopic Cerenkov luminescence imaging system. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2013, Jun. 2013. (Oral presentation) |
+| **Xin Cao**, et al. Calibration of the endoscopic Cerenkov luminescence imaging system. World Molecular Imaging Congress 2013, Sep. 2013. (Poster presentation) |
+| Xueli Chen, **Xin Cao**, et al. Monitoring ApoG2 therapy in gastric and colorectal cancers with endoscopic Cerenkov luminescence imaging and positron emission tomography. World Molecular Imaging Congress 2014, Sep. 2014. (Oral presentation) |
+| Xueli Chen, Defu Yang, **Xin Cao**, et al. Specific modeling of light transport in biological tissues for Cerenkov luminescence tomography. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2014, Jun. 2014. (Oral presentation) |
+| Shouping Zhu,**Xin Cao**, et al. 3DBoneView : A 3D bone quantification and visualization software for micro-CT imaging. World Molecular Imaging Congress 2012, Sep. 2012. (Poster presentation) |
+
+受理/授权发明专利
+===
+
+|  |
+| :---- |
+| 耿国华;姚文敏;周明全;**曹欣**;吉晓瑶;刘景怡;刘喆;张军;褚彤。一种基于断裂面信息的兵马俑碎块拼接方法及系统。申请专利号：CN202110225329.8 |
+| 周明全;褚彤;耿国华;**曹欣**;李康。基于多尺度点云上采样的三维模型建立、修复方法及系统。申请专利号：CN202010962487.7 |
+| **曹欣**;闫峰;杨佳楠;王忠昊;赵凤军;李康;耿国华;周明全。一种基于多层感知网络的契伦科夫荧光断层成像重建方法。申请专利号：CN202010873011.6 |
+| 赵凤军;张涵;朱元强;范思琪;任静芳;**曹欣**;彭进业;贺小伟;侯榆青。一种结合多种网络的半监督冠状动脉分割系统及分割方法。申请专利号：CN202010160281.2 |
+| 赵凤军;赵嘉铭;陈一兵;**曹欣**;易黄建;贺小伟;彭进业;侯榆青。结合卷积神经网络与循环神经网络的血管中心线追踪方法。申请专利号：CN201911108172.X |
+| 宋小磊;焦璞;易黄建;梁嘉翔;赵凤军;**曹欣**;贺小伟;侯榆青。一种荧光分子断层成像可行域优化方法。授权专利号：CN201910014241.4 |
+| 赵凤军;胡昊文;侯榆青;吴斌;**曹欣**;易黄建;王宾;贺小伟。基于关键点检测和深度学习的软组织器官图像分割方法。授权专利号：CN201810772895.9 |
+| 易黄建;焦璞;任睿思;赵凤军;**曹欣**;贺小伟;侯榆青。一种基于三支决策的荧光目标重建结果后处理方法。授权专利号：CN201810425754.X |
+| 贺小伟;胡跃林;易黄建;侯榆青;王宾;赵凤军;**曹欣**。一种荧光分子断层成像目标可行域选取方法。授权专利号：CN201711078146.8 |
+| 赵凤军;吴斌;贺小伟;侯榆青;易黄建;**曹欣**;王宾。一种基于高维空间变换的数据扩增方法、机器识别系统。授权专利号：CN201710899032.3 |
+| 侯榆青;孙飞飞;赵凤军;贺小伟;陈一兵;高培;王宾;易黄建;**曹欣**。基于中心线提取的血管图像分割方法、核磁共振成像系统。授权专利号：CN201710775038.X |
+| 侯榆青;薛花;贺小伟;**曹欣**;孙怡;卫潇。单视图切伦科夫发光断层成像重建方法。授权专利号：CN201710726261.5 |
+| **曹欣**;孙怡;贺小伟;卫潇;薛花;侯榆青;易黄建;赵凤军。一种基于放射荧光引导的内窥式切伦科夫荧光成像系统。申请专利号：CN201710613487.4 |
+| 侯榆青;高培;赵凤军;贺小伟;王宾;易黄建;**曹欣**。基于随机森林与统计模型的小鼠CT图像肾脏分割方法。申请专利号：CN201710537961.X |
+| 金明阳;侯榆青;易黄建;魏红娜;王宾;赵凤军;**曹欣**;贺小伟。基于随机变量交替方向乘子法荧光分子断层成像重建方法。申请专利号：CN201710083699.6 |
+| **曹欣**;康飞;贺小伟;薛花;孙怡;卫潇;易黄建;赵凤军;汪静。一种基于放射荧光材料涂板的医用放射性核素成像系统。申请专利号：CN201611083821.1 |
+| 赵凤军;陈雁蓉;贺小伟;贺小慧;高培;何雪磊;孙飞飞;**曹欣**;易黄建;侯榆青。基于统计形状模型的医学图像Graph Cut分割方法。授权专利号：CN201610838092.X |
+| 陈雪利，**曹欣**，梁继民，林叶楠，杨德富，朱守平，屈晓超，陈多芳，田捷。一种医用经内窥镜切伦科夫荧光成像系统。授权专利号：ZL201310261548.7 |
+| 陈雪利，**曹欣**，梁继民，林叶楠，杨德福，屈晓超，陈多芳，田捷。深度和强度可调式的探头激光共聚焦显微内窥镜系统。授权专利号：201310244603.1 |
+| 陈雪利，林叶楠，**曹欣**，梁继民，屈晓超，曹旭，朱守平，陈多芳，田捷。激发荧光双目内窥系统。授权专利号：201310665419 |
+| 陈雪利，张歧坦，梁继民，杨德富，**曹欣**，陈多芳，朱守平，屈晓超，田捷。一种生物发光断层成像重建方法。授权专利号：ZL201310259527.1 |
+
+软件著作权
+===
+
+|  |
+| :---- |
+| 康菲，汪静，张月华，**曹欣**。西京医院放射性同位素活度计算器。登记号：2016SR005300 |
