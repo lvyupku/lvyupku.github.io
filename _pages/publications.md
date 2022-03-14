@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+| Jingyi Wang, Xing Lv, Weicheng Huang, Zhiyong Quan, Guiyu Li, Shuo Wu, Yirong Wang, Zhaojuan Xie, Yuhao Yan, Xiang Li, Wenhui Ma, Weidong Yang, **Xin Cao※**, Fei Kang, Jing Wang. “[Establishment and optimization of radiomics algorithms for prediction of KRAS gene mutation by integration of NSCLC gene mutation mutual exclusion information](https://caoxin918.github.io)”, Frontiers in Pharmacology. (2022).  |
 | Linzhi Su, Qiaoyun Xie, Fengjun Zhao, **Xin Cao※**. “[Change Detection for Multi-Spectral Images Using Modified Semantic Segmentation Network](https://caoxin918.github.io)”, Journal of Applied Remote Sensing. (2022).  |
 | Haolin Wang, Zhonghao Wang, Jingle Wang, Kang Li, Guohua Geng, Fei Kang, **Xin Cao※**, "[ICA-Unet: An Improved U-Net Network for Brown Adipose Tissue Segmentation](https://caoxin918.github.io)" Journal of Innovative Optical Health Sciences (2022).  |  
 |Yibing Chen,Siqi Fan,Yongfeng Chen,Chang Che,**Xin Cao**,Xiaowei He,Xiaolei Song,Fengjun Zhao. “[Vessel segmentation from volumetric images: a multi-scale double-pathway network with class-balanced loss at the voxel level](https://caoxin918.github.io/files/zhao-mp-2021.pdf)”, MEDICAL PHYSICS. (2021).  |
