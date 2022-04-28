@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+| Jie Liu+ , Yu Tian+ , Guohua Geng + ,Haolin Wang , Da Song, Kang Li , Mingquan Zhou and **Xin Cao※**. “[UMA-Net: an unsupervised representation learning 2 network for 3D point cloud classification](https://caoxin918.github.io)”, Journal of the Optical Society of America A. (2022).  |
 | Weicheng Huang† , Jingyi Wang† , Haolin Wang , Yuxiang Zhang , Fengjun Zhao ,Kang Li , Linzhi Su*, Fei Kang* and **Xin Cao※**. “[PET/CT Based EGFR Mutation Status Classification of NSCLC Using Deep Learning Features and Radiomics Features](https://caoxin918.github.io/files/2022黄威橙fphar.pdf)”, Frontiers in Pharmacology. (2022). |
 | Yong Ren+, Tong Chu+, Yifei Jiao, Mingquan Zhou*, Guohua Geng, Kang Li and **Xin Cao※**. “[Multi-scale upsampling GAN based Hole-filling Framework for High-quality 3D Cultural heritage artifacts](https://caoxin918.github.io)”, Applied Sciences. (2022).  |
 | Jingyi Wang, Xing Lv, Weicheng Huang, Zhiyong Quan, Guiyu Li, Shuo Wu, Yirong Wang, Zhaojuan Xie, Yuhao Yan, Xiang Li, Wenhui Ma, Weidong Yang, **Xin Cao※**, Fei Kang※, Jing Wang※. “[Establishment and optimization of radiomics algorithms for prediction of KRAS gene mutation by integration of NSCLC gene mutation mutual exclusion information](https://caoxin918.github.io/files/2022王静怡黄威橙fphar.pdf)”, Frontiers in Pharmacology. (2022).  |
