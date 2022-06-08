@@ -9,7 +9,7 @@ author_profile: true
 
 | |
 | :---- |
-| Xueli Xu, Kang Li※, Yifei Ma, Guohua Geng, Jingyu Wang, Mingquan Zhou and **Xin Cao※**. “[Feature-preserving simplification framework for 3D point cloud](https://caoxin918.github.io)”, Scientific Reports. (2022).  |
+| Xueli Xu, Kang Li※, Yifei Ma, Guohua Geng, Jingyu Wang, Mingquan Zhou and **Xin Cao※**. “[Feature-preserving simplification framework for 3D point cloud]([https://caoxin918.github.io](https://caoxin918.github.io/files/xuxueli2022SR.pdf))”, Scientific Reports. (2022).  |
 | Jie Liu+, Yu Tian+, Guohua Geng+※, Haolin Wang, Da Song, Kang Li, Mingquan Zhou and **Xin Cao※**. “[UMA-Net: an unsupervised representation learning network for 3D point cloud classification](https://caoxin918.github.io)”, Journal of the Optical Society of America A. (2022).  |
 | Weicheng Huang† , Jingyi Wang† , Haolin Wang , Yuxiang Zhang , Fengjun Zhao ,Kang Li , Linzhi Su*, Fei Kang* and **Xin Cao※**. “[PET/CT Based EGFR Mutation Status Classification of NSCLC Using Deep Learning Features and Radiomics Features](https://caoxin918.github.io/files/2022黄威橙fphar.pdf)”, Frontiers in Pharmacology. (2022). |
 | Yong Ren+, Tong Chu+, Yifei Jiao, Mingquan Zhou※, Guohua Geng, Kang Li※ and **Xin Cao※**. “[Multi-scale upsampling GAN based Hole-filling Framework for High-quality 3D Cultural heritage artifacts](https://caoxin918.github.io/files/applsci任勇.pdf)”, Applied Sciences. (2022).  |
