@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+| Weitong Li, Mengfei Du, Yi Chen, Haolin Wang, Linzhi Su※, Huangjian Yi, Fengjun Zhao, Kang Li, Lin Wang and **Xin Cao※**. “[GCR-Net: 3D Graph Convolution-based Residual Network for Robust Reconstruction in Cerenkov Luminescence Tomography](https://caoxin918.github.io)”, Journal of Innovative Optical Health Sciences. (2022).  |
 | Yi Chen, Weitong Li, Mengfei Du, Linzhi Su※, Huangjian Yi, Fengjun Zhao, Kang Li, Lin Wang and **Xin Cao※**. “[Elastic Net-based Non-Negative Iterative Three-Operator Splitting Strategy for Cerenkov Luminescence Tomography](https://caoxin918.github.io)”, Optics Express. (2022).  |
 | Xueli Xu, Kang Li※, Yifei Ma, Guohua Geng, Jingyu Wang, Mingquan Zhou and **Xin Cao※**. “[Feature-preserving simplification framework for 3D point cloud](https://caoxin918.github.io/files/xuxueli2022SR.pdf)”, Scientific Reports. (2022).  |
 | Jie Liu+, Yu Tian+, Guohua Geng+※, Haolin Wang, Da Song, Kang Li, Mingquan Zhou and **Xin Cao※**. “[UMA-Net: an unsupervised representation learning network for 3D point cloud classification](https://caoxin918.github.io/files/josaa-2022-刘杰.pdf)”, Journal of the Optical Society of America A. (2022).  |
