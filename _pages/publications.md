@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+| Yu Tian, Da Song, Mengna Yang, Jie Liu※, Guohua Geng, Kang Li, Mingquan Zhou and **Xin Cao※**. “[ULD-Net：3D Unsupervised Learning by Dense Similarity Learning with Equivariant-Crop](https://caoxin918.github.io)”, Journal of the Optical Society of America A. (2022).  |
 | Yi Chen, Mengfei Du, Weitong Li, Linzhi Su※, Huangjian Yi, Fengjun Zhao, Kang Li, Lin Wang and **Xin Cao※**. “[ABPO-TVSCAD: Alternating Bregman Proximity Operators Approach Based on TVSCAD Regularization for Bioluminescence Tomography](https://caoxin918.github.io)”, Physics in Medicine and Biology. (2022).  |
 | Mengfei Du, Yi Chen, Weitong Li, Linzhi Su※, Huangjian Yi, Fengjun Zhao, Kang Li, Lin Wang and **Xin Cao※**. “[MSCN-NET: Multi-Stage Cascade Neural Network based on attention mechanism for Cerenkov luminescence tomography](https://caoxin918.github.io)”, Journal of Applied Physics. (2022).  |
 | Weitong Li, Mengfei Du, Yi Chen, Haolin Wang, Linzhi Su※, Huangjian Yi, Fengjun Zhao, Kang Li, Lin Wang and **Xin Cao※**. “[GCR-Net: 3D Graph Convolution-based Residual Network for Robust Reconstruction in Cerenkov Luminescence Tomography](https://caoxin918.github.io)”, Journal of Innovative Optical Health Sciences. (2022).  |
