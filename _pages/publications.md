@@ -21,7 +21,7 @@ author_profile: true
 | Weicheng Huang† , Jingyi Wang† , Haolin Wang , Yuxiang Zhang , Fengjun Zhao ,Kang Li , Linzhi Su*, Fei Kang* and **Xin Cao※**. “[PET/CT Based EGFR Mutation Status Classification of NSCLC Using Deep Learning Features and Radiomics Features](https://caoxin918.github.io/files/2022黄威橙fphar.pdf)”, Frontiers in Pharmacology. (2022). |
 | Yong Ren+, Tong Chu+, Yifei Jiao, Mingquan Zhou※, Guohua Geng, Kang Li※ and **Xin Cao※**. “[Multi-scale upsampling GAN based Hole-filling Framework for High-quality 3D Cultural heritage artifacts](https://caoxin918.github.io/files/applsci任勇.pdf)”, Applied Sciences. (2022).  |
 | Jingyi Wang, Xing Lv, Weicheng Huang, Zhiyong Quan, Guiyu Li, Shuo Wu, Yirong Wang, Zhaojuan Xie, Yuhao Yan, Xiang Li, Wenhui Ma, Weidong Yang, **Xin Cao※**, Fei Kang※, Jing Wang※. “[Establishment and optimization of radiomics algorithms for prediction of KRAS gene mutation by integration of NSCLC gene mutation mutual exclusion information](https://caoxin918.github.io/files/2022王静怡黄威橙fphar.pdf)”, Frontiers in Pharmacology. (2022).  |
-| Linzhi Su, Qiaoyun Xie, Fengjun Zhao, **Xin Cao※**. “[Change Detection for Multi-Spectral Images Using Modified Semantic Segmentation Network](https://caoxin918.github.io)”, Journal of Applied Remote Sensing. (2022).  |
+| Linzhi Su, Qiaoyun Xie, Fengjun Zhao, **Xin Cao※**. “[Change Detection for Multi-Spectral Images Using Modified Semantic Segmentation Network](https://caoxin918.github.io/2022苏临之.pdf)”, Journal of Applied Remote Sensing. (2022).  |
 | Haolin Wang, Zhonghao Wang, Jingle Wang, Kang Li, Guohua Geng, Fei Kang※, **Xin Cao※**, "[ICA-Unet: An Improved U-Net Network for Brown Adipose Tissue Segmentation](https://caoxin918.github.io/files/王昊霖2022.pdf)" Journal of Innovative Optical Health Sciences (2022).  |  
 |Yibing Chen,Siqi Fan,Yongfeng Chen,Chang Che,**Xin Cao**,Xiaowei He,Xiaolei Song,Fengjun Zhao※. “[Vessel segmentation from volumetric images: a multi-scale double-pathway network with class-balanced loss at the voxel level](https://caoxin918.github.io/files/zhao-mp-2021.pdf)”, MEDICAL PHYSICS. (2021).  |
 |Xiaoyang Xie, Lijuan Yang※, Fengjun Zhao※, Dong Wang, Hui Zhang, Xuelei He, **Xin Cao**, Huangjian Yi, Xiaowei He and Yuqing Hou※. “[A deep learning model combining multimodal radiomics, clinical and imaging features for differentiating ocular adnexal lymphoma from idiopathic orbital inflammation](https://caoxin918.github.io/files/EuropeanRadiology2021.pdf)”, European Radiology. (2021).  |
@@ -61,7 +61,7 @@ author_profile: true
 
 |  |
 | :---- |
-| 杨佳楠；王忠昊 ；王昊霖 ；耿国华；**曹欣※**。改进BYOL的非小细胞肺癌表皮生长因子受体基因突变预测方法。光学精密工程，2022 | 
+| 杨佳楠；王忠昊 ；王昊霖 ；耿国华；**曹欣※**。[改进BYOL的非小细胞肺癌表皮生长因子受体基因突变预测方法](https://caoxin918.github.io/files/2022杨佳楠.pdf)。光学精密工程，2022 | 
 | 李伟童；王昊霖 ；李康 ；耿国华；周明全 ；**曹欣※**。基于局部连接网络的切伦科夫荧光断层成像方法。激光与光电子学进展，2021 |  
 | 耿国华；姚文敏 ；周明全 ；刘杰；徐雪丽 ；**曹欣※** ；刘阳洋；李康。通过调整轮廓线权重的文物碎块自动拼接。西北大学学报，2021 |
 | 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。结构与纹理融合的三维文物孔洞修复方法。光学精密工程，2021 |  
