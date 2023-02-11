@@ -9,7 +9,7 @@ author_profile: true
 
 | |
 | :---- |
-|Jie Liu,Da Song, Guohua Geng※, Yu Tian, Mengna Yang,  Yangyang Liu, Mingquan Zhou, Kang Li and **Xin Cao※**. “[TGPS: Dynamic Point Cloud Down-sampling of the dense point clouds for Terracotta Warrior fragments](https://caoxin918.github.io/)”, Optics Express. (2023). |
+|Jie Liu+,Da Song+, Guohua Geng※, Yu Tian, Mengna Yang,  Yangyang Liu, Mingquan Zhou, Kang Li and **Xin Cao※**. “[TGPS: Dynamic Point Cloud Down-sampling of the dense point clouds for Terracotta Warrior fragments](https://caoxin918.github.io/)”, Optics Express. (2023). |
 |Wei Liu, Li Chen※, Xingxing Hao※, Wei Zhou, **Xin Cao**, Fei Xie. “[Offspring regeneration method based on bi-level sampling for large-scale evolutionary multi-objective optimization](https://caoxin918.github.io/files/haoxingxing2022.pdf)”, Swarm and Evolutionary Computation. (2022).  |
 | Lijuan Yang, Huachen Zhang, Xiaoyang Xie, Shijie Jiang, Hui Zhang, **Xin Cao**, Yuqing Hou, Xiaowei He, Junming Wang, Tao Zhang※, Fengjun Zhao※. “[MRI-Based Radiomics Nomogram for Preoperative Differentiation Between Ocular Adnexal Lymphoma and Idiopathic Orbital Inflammation](https://caoxin918.github.io/files/zhaofengjun2022jmri.pdf)”, Journal of Magnetic Resonance Imaging. (2022).  |
 | Fengjun Zhao, Didi Dong, Hongyan Du, Yinan Guo, Xue Su, Zhiwei Wang, Xiaoyang Xie, Mingjuan Wang, Haiyan Zhang, **Xin Cao**, Xiaowei He※. “[Diagnosis of endometrium hyperplasia and screening of endometrial intraepithelial neoplasia in histopathological images using a global-to-local multi-scale convolutional neural network](https://caoxin918.github.io/files/FengjunZhao2022cmpb.pdf)”, Computer Methods and Programs in Biomedicine. (2022).  |
