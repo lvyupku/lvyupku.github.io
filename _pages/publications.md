@@ -65,32 +65,32 @@ author_profile: true
 
 |  |
 | :---- |
-| 杨佳楠；王忠昊 ；王昊霖 ；耿国华；**曹欣※**。[改进BYOL的非小细胞肺癌表皮生长因子受体基因突变预测方法](https://caoxin918.github.io/files/2022杨佳楠.pdf)。光学精密工程，2022 | 
-| 李伟童；王昊霖 ；李康 ；耿国华；周明全 ；**曹欣※**。[基于局部连接网络的切伦科夫荧光断层成像方法](https://caoxin918.github.io/files/基于局部连接.pdf)。激光与光电子学进展，2021 |  
-| 耿国华；姚文敏 ；周明全 ；刘杰；徐雪丽 ；**曹欣※** ；刘阳洋；李康。[通过调整轮廓线权重的文物碎块自动拼接](https://caoxin918.github.io/files/基于调整轮廓.pdf)。西北大学学报，2021 |
-| 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。[结构与纹理融合的三维文物孔洞修复方法](https://caoxin918.github.io/files/结构与纹理.pdf)。光学精密工程，2021 |  
-| 卢笛; 卫潇; **曹欣※**; 贺小伟; 侯榆青。[基于自编码器的荧光分子断层成像快速重建](https://caoxin918.github.io/files/基于自编码.pdf)。光学学报，2019    |
-| 贺小伟; 卫潇; **曹欣※**; 侯榆青。一种基于模糊C均值聚类的新型单视图切伦科夫发光断层成像方法。光学学报，2018  | 
-| 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。基于空间信息改进聚类的切伦科夫荧光图像去噪算法。光学学报，2018  | 
-| 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。结合流形正则和变量分离近似稀疏重构的荧光分子断层成像。光学学报，2018  |   
-| 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像。光学学报，2017    | 
+| 杨佳楠；王忠昊 ；王昊霖 ；耿国华；**曹欣※**。["改进BYOL的非小细胞肺癌表皮生长因子受体基因突变预测方法”](https://caoxin918.github.io/files/2022杨佳楠.pdf)。光学精密工程，2022 | 
+| 李伟童；王昊霖 ；李康 ；耿国华；周明全 ；**曹欣※**。["基于局部连接网络的切伦科夫荧光断层成像方法"](https://caoxin918.github.io/files/基于局部连接.pdf)。激光与光电子学进展，2021 |  
+| 耿国华；姚文敏 ；周明全 ；刘杰；徐雪丽 ；**曹欣※** ；刘阳洋；李康。["通过调整轮廓线权重的文物碎块自动拼接"](https://caoxin918.github.io/files/基于调整轮廓.pdf)。西北大学学报，2021 |
+| 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。["结构与纹理融合的三维文物孔洞修复方法"](https://caoxin918.github.io/files/结构与纹理.pdf)。光学精密工程，2021 |  
+| 卢笛; 卫潇; **曹欣※**; 贺小伟; 侯榆青。["基于自编码器的荧光分子断层成像快速重建"](https://caoxin918.github.io/files/基于自编码.pdf)。光学学报，2019    |
+| 贺小伟; 卫潇; **曹欣※**; 侯榆青。"一种基于模糊C均值聚类的新型单视图切伦科夫发光断层成像方法"。光学学报，2018  | 
+| 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。"基于空间信息改进聚类的切伦科夫荧光图像去噪算法"。光学学报，2018  | 
+| 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。"结合流形正则和变量分离近似稀疏重构的荧光分子断层成像"。光学学报，2018  |   
+| 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。"基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像"。光学学报，2017    | 
 
 国际/国内会议
 ===
 
 |  |
 | :---- |
-| **Xin Cao**, Mengfei Du, Yi Chen, Gege Zhang, Jun Zhang, Weitong Li, Kang Li※ and Fengjun Zhao※. FISTA-NET: Deep Algorithm Unrolling for Cerenkov luminescence tomography. The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2023. (Oral presentation) |
-| **Xin Cao**, Weitong Li, Yi Chen, Mengfei Du, Gege Zhang, Jun Zhang, Kang Li※ and Linzhi Su※. K-CapsNet: K-Nearest Neighbor Based Convolution Capsule Network for Cerenkov Luminescence Tomography Reconstruction. The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2023. (Oral presentation) |
-|Yao Hu, Wei Zhou, Guohua Geng, Kang Li, Xingxing Hao, **Xin Cao**. “[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)](https://caoxin918.github.io/files/Huyao2021.pdf)”, The 5th International Conference on Computer Science and Application Engineering. (2021).  |
-| **Xin Cao**, et al. Improving sensitivity of endoscopy-based Cerenkov luminescence imaging system using radioluminescence microparticles. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2015, Jun. 2015. (Poster presentation) |
-| **Xin Cao**, et al. A novel imaging algorithm for endoscopic Cerenkov luminescence tomography. World Molecular Imaging Congress 2014, Sep. 2014. (Poster presentation) |
-| **Xin Cao**, et al. Sensitivity evaluation of endoscopic Cerenkov luminescence imaging system. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2014, Jun. 2014. (Poster presentation) |
-| **Xin Cao**, et al. A feasibility study of an endoscopic Cerenkov luminescence imaging system. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2013, Jun. 2013. (Oral presentation) |
-| **Xin Cao**, et al. Calibration of the endoscopic Cerenkov luminescence imaging system. World Molecular Imaging Congress 2013, Sep. 2013. (Poster presentation) |
-| Xueli Chen, **Xin Cao**, et al. Monitoring ApoG2 therapy in gastric and colorectal cancers with endoscopic Cerenkov luminescence imaging and positron emission tomography. World Molecular Imaging Congress 2014, Sep. 2014. (Oral presentation) |
-| Xueli Chen, Defu Yang, **Xin Cao**, et al. Specific modeling of light transport in biological tissues for Cerenkov luminescence tomography. Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2014, Jun. 2014. (Oral presentation) |
-| Shouping Zhu,**Xin Cao**, et al. 3DBoneView : A 3D bone quantification and visualization software for micro-CT imaging. World Molecular Imaging Congress 2012, Sep. 2012. (Poster presentation) |
+| **Xin Cao**, Mengfei Du, Yi Chen, Gege Zhang, Jun Zhang, Weitong Li, Kang Li※ and Fengjun Zhao※. "FISTA-NET: Deep Algorithm Unrolling for Cerenkov luminescence tomography". The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2023. (Oral presentation) |
+| **Xin Cao**, Weitong Li, Yi Chen, Mengfei Du, Gege Zhang, Jun Zhang, Kang Li※ and Linzhi Su※. "K-CapsNet: K-Nearest Neighbor Based Convolution Capsule Network for Cerenkov Luminescence Tomography Reconstruction". The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2023. (Oral presentation) |
+|Yao Hu, Wei Zhou, Guohua Geng, Kang Li, Xingxing Hao, **Xin Cao**. "[Unsupervised Segmentation for Terracotta Warrior with Seed-Region-Growing CNN (SRG-Net)](https://caoxin918.github.io/files/Huyao2021.pdf)", The 5th International Conference on Computer Science and Application Engineering. (2021).  |
+| **Xin Cao**, et al. "Improving sensitivity of endoscopy-based Cerenkov luminescence imaging system using radioluminescence microparticles". Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2015, Jun. 2015. (Poster presentation) |
+| **Xin Cao**, et al. "A novel imaging algorithm for endoscopic Cerenkov luminescence tomography". World Molecular Imaging Congress 2014, Sep. 2014. (Poster presentation) |
+| **Xin Cao**, et al. "Sensitivity evaluation of endoscopic Cerenkov luminescence imaging system". Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2014, Jun. 2014. (Poster presentation) |
+| **Xin Cao**, et al. "A feasibility study of an endoscopic Cerenkov luminescence imaging system". Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2013, Jun. 2013. (Oral presentation) |
+| **Xin Cao**, et al. "Calibration of the endoscopic Cerenkov luminescence imaging system". World Molecular Imaging Congress 2013, Sep. 2013. (Poster presentation) |
+| Xueli Chen, **Xin Cao**, et al. "Monitoring ApoG2 therapy in gastric and colorectal cancers with endoscopic Cerenkov luminescence imaging and positron emission tomography". World Molecular Imaging Congress 2014, Sep. 2014. (Oral presentation) |
+| Xueli Chen, Defu Yang, **Xin Cao**, et al. "Specific modeling of light transport in biological tissues for Cerenkov luminescence tomography". Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2014, Jun. 2014. (Oral presentation) |
+| Shouping Zhu,**Xin Cao**, et al. "3DBoneView : A 3D bone quantification and visualization software for micro-CT imaging". World Molecular Imaging Congress 2012, Sep. 2012. (Poster presentation) |
 
 受理/授权发明专利
 ===
