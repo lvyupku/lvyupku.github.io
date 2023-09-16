@@ -9,6 +9,8 @@ author_profile: true
 
 | |
 | :---- |
+|**Xin Cao※**. “[Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images]()”, IEEE Journal of Biomedical and Health Informatics. (2023). |
+|*. “[Gates joint locally connected network for accurate and robust reconstruction in optical molecular tomography]()”, Journal of Innovative Optical Health Sciences. (2023). |
 |Jun Zhang, Gege Zhang, Yi Chen, Kang Li, Fengjun Zhao, Huangjian Yi, Linzhi Su※ and **Xin Cao※**. “[Regularized reconstruction based on joint smoothly clipped absolute deviation regularization and graph manifold learning for Fluorescence Molecular Tomography]()”, Physics in Medicine and Biology. (2023). |
 |Yi Chen, Mengfei Du, Gege Zhang, Jun Zhang, Kang Li※, Linzhi Su※, Fengjun Zhao, Huangjian Yi and **Xin Cao※**. “[Sparse reconstruction based on dictionary learning and group structure strategy for cone-beam X-ray luminescence computed tomography]()”, Optics Express. (2023). |
 |Jie Liu+,Da Song+, Guohua Geng※, Yu Tian, Mengna Yang,  Yangyang Liu, Mingquan Zhou, Kang Li and **Xin Cao※**. “[TGPS: Dynamic Point Cloud Down-sampling of the dense point clouds for Terracotta Warrior fragments]()”, Optics Express. (2023). |
