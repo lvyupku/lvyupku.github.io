@@ -4,6 +4,9 @@ title: ""
 permalink: /members/
 author_profile: true
 ---
+国家奖学金获得者信息
+===
+2023年国奖： 陈意（研三）、杜梦飞（研三）、张俊（研二）
 
 在读学生
 ===
