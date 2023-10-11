@@ -9,7 +9,7 @@ author_profile: true
 
 | |
 | :---- |
-|Gege Zhang, Jun Zhanga, Yi Chen, Mengfei du, Kang Li, Linzhi Su※, Huangjian Yi, Fengjun Zhao and **Xin Cao※**. “[Logarithmic total variation regularization via preconditioned conjugate gradient method for sparse reconstruction of bioluminescence tomography]()”, Computer Methods and Programs in Biomedicine. (2023). |
+|Gege Zhang, Jun Zhang, Yi Chen, Mengfei u, Kang Li, Linzhi Su※, Huangjian Yi, Fengjun Zhao and **Xin Cao※**. “[Logarithmic total variation regularization via preconditioned conjugate gradient method for sparse reconstruction of bioluminescence tomography]()”, Computer Methods and Programs in Biomedicine. (2023). |
 |**Xin Cao※**. “[Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images]()”, IEEE Journal of Biomedical and Health Informatics. (2023). |
 |*. “[Gates joint locally connected network for accurate and robust reconstruction in optical molecular tomography]()”, Journal of Innovative Optical Health Sciences. (2023). |
 |Jun Zhang, Gege Zhang, Yi Chen, Kang Li, Fengjun Zhao, Huangjian Yi, Linzhi Su※ and **Xin Cao※**. “[Regularized reconstruction based on joint smoothly clipped absolute deviation regularization and graph manifold learning for Fluorescence Molecular Tomography](https://caoxin918.github.io/files/张俊pmb2023.pdf)”, Physics in Medicine and Biology. (2023). |
