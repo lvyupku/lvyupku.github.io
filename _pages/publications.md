@@ -11,11 +11,11 @@ author_profile: true
 | :---- |
 |Gege Zhang, Jun Zhang, Yi Chen, Mengfei Du, Kang Li, Linzhi Su, Huangjian Yi, Fengjun Zhao and **Xin Cao※**. “[Logarithmic total variation regularization via preconditioned conjugate gradient method for sparse reconstruction of bioluminescence tomography](https://caoxin918.github.io/files/张格格2023cmpb.pdf)”, Computer Methods and Programs in Biomedicine. (2023). |
 |Fengjun Zhao, Zhiwei Wang, Hongyan Du, Xiaowei He and **Xin Cao※**. “[Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images]()”, IEEE Journal of Biomedical and Health Informatics. (2023). |
-|Minghua Zhao, Yahui Xiao, Jiaqi Zhang,**Xin Cao**, and Lin Wang*. “[Gates joint locally connected network for accurate and robust reconstruction in optical molecular tomography]()”, Journal of Innovative Optical Health Sciences. (2023). |
+|Minghua Zhao, Yahui Xiao, Jiaqi Zhang,**Xin Cao**, and Lin Wang*. “[Gates joint locally connected network for accurate and robust reconstruction in optical molecular tomography](https://caoxin918.github.io/files/)”, Journal of Innovative Optical Health Sciences. (2023). |
 |Jun Zhang, Gege Zhang, Yi Chen, Kang Li, Fengjun Zhao, Huangjian Yi, Linzhi Su※ and **Xin Cao※**. “[Regularized reconstruction based on joint smoothly clipped absolute deviation regularization and graph manifold learning for Fluorescence Molecular Tomography](https://caoxin918.github.io/files/张俊pmb2023.pdf)”, Physics in Medicine and Biology. (2023). |
-|Yi Chen, Mengfei Du, Gege Zhang, Jun Zhang, Kang Li※, Linzhi Su※, Fengjun Zhao, Huangjian Yi and **Xin Cao※**. “[Sparse reconstruction based on dictionary learning and group structure strategy for cone-beam X-ray luminescence computed tomography]()”, Optics Express. (2023). |
-|Jie Liu+,Da Song+, Guohua Geng※, Yu Tian, Mengna Yang,  Yangyang Liu, Mingquan Zhou, Kang Li and **Xin Cao※**. “[TGPS: Dynamic Point Cloud Down-sampling of the dense point clouds for Terracotta Warrior fragments]()”, Optics Express. (2023). |
-|Yi Chen, Mengfei Du, Jun Zhang, Gege Zhangn, Linzhi Su※, Kang Li, Fengjun Zhao, Huangjian Yi, Lin Wang and **Xin Cao※**. “[Generalized Conditional Gradient Method with Adaptive Regularization Parameters for Fluorescence Molecular Tomography]()”, Optics Express. (2023). |
+|Yi Chen, Mengfei Du, Gege Zhang, Jun Zhang, Kang Li※, Linzhi Su※, Fengjun Zhao, Huangjian Yi and **Xin Cao※**. “[Sparse reconstruction based on dictionary learning and group structure strategy for cone-beam X-ray luminescence computed tomography](https://caoxin918.github.io/files/)”, Optics Express. (2023). |
+|Jie Liu+,Da Song+, Guohua Geng※, Yu Tian, Mengna Yang,  Yangyang Liu, Mingquan Zhou, Kang Li and **Xin Cao※**. “[TGPS: Dynamic Point Cloud Down-sampling of the dense point clouds for Terracotta Warrior fragments](https://caoxin918.github.io/files/)”, Optics Express. (2023). |
+|Yi Chen, Mengfei Du, Jun Zhang, Gege Zhangn, Linzhi Su※, Kang Li, Fengjun Zhao, Huangjian Yi, Lin Wang and **Xin Cao※**. “[Generalized Conditional Gradient Method with Adaptive Regularization Parameters for Fluorescence Molecular Tomography](https://caoxin918.github.io/files/)”, Optics Express. (2023). |
 |Wei Liu, Li Chen※, Xingxing Hao※, Wei Zhou, **Xin Cao**, Fei Xie. “[Offspring regeneration method based on bi-level sampling for large-scale evolutionary multi-objective optimization](https://caoxin918.github.io/files/haoxingxing2022.pdf)”, Swarm and Evolutionary Computation. (2022).  |
 | Lijuan Yang, Huachen Zhang, Xiaoyang Xie, Shijie Jiang, Hui Zhang, **Xin Cao**, Yuqing Hou, Xiaowei He, Junming Wang, Tao Zhang※, Fengjun Zhao※. “[MRI-Based Radiomics Nomogram for Preoperative Differentiation Between Ocular Adnexal Lymphoma and Idiopathic Orbital Inflammation](https://caoxin918.github.io/files/zhaofengjun2022jmri.pdf)”, Journal of Magnetic Resonance Imaging. (2022).  |
 | Fengjun Zhao, Didi Dong, Hongyan Du, Yinan Guo, Xue Su, Zhiwei Wang, Xiaoyang Xie, Mingjuan Wang, Haiyan Zhang, **Xin Cao**, Xiaowei He※. “[Diagnosis of endometrium hyperplasia and screening of endometrial intraepithelial neoplasia in histopathological images using a global-to-local multi-scale convolutional neural network](https://caoxin918.github.io/files/FengjunZhao2022cmpb.pdf)”, Computer Methods and Programs in Biomedicine. (2022).  |
@@ -73,11 +73,11 @@ author_profile: true
 | 李伟童；王昊霖 ；李康 ；耿国华；周明全 ；**曹欣※**。["基于局部连接网络的切伦科夫荧光断层成像方法"](https://caoxin918.github.io/files/基于局部连接.pdf)。激光与光电子学进展，2021 |  
 | 耿国华；姚文敏 ；周明全 ；刘杰；徐雪丽 ；**曹欣※** ；刘阳洋；李康。["通过调整轮廓线权重的文物碎块自动拼接"](https://caoxin918.github.io/files/基于调整轮廓.pdf)。西北大学学报，2021 |
 | 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。["结构与纹理融合的三维文物孔洞修复方法"](https://caoxin918.github.io/files/结构与纹理.pdf)。光学精密工程，2021 |  
-| 卢笛; 卫潇; **曹欣※**; 贺小伟; 侯榆青。["基于自编码器的荧光分子断层成像快速重建"](https://caoxin918.github.io/files/基于自编码.pdf)。光学学报，2019    |
-| 贺小伟; 卫潇; **曹欣※**; 侯榆青。"基于空间信息改进聚类的切伦科夫荧光图像去噪算法"。光学学报，2018  | 
-| 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。"基于空间信息改进聚类的切伦科夫荧光图像去噪算法"。光学学报，2018  | 
-| 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。"结合流形正则和变量分离近似稀疏重构的荧光分子断层成像"。光学精密工程，2018  |   
-| 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。"基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像"。光学学报，2017    | 
+| 卢笛; 卫潇; **曹欣※**; 贺小伟; 侯榆青。["基于自编码器的荧光分子断层成像快速重建"](https://caoxin918.github.io/files/基于自编码器的荧光分子断层成像快速重建.pdf)。光学学报，2019    |
+| 贺小伟; 卫潇; **曹欣※**; 侯榆青。["基于空间信息改进聚类的切伦科夫荧光图像去噪算法"]()。光学学报，2018  | 
+| 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。["基于空间信息改进聚类的切伦科夫荧光图像去噪算法"](https://caoxin918.github.io/files/基于空间信息改进聚类的切伦科夫荧光图像去噪算法.pdf)。光学学报，2018  | 
+| 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。["结合流形正则和变量分离近似稀疏重构的荧光分子断层成像"](https://caoxin918.github.io/files/结合流形正则和变量分离近似稀疏重构的荧光分子断层成像.pdf)。光学精密工程，2018  |   
+| 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。["基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像"](https://caoxin918.github.io/files/基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像.pdf)。光学学报，2017    | 
 
 国际/国内会议
 ===
