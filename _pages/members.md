@@ -1,4 +1,4 @@
-![33EBC8D6](https://github.com/caoxin918/caoxin918.github.io/assets/6196693/58474f7b-6f96-4613-8b3d-3aa554677321)---
+---
 layout: single
 title: ""
 permalink: /members/
