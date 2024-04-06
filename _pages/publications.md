@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Xueli Xu+, Da Song+, Guohua Geng※, Mingquan Zhou, Jie Liu※, Kang Li and **Xin Cao※**. “[CPDC-MFNet: Conditional Point diffusion completion network with Muti-scale Feedback Refine for 3D Terracotta Warriors]( )”, Scientific Reports. (**SCI Q2**, 2024). CODE click [HERE]( ) |
 |Gege Zhang, Jun Zhang, Yi Chen, Mengfei Du, Kang Li, Linzhi Su, Huangjian Yi, Fengjun Zhao and **Xin Cao※**. “[Logarithmic total variation regularization via preconditioned conjugate gradient method for sparse reconstruction of bioluminescence tomography](https://caoxin918.github.io/files/张格格2023cmpb.pdf)”, Computer Methods and Programs in Biomedicine. (2023). CODE click [HERE](https://github.com/caoxin918/PCG-logTV) |
 |Fengjun Zhao, Zhiwei Wang, Hongyan Du, Xiaowei He and **Xin Cao※**. “[Self-Supervised Triplet Contrastive Learning for Classifying Endometrial Histopathological Images]()”, IEEE Journal of Biomedical and Health Informatics. (2023). |
 |Minghua Zhao, Yahui Xiao, Jiaqi Zhang,**Xin Cao**, and Lin Wang*. “[Gates joint locally connected network for accurate and robust reconstruction in optical molecular tomography](https://caoxin918.github.io/files/王琳2023jiohs.pdf)”, Journal of Innovative Optical Health Sciences. (2023). |
