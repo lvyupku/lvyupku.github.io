@@ -9,6 +9,9 @@ author_profile: true
 
 | |
 | :---- |
+|Yifan Wang, Haoyu Wang, Qiuquan Zhu, Yi Chen, Linzhi Su※, Huangjian Yi, Chegnyi Gao and **Xin Cao※**. “[SBL-LCGL: Sparse Bayesian learning based on Laplace distribution for robust Cone-beam X-ray Luminescence Computed Tomography]( )”, **Physics in Medicine and Biology**. (2024). |
+|Kang Li, Qiuquan Zhu, Haoyu Wang, Shibo Wang, He Tian, Ping Zhou and **Xin Cao※**. “[PointUR-RL: Unified Self-Supervised Learning Method Based on Variable Masked Autoencoder for Point Cloud Reconstruction and Representation Learning]( )”, **Remote Sensing**. (2024). CODE click [HERE]( ) |
+|**Xin Cao**, Wenlong Tang, Huimin Gao, Yifan Wang, Yi Chen※, Chengyi Gao, Fengjun Zhao and Linzhi Su※. “[SODL-IR-FISTA: Sparse Online Dictionary Learning with Iterative Reduction FISTA for cone-beam X-ray luminescence computed tomography]( )”, **Biomedical Optics Express**. (2024). |
 |**Xin Cao**, Haoyu Wang, Qiuquan Zhu, Yifan Wang, Xiu Liu, Kang Li, Linzhi Su※. “[PointStaClu: A Deep Point Cloud Clustering Method Based on Stable Cluster Discrimination]( )”, **Remote Sensing**. (2024). CODE click [HERE]( ) |
 |Xiu Liu+, Xinxin Han+, Huan Xia, Kang Li, Haochen Zhao, Jia Jia, Gang Zhen, Linzhi Su※, Fengjun Zhao and **Xin Cao※**. “[PointCluster: Deep Clustering of 3D Point Clouds With Semantic Pseudo-Labeling]( https://caoxin918.github.io/files/liuxiu_tgrs_2024.pdf)”, **IEEE Transactions on Geoscience and Remote Sensings**. (2024). CODE click [HERE]( ) |
 |Xueli Xu+, Da Song+, Guohua Geng※, Mingquan Zhou, Jie Liu※, Kang Li※ and **Xin Cao※**. “[CPDC-MFNet: Conditional Point diffusion completion network with Muti-scale Feedback Refine for 3D Terracotta Warriors]( https://caoxin918.github.io/files/徐雪丽CPDC2024.pdf)”, **Scientific Reports**. (2024). CODE click [HERE](https://github.com/caoxin918/CPDC ) |
