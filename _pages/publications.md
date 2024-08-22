@@ -90,6 +90,8 @@ author_profile: true
 
 |  |
 | :---- |
+|Linzhi Su, Mengna Yang, Jie Liu, Xingxing Hao※, **Xin Cao**. "[Point-MSD: Jointly Mamba Self-Supervised Self-Distilling Point Cloud Representation Learning]( )". **The 17th IEEE International Conference on Signal Processing**, 2024. (Oral presentation) |
+| **Xin Cao**, Wenlong Tang, Yi Chen, Linzhi Su, Xingxing Hao※. "[Online Dictionary Learning Method for Cone-beam X-ray Luminescence Computed Tomography Reconstruction: A Preliminary Simulation Study]( )". **The 17th IEEE International Conference on Signal Processing**, 2024. (Oral presentation) |
 | Huangjian Yi※, Zijian Tang, Ruigang Yang, Fengjun Zhao, **Xin Cao**, Lizhi Zhang, Xiaowei He and Yuqing Hou. "[Regularization parameter based on incomplete variables for X-ray luminescence computed tomography](https://caoxin918.github.io/files/embc2023yihuangjian.pdf)". **The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society**, 2023. (Poster presentation) |
 | Fengjun Zhao, Kaiming Huang, Zhipeng Sun, Xin Chen, Xiaowei He, Bin Wang※ and **Cao Xin※**. "[Consistent Learning-Based Breast Tumor Segmentation and Its Application in Sentinel Lymph Node Metastasis Prediction](https://caoxin918.github.io/files/embc2023zhaofengjun.pdf)". **The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society**, 2023. (Poster presentation) |
 | **Xin Cao**, Mengfei Du, Yi Chen, Gege Zhang, Jun Zhang, Weitong Li, Kang Li※ and Fengjun Zhao※. "[FISTA-NET: Deep Algorithm Unrolling for Cerenkov luminescence tomography](https://caoxin918.github.io/files/embc2023dumengfei.pdf)". **The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society**, 2023. (Oral presentation) |
