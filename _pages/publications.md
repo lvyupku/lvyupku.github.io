@@ -70,26 +70,13 @@ author_profile: true
 | **Xin Cao**, Xueli Chen, Fei Kang, Yenan Lin, Muhan Liu, Hao Hu, Yongzhan Nie, Kaichun Wu, Jing Wang, Jimin Liang, and Jie Tian. "[Performance evaluation of endoscopic Cerenkov luminescence imaging system: in vitro and pseudotumor studies](https://caoxin918.github.io/files/boe2014.pdf)" **Biomedical Optics Express** 5, 3660-3670 (2014). |        
 | Xueli Chen, Jimin Liang, **Xin Cao**, Defu Yang, Dongmei Chen, Jorge Ripoll, and Jie Tian. "[Feasibility study of endoscopic x-ray luminescence computed tomography: Simulation demonstration and phantom application](https://caoxin918.github.io/files/2013-ChenXueli-JAP.pdf)" **Journal of Applied Physics** 114 (2013).  |       
         
-国内期刊
-===
-
-|  |
-| :---- |
-| 杨佳楠；王忠昊 ；王昊霖 ；耿国华；**曹欣※**。["改进BYOL的非小细胞肺癌表皮生长因子受体基因突变预测方法”](https://caoxin918.github.io/files/2022杨佳楠.pdf)。**光学精密工程**，2022 | 
-| 李伟童；王昊霖 ；李康 ；耿国华；周明全 ；**曹欣※**。["基于局部连接网络的切伦科夫荧光断层成像方法"](https://caoxin918.github.io/files/基于局部连接.pdf)。**激光与光电子学进展**，2021 |  
-| 耿国华；姚文敏 ；周明全 ；刘杰；徐雪丽 ；**曹欣※** ；刘阳洋；李康。["通过调整轮廓线权重的文物碎块自动拼接"](https://caoxin918.github.io/files/基于调整轮廓.pdf)。**西北大学学报**，2021 |
-| 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。["结构与纹理融合的三维文物孔洞修复方法"](https://caoxin918.github.io/files/结构与纹理.pdf)。**光学精密工程**，2021 |  
-| 卢笛; 卫潇; **曹欣※**; 贺小伟; 侯榆青。["基于自编码器的荧光分子断层成像快速重建"](https://caoxin918.github.io/files/基于自编码器的荧光分子断层成像快速重建.pdf)。**光学学报**，2019    |
-| 贺小伟; 卫潇; **曹欣※**; 侯榆青。["基于空间信息改进聚类的切伦科夫荧光图像去噪算法"]()。光学学报，2018  | 
-| 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。["基于空间信息改进聚类的切伦科夫荧光图像去噪算法"](https://caoxin918.github.io/files/基于空间信息改进聚类的切伦科夫荧光图像去噪算法.pdf)。**光学学报**，2018  | 
-| 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。["结合流形正则和变量分离近似稀疏重构的荧光分子断层成像"](https://caoxin918.github.io/files/结合流形正则和变量分离近似稀疏重构的荧光分子断层成像.pdf)。**光学精密工程**，2018  |   
-| 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。["基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像"](https://caoxin918.github.io/files/基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像.pdf)。**光学学报**，2017    | 
-
 国际/国内会议
 ===
 
 |  |
 | :---- |
+|**Xin Cao**, Huan Xia, Haoyu Wang, Linzhi Su, Ping Zhou and Kang Li※. "[PointJEM: Self-supervised Point Cloud Understanding for Reducing Feature Redundancy via Joint Entropy Maximization]( )". **The 32th Pacific Conference on Computer Graphics and Applications (Pacific Graphics 2024)**, 2024. (Oral presentation) |
+|Jie Liu, Mengna Yang, Yu Tian, Da Song, Kang Li, **Xin Cao※**. "[Point-AGM : Attention Guided Masked Auto-Encoder for Joint Self-supervised Learning on Point Clouds]( )". **The 32th Pacific Conference on Computer Graphics and Applications (Pacific Graphics 2024)**, 2024. (Oral presentation) |
 |Linzhi Su, Mengna Yang, Jie Liu, Xingxing Hao※, **Xin Cao**. "[Point-MSD: Jointly Mamba Self-Supervised Self-Distilling Point Cloud Representation Learning]( )". **The 17th IEEE International Conference on Signal Processing**, 2024. (Oral presentation) |
 | **Xin Cao**, Wenlong Tang, Yi Chen, Linzhi Su, Xingxing Hao※. "[Online Dictionary Learning Method for Cone-beam X-ray Luminescence Computed Tomography Reconstruction: A Preliminary Simulation Study]( )". **The 17th IEEE International Conference on Signal Processing**, 2024. (Oral presentation) |
 | Huangjian Yi※, Zijian Tang, Ruigang Yang, Fengjun Zhao, **Xin Cao**, Lizhi Zhang, Xiaowei He and Yuqing Hou. "[Regularization parameter based on incomplete variables for X-ray luminescence computed tomography](https://caoxin918.github.io/files/embc2023yihuangjian.pdf)". **The 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society**, 2023. (Poster presentation) |
@@ -105,6 +92,21 @@ author_profile: true
 | Xueli Chen, **Xin Cao**, et al. "Monitoring ApoG2 therapy in gastric and colorectal cancers with endoscopic Cerenkov luminescence imaging and positron emission tomography". **World Molecular Imaging Congress 2014**, Sep. 2014. (Oral presentation) |
 | Xueli Chen, Defu Yang, **Xin Cao**, et al. "Specific modeling of light transport in biological tissues for Cerenkov luminescence tomography". **Annual Meeting of Society of Nuclear Medicine and Molecular Imaging 2014**, Jun. 2014. (Oral presentation) |
 | Shouping Zhu,**Xin Cao**, et al. "3DBoneView : A 3D bone quantification and visualization software for micro-CT imaging". **World Molecular Imaging Congress 2012**, Sep. 2012. (Poster presentation) |
+
+国内期刊
+===
+
+|  |
+| :---- |
+| 杨佳楠；王忠昊 ；王昊霖 ；耿国华；**曹欣※**。["改进BYOL的非小细胞肺癌表皮生长因子受体基因突变预测方法”](https://caoxin918.github.io/files/2022杨佳楠.pdf)。**光学精密工程**，2022 | 
+| 李伟童；王昊霖 ；李康 ；耿国华；周明全 ；**曹欣※**。["基于局部连接网络的切伦科夫荧光断层成像方法"](https://caoxin918.github.io/files/基于局部连接.pdf)。**激光与光电子学进展**，2021 |  
+| 耿国华；姚文敏 ；周明全 ；刘杰；徐雪丽 ；**曹欣※** ；刘阳洋；李康。["通过调整轮廓线权重的文物碎块自动拼接"](https://caoxin918.github.io/files/基于调整轮廓.pdf)。**西北大学学报**，2021 |
+| 周明全；褚彤 ；耿国华 ；姚文敏；张军 ；**曹欣※**。["结构与纹理融合的三维文物孔洞修复方法"](https://caoxin918.github.io/files/结构与纹理.pdf)。**光学精密工程**，2021 |  
+| 卢笛; 卫潇; **曹欣※**; 贺小伟; 侯榆青。["基于自编码器的荧光分子断层成像快速重建"](https://caoxin918.github.io/files/基于自编码器的荧光分子断层成像快速重建.pdf)。**光学学报**，2019    |
+| 贺小伟; 卫潇; **曹欣※**; 侯榆青。["基于空间信息改进聚类的切伦科夫荧光图像去噪算法"]()。光学学报，2018  | 
+| 贺小伟; 孙怡; 卫潇; 卢笛; **曹欣※**; 侯榆青。["基于空间信息改进聚类的切伦科夫荧光图像去噪算法"](https://caoxin918.github.io/files/基于空间信息改进聚类的切伦科夫荧光图像去噪算法.pdf)。**光学学报**，2018  | 
+| 侯榆青; 张文元; 王晓东; 贺小伟; **曹欣**。["结合流形正则和变量分离近似稀疏重构的荧光分子断层成像"](https://caoxin918.github.io/files/结合流形正则和变量分离近似稀疏重构的荧光分子断层成像.pdf)。**光学精密工程**，2018  |   
+| 侯榆青; 薛花; **曹欣**; 张海波; 曲璇; 贺小伟。["基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像"](https://caoxin918.github.io/files/基于稀疏贝叶斯学习的单视图增强型切伦科夫发光断层成像.pdf)。**光学学报**，2017    | 
 
 受理/授权发明专利
 ===
