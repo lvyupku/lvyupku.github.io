@@ -9,6 +9,7 @@ author_profile: true
 
 | |
 | :---- |
+|Xueli Xu+, Jingyu Wang+, Qiuquan Zhu+, Ping Zhou, Guohua Geng, Knang Li※, Linzhi Su and **Xin Cao※**. “[EIDU-Net: edge-preserved inception DenseGCN U-Net for LiDAR point cloud segmentation](https://caoxin918.github.io/files/2024徐雪丽EIDU.pdf )”, **Scientific Reports**. (2024).  CODE click [HERE]( https://github.com/caoxin918/EIDU-Net) |
 |Linzhi Su, Limin Chen, Wenlong Tang, Huimin Gao, Yi Chen※, Chengyi Gao, Huangjian Yi and **Xin Cao※**. “[KSAOPA: Dictionary learning method based on K-sparse approximation and Orthogonal Procrustes analysis for reconstruction in bioluminescence tomography](https://caoxin918.github.io/files/陈丽敏2024Jbp.pdf )”, **Journal of Biophotonics**. (2024). |
 |Yifan Wang, Haoyu Wang, Qiuquan Zhu, Yi Chen, Linzhi Su※, Huangjian Yi, Chegnyi Gao and **Xin Cao※**. “[SBL-LCGL: Sparse Bayesian learning based on Laplace distribution for robust Cone-beam X-ray Luminescence Computed Tomography]( )”, **Physics in Medicine and Biology**. (2024). |
 |Kang Li, Qiuquan Zhu, Haoyu Wang, Shibo Wang, He Tian, Ping Zhou and **Xin Cao※**. “[PointUR-RL: Unified Self-Supervised Learning Method Based on Variable Masked Autoencoder for Point Cloud Reconstruction and Representation Learning](https://caoxin918.github.io/files/朱秋全2024RS.pdf)”, **Remote Sensing**. (2024). CODE click [HERE](https://github.com/caoxin918/PointUR-RL ) |
