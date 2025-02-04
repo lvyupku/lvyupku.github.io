@@ -18,7 +18,6 @@ author_profile: true
 
 **期刊编委**
 - 编委， [Computers, Materials & Continua](https://www.techscience.com/cmc/editors)
-- 编委，Connected Health
 - 客座编委，Journal of Sensors
 - 客座编委，Sustainability
 - 客座编委， [Journal of Radiation Research and Applied Sciences](https://www.sciencedirect.com/journal/journal-of-radiation-research-and-applied-sciences/special-issue/10PSSC1VQ37)
@@ -41,21 +40,17 @@ author_profile: true
 - 2nd EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2016), October 31- November 2, 2016, Leicester, UK
 
 
-**审稿人 (Reviewer)**
-- Applied Soft Computing
-- IET Image Processing
-- 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
-- Artificial Intelligence In Medicine
-- Computer Science Review
-- Biomedical Signal Processing and Control
-- 31st International Conference on Neural Information Processing (ICONIP 2024)
-- 2024 International Joint Conference on Neural Networks (IJCNN)
-- 2024 IEEE Conference on Prognostics and Health Management (ICPHM)
+**期刊审稿人 (Journal Reviewer)**
+- IEEE Journal of Biomedical and Health Informatics
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - IEEE Transactions on Reliability
 - IEEE Transactions on Vehicular Technology
-- IEEE Journal of Biomedical and Health Informatics
 - IEEE Access
+- IET Image Processing
+- Applied Soft Computing
+- Artificial Intelligence In Medicine
+- Computer Science Review
+- Biomedical Signal Processing and Control
 - Neural Computing and Applications
 - Computer Methods and Programs in Biomedicine
 - Computers in Biology and Medicine
@@ -73,3 +68,11 @@ author_profile: true
 - Computer Modeling in Engineering & Sciences
 - Journal of Sensors
 - Healthcare Analytics
+
+**会议审稿人 (Conference Reviewer)**
+- 2025 IEEE International Conference on Multimedia and Expo (ICME)
+- 2025 International Joint Conference on Neural Networks (IJCNN)
+- 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+- 31st International Conference on Neural Information Processing (ICONIP 2024)
+- 2024 International Joint Conference on Neural Networks (IJCNN)
+- 2024 IEEE Conference on Prognostics and Health Management (ICPHM)
