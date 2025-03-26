@@ -43,6 +43,7 @@ author_profile: true
             <p><strong>Qianying Liu (刘倩颖)</strong></p>
             <p>兼职科研助理，2025年3月-至今</p>
             <p>英国格拉斯哥大学在读博士</p>
+            <p>个人主页：[https://kathyliu579.github.io/](https://kathyliu579.github.io/)</p>
         </div>
     </div>
 
