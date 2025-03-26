@@ -37,7 +37,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/gty.jpg" alt="刘倩颖">
+            <img src="/images/lqy.png" alt="刘倩颖">
         </div>
         <div class="text">
             <p><strong>Qianying Liu (刘倩颖)</strong></p>
