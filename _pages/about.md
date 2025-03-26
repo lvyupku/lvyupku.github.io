@@ -28,12 +28,12 @@ Openings
 
 个人介绍
 ======
-副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文60余篇，其中以第一作者或通讯作者在Neurocomputing, Future Generation Computer Systems, Artificial Intelligence in Medicine, Computer Methods and Programs in Biomedicine, Reliability Engineering & System Safety等JCR一区期刊上发表学术论文9篇；在AAAI、ICASSP、BIBM等国际学术会议上发表论文多篇。此外，还获得了2项国家发明专利授权，并申请了6项国家发明专利，实现科技成果转化1项。
+副教授，硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才。目前已发表学术论文70余篇，其中以第一作者或通讯作者在Neurocomputing, Future Generation Computer Systems, Artificial Intelligence in Medicine, Computer Methods and Programs in Biomedicine, Reliability Engineering & System Safety等期刊；AAAI、ICME、ICASSP、BIBM等国际会议上发表论文多篇。此外，还获得了2项国家发明专利授权，并申请了6项国家发明专利，实现科技成果转化1项。
 
 - 2022.12-至今，深圳技术大学，副教授
 - 2018.09-2022.11，深圳技术大学，助理教授
-- 2017.03-2018.08，深圳京柏医疗科技股份有限公司，科学家（方向为基于人工智能、物联网及可穿戴设备的医疗器械与系统研发）
-- 2015.10-2017.03，英国克兰菲尔德大学，博士后（方向为USV的制导算法与形式化验证）
+- 2017.03-2018.08，深圳京柏医疗科技股份有限公司，科学家（方向为智慧医疗、远程医疗监护）
+- 2015.10-2017.03，英国克兰菲尔德大学，博士后（方向为USV制导算法的形式化验证）
 - 2011.10-2015.09，英国格拉斯哥大学，计算机科学专业，博士（方向为卫星导航系统的形式化验证）
 
 
