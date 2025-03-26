@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "曹欣个人主页"
+title                    : "吕羽"
 title_separator          : "-"
 name                     : &name " "
 description              : &description " "
-url                      : https://caoxin918.github.io
+url                      : https://lvyupku.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "caoxin918/caoxin918.github.io"
+repository               : "lvyupku/lvyupku.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "曹欣"
+  name             : "吕羽"
   avatar           : "pic.png"
-  bio              : "西北大学·信息科学与技术学院·副教授·硕士生导师"
-  location         : "中国·西安"
+  bio              : "深圳技术大学·大数据与互联网学院·副教授·硕士生导师"
+  location         : "中国·深圳"
   employer         :
-  wechat           : wojiaocaoxin
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=5iI5G0IAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : xin_cao@163.com
-  researchgate     : "https://www.researchgate.net/profile/Xin-Cao-7"
+  #wechat           : wojiaocaoxin
+  googlescholar    : "https://scholar.google.com/citations?user=TsJSFVAAAAAJ"
+  email            : lvyu@sztu.edu.cn
+  researchgate     : "https://www.researchgate.net/profile/Yu-Lu-35"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "caoxin918"
+  github           : "lvyupku"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xin-cao-4b4a7130/"
-  orcid            : "https://orcid.org/0000-0003-3560-6523"
+  #linkedin        : "https://www.linkedin.com/in/xin-cao-4b4a7130/"
+  orcid            : "https://orcid.org/0000-0002-7799-9794"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
