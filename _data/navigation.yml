@@ -1,14 +1,11 @@
 # main links links
 main:
-  - title: "研究方向"
-    url: /researchinterests/
+  - title: "专业服务"
+    url: /work/
 
-  - title: "论文论著"
-    url: /publications/
+  - title: "主讲课程"
+    url: /lesson/
 
-  - title: "科研团队"
-    url: /members/    
-    
-  - title: "招生信息"
-    url: /enrollment/
+  - title: "指导学生"
+    url: /student/
         
