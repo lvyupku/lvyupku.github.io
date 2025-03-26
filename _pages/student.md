@@ -34,6 +34,18 @@ author_profile: true
 <body>
     <h2>当前成员</h2>
 
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/gty.jpg" alt="刘倩颖">
+        </div>
+        <div class="text">
+            <p><strong>Qianying Liu (刘倩颖)</strong></p>
+            <p>兼职科研助理，2025年3月-至今</p>
+            <p>英国格拉斯哥大学在读博士</p>
+        </div>
+    </div>
+
     <div class="container">
         <div class="image">
             <img src="/images/xzp(2).jpg" alt="许展鹏">
@@ -42,7 +54,7 @@ author_profile: true
             <p><strong>许展鹏</strong></p>
             <p>硕士研究生，计算机技术专业，2022级</p>
             <p>实验室：C-1-902</p>
-            <p>论文题目： 基于弱监督与多任务学习的医疗图像分割方法研究</p>
+            <p>论文题目： 基于自监督多任务学习的左心室射血分数评估算法研究</p>
         </div>
     </div>
 
@@ -262,7 +274,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>罗瑞鹏</strong></p>
-            <p>科研助理，2023年7月-2024年1月</p>
+            <p>全职科研助理，2023年7月-2024年1月</p>
             <p>实验室：C-1-902</p>
             <p>本科毕业于深圳技术大学</p>
         </div>
@@ -287,7 +299,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>郭天雨</strong></p>
-            <p>科研助理，2021年3月-2022年8月</p>
+            <p>全职科研助理，2021年3月-2022年8月</p>
             <p>本科毕业于华南师范大学</p>
         </div>
     </div>
@@ -298,7 +310,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>蒋拓</strong></p>
-            <p>科研助理，2020年3月-2021年2月</p>
+            <p>全职科研助理，2020年3月-2021年2月</p>
             <p>硕士毕业于澳大利亚阿德莱德大学</p>
             <p>目前就职于深圳技术大学外国语学院，任实验员</p>
         </div>
