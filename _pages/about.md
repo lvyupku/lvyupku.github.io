@@ -144,10 +144,10 @@ News
 **（2018.9以前）**
 
 1. Hanlin Niu, __Yu Lu__, Al Savvaris*, Antonios Tsourdos. An energy-efficient path planning algorithm for unmanned surface vehicles. Ocean Engineering, 161:308-321, August 2018. (中科院1区) [https://doi.org/10.1016/j.oceaneng.2018.01.025](https://doi.org/10.1016/j.oceaneng.2018.01.025)
-2. __Yu Lu*__, Alice A. Miller, Ruth Hoffmann, Christopher W. Johnson. Towards the Automated Verification of Weibull Distributions for System Failure Rates. Lecture Notes in Computer Science, 9933:81-96, September 2016.
-3. Zhaoguang Peng, __Yu Lu*__, Alice Miller, Tingdi Zhao, Chris Johnson. Formal Specification and Quantitative Analysis of a Constellation of Navigation Satellites. Quality and Reliability Engineering International, 32(2):345-361, March 2016. (中科院3区)
-4. Zhaoguang Peng, __Yu Lu*__, Alice Miller, Chris Johnson, Tingdi Zhao. Risk Assessment of Railway Transportation Systems using Timed Fault Trees. Quality and Reliability Engineering International, 32(1):181-194, February 2016. (中科院3区)
-5. __Yu Lu__, Zhaoguang Peng*, Alice Miller, Tingdi Zhao, Chris Johnson. How reliable is satellite navigation for aviation? Checking availability properties with probabilistic verification. Reliability Engineering & System Safety, 144:95-116, December 2015. (中科院1区)
+2. __Yu Lu*__, Alice A. Miller, Ruth Hoffmann, Christopher W. Johnson. Towards the Automated Verification of Weibull Distributions for System Failure Rates. Lecture Notes in Computer Science, 9933:81-96, September 2016. [https://doi.org/10.1007/978-3-319-45943-1_6](https://doi.org/10.1007/978-3-319-45943-1_6)
+3. Zhaoguang Peng, __Yu Lu*__, Alice Miller, Tingdi Zhao, Chris Johnson. Formal Specification and Quantitative Analysis of a Constellation of Navigation Satellites. Quality and Reliability Engineering International, 32(2):345-361, March 2016. (中科院3区) [https://doi.org/10.1002/qre.1754](https://doi.org/10.1002/qre.1754)
+4. Zhaoguang Peng, __Yu Lu*__, Alice Miller, Chris Johnson, Tingdi Zhao. Risk Assessment of Railway Transportation Systems using Timed Fault Trees. Quality and Reliability Engineering International, 32(1):181-194, February 2016. (中科院3区) [https://doi.org/10.1002/qre.1738](https://doi.org/10.1002/qre.1738)
+5. __Yu Lu__, Zhaoguang Peng*, Alice Miller, Tingdi Zhao, Chris Johnson. How reliable is satellite navigation for aviation? Checking availability properties with probabilistic verification. Reliability Engineering & System Safety, 144:95-116, December 2015. (中科院1区) [https://doi.org/10.1016/j.ress.2015.07.020](https://doi.org/10.1016/j.ress.2015.07.020)
 
 
 ***荣誉获奖***
