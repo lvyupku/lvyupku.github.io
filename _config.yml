@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "吕羽"
+  #name             : "吕羽"
   avatar           : "tencent.jpg"
   #bio              : "深圳技术大学·大数据与互联网学院·副教授·硕士生导师"
   location         : "中国·深圳"
