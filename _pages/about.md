@@ -100,7 +100,7 @@ News
 
 ***国际学术期刊论文***
 
-1. Jia Sun; Qifeng Zhang; __Yu Lu__; Bingding Huang; Qiang Li. A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines, 13(1):41, 10 January 2025. (中科院3区)
+1. Jia Sun; Qifeng Zhang; __Yu Lu__; Bingding Huang; Qiang Li. A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines, 13(1):41, 10 January 2025. (中科院3区)[https://doi.org/10.3390/machines13010041](https://doi.org/10.3390/machines13010041)
 1. Weifang Xie, Pufan Cai, Yating Hu, __Yu Lu*__, Cang Chen, Zhiqi Cai, Xianghua Fu. AI-driven paradigm shift in computerized cardiotocography analysis: A systematic review and promising directions, Neurocomputing, 607:128446, 28 November 2024. (中科院2区Top, CCF C类)
 2. Qingjun Cao, Hongzan Sun, Hua Wang, Xueyan Liu, **Yu Lu**, Liang Huo*. Comparative study of neonatal brain injury fetuses using machine learning methods for perinatal data, Computer Methods and Programs in Biomedicine, 240:107701, October 2023. (中科院2区Top)
 3. Huanwen Liang, __Yu Lu*__. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023. (中科院2区Top)
