@@ -39,18 +39,17 @@ Openings
 
 News
 ======
-- [03/2025] 1 paper accepted to ICME 2025（硕士生一作）
-- [12/2024] 1 paper accepted to ICASSP 2025（硕士生一作）
+- [03/2025] 1 paper accepted to [ICME 2025](https://2025.ieeeicme.org/)（硕士生一作）
+- [12/2024] 1 paper accepted to [ICASSP 2025](https://2025.ieeeicassp.org/)（硕士生一作）
 - [08/2024] 1 paper accepted to Neurocomputing
-- [08/2024] 1 regular paper accepted to BIBM 2024
-- [07/2024] 1 paper accepted to SMC 2024
-- [05/2024] 2 papers accepted to ICIC 2024
-- [03/2024] 3 papers accepted to IJCNN 2024（硕士生一作 ×3）
-- [03/2024] 1 poster paper accepted to CF 2024（本科生一作）
-- [02/2024] 1 paper accepted to CF 2024
+- [08/2024] 1 regular paper accepted to [BIBM 2024](https://ieeebibm.org/BIBM2024/)（科研助理一作）
+- [07/2024] 1 paper accepted to [SMC 2024](https://www.ieeesmc2024.org/)
+- [05/2024] 2 papers accepted to [ICIC 2024](http://www.ic-icc.cn/2024/)
+- [03/2024] 3 papers accepted to [IJCNN 2024](https://2024.ieeewcci.org/)（硕士生一作×3）
+- [03/2024] 2 papers accepted to [CF 2024](https://www.computingfrontiers.org/2024/)（本科生一作×1）
 - [02/2024] 1 paper accepted to ISBI 2024（硕士生一作）
 - [11/2023] 1 workshop paper accepted to BIBM 2023（本科生一作）
-- [05/2023] 2 papers accepted to ICIC 2023（本科生一作 ×1）
+- [05/2023] 2 papers accepted to ICIC 2023（本科生一作×1）
 - [12/2022] 1 paper accepted to Computer Methods and Programs in Biomedicine（硕士生一作）
 - [07/2021] 1 paper accepted to Future Generation Computer Systems（本科生一作）
   相关报道：“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行了报道。
