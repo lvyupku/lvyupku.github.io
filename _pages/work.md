@@ -46,16 +46,18 @@ author_profile: true
 - IEEE Transactions on Reliability
 - IEEE Transactions on Vehicular Technology
 - IEEE Access
-- IET Image Processing
 - Applied Soft Computing
+- Neurocomputing
 - Artificial Intelligence In Medicine
-- Computer Science Review
-- Biomedical Signal Processing and Control
-- Neural Computing and Applications
 - Computer Methods and Programs in Biomedicine
 - Computers in Biology and Medicine
+- Biomedical Signal Processing and Control
 - Computerized Medical Imaging and Graphics
 - Future Generation Computer Systems
+- Computer Science Review
+- IET Image Processing
+- Neural Computing and Applications
+- The Journal of Maternal-Fetal & Neonatal Medicine
 - Journal of Bone Oncology
 - Journal of Medical Imaging and Health Informatics
 - Computational and Mathematical Methods in Medicine
