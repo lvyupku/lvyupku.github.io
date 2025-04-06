@@ -167,4 +167,7 @@ News
 11. 2019年：深圳技术大学2019年度高水平论文奖（自然科学类）一等奖1项、三等奖1项
 
 ***已投稿***
-1. CollaSpace: Consistency-Aware Space Collaboration for Contrastive Semi-Supervised Medical Image Segmentation. Submitted to [ACM MM 2025](https://acmmm2025.org/).
+1. CollaSpace: Consistency-Aware Space Collaboration for Contrastive Semi-Supervised Medical Image Segmentation. Submitted to [ACM MM 2025](https://acmmm2025.org/)
+2. A New Dataset, Model, and Benchmark for Lightweight and Real-Time Underwater Object Detection. Submitted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+3. EFCWM-Mamba-YOLO: Real-Time Underwater Object Detection with Adaptive Feature Representation and Domain Adaptation. Submitted to [2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros25.org/)
+4. Segment Anything Model (SAM) for medical image segmentation: Taxonomy, challenges, and future directions. Submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
