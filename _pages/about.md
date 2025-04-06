@@ -165,3 +165,6 @@ News
 9. 2021年：深圳技术大学2021年度横向科研项目奖1项
 10. 2020年：深圳技术大学2020年度高水平论文奖（自然科学类）一等奖1项
 11. 2019年：深圳技术大学2019年度高水平论文奖（自然科学类）一等奖1项、三等奖1项
+
+***已投稿***
+1. CollaSpace: Consistency-Aware Space Collaboration for Contrastive Semi-Supervised Medical Image Segmentation. Submitted to [ACM MM 2025](https://acmmm2025.org/).
