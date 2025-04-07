@@ -177,10 +177,3 @@ News
 8. MedSegLocNet: Self-Supervised Learning for Joint Medical Image Segmentation and Landmark Localization with Task-Adaptive Feature Representation. Submitted to [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/)
 9. Self-Supervised Learning for Tractional Retinal Lesions Diagnosis from OCT Images. Submitted to [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/)
 10. MambaXray-MTL: A Multi-Task Vision-Language Framework for Lesion Detection and Medical Report Generation. Submitted to [2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)](https://www.ieeesmc2025.org/)
-
-***准备中***
-1. CTG signal generation. [2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://biod.whu.edu.cn/bibm2025/)
-2. FHR acceleration/deceleration detection. [2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://biod.whu.edu.cn/bibm2025/)
-3. CTG continual learning. [2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://biod.whu.edu.cn/bibm2025/)
-4. FECG Extraction. [2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://biod.whu.edu.cn/bibm2025/)
-5. Segmentation of Left Ventricle in Echocardiography. [2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)](https://biod.whu.edu.cn/bibm2025/)
