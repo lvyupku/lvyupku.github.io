@@ -62,7 +62,7 @@ News
 
 1. 广东省普通高校重点领域专项（生物医药与健康），2023ZDZX2055，基于AI多模态的妇幼健康状况中医诊断关键技术研究，2023.10-2026.10，20万元，在研，**主持**。
 2. 国家自然科学基金面上项目，62473267，大语言模型驱动的多源非完备生理信息融合方法研究，2025.1-2028.12，50万元，在研，参与。
-3. 2024年大数据系统计算技术国家工程实验室开放课题面上项目，基于大数据和大模型的多模态深度学习技术预测不良分娩结局的研究，2024.01-2025.12，2万元，在研，**主持**。
+3. 2024年大数据系统计算技术国家工程实验室开放课题面上项目，SZU-BDSC-OF2024-11，基于大数据和大模型的多模态深度学习技术预测不良分娩结局的研究，2024.01-2025.12，2万元，在研，**主持**。
 4. 2023年机器人学国家重点实验室开放课题，基于触觉的水下机械手感知建模与抓取仿真研究，2023.12-2025.12，5万元，在研，参与。
 5. 深圳市高等院校稳定支持计划面上项目，SZWD2021012，基于全同态加密的隐私保护机器学习算法研究，2020.9-2023.12，30万元，结题，参与。
 6. 深圳市新引进高端人才科研启动项目，2019010801011，应用于移动及嵌入式物联网系统的深度学习技术研究，2019.1-2021.12，170万元，优秀结题，**主持**。
@@ -105,7 +105,7 @@ News
 2. Weifang Xie, Pufan Cai, Yating Hu, __Yu Lu*__, Cang Chen, Zhiqi Cai, Xianghua Fu. AI-driven paradigm shift in computerized cardiotocography analysis: A systematic review and promising directions, Neurocomputing, 607:128446, 28 November 2024. (中科院2区Top, CCF C类) [https://doi.org/10.1016/j.neucom.2024.128446](https://doi.org/10.1016/j.neucom.2024.128446)
 3. Qingjun Cao, Hongzan Sun, Hua Wang, Xueyan Liu, **Yu Lu**, Liang Huo*. Comparative study of neonatal brain injury fetuses using machine learning methods for perinatal data, Computer Methods and Programs in Biomedicine, 240:107701, October 2023. (中科院2区Top) [https://doi.org/10.1016/j.cmpb.2023.107701](https://doi.org/10.1016/j.cmpb.2023.107701)
 4. Huanwen Liang, __Yu Lu*__. A CNN-RNN unified framework for intrapartum cardiotocograph classification, Computer Methods and Programs in Biomedicine, 229:107300, February 2023. (中科院2区Top) [https://doi.org/10.1016/j.cmpb.2022.107300](https://doi.org/10.1016/j.cmpb.2022.107300)
-5. Yucheng Song, Shengbing Ren, **Yu Lu**, Xianghua Fu, Kelvin K.L. Wong*. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022. (中科院2区Top) [https://doi.org/10.1016/j.cmpb.2022.106821](https://doi.org/10.1016/j.cmpb.2022.106821)
+5. Yucheng Song, Shengbing Ren, __Yu Lu*__, Xianghua Fu, Kelvin K.L. Wong*. Deep Learning-Based Automatic Segmentation of Images in Cardiac Radiography: A Promising Challenge, Computer Methods and Programs in Biomedicine, 220:106821, June 2022. (中科院2区Top) [https://doi.org/10.1016/j.cmpb.2022.106821](https://doi.org/10.1016/j.cmpb.2022.106821)
 6. Ming He, Xudong Zhao, **Yu Lu**, and Yi Hu*. An improved AlexNet model for automated skeletal maturity assessment using hand X-ray images. Future Generation Computer Systems, 121:106-113, August 2021. (中科院1区, CCF C类) [https://doi.org/10.1016/j.future.2021.03.018](https://doi.org/10.1016/j.future.2021.03.018)
 7. Mojisola Grace Asogbon, **Yu Lu**, Oluwarotimi Williams Samuel, Liwen Jing, Alice A. Miller, Guanglin Li, Kelvin K.L. Wong*. GBRAMP: A generalized backtracking regularized adaptive matching pursuit algorithm for signal reconstruction. Computers and Electrical Engineering, 92:107189, June 2021. (中科院3区) [https://doi.org/10.1016/j.compeleceng.2021.107189](https://doi.org/10.1016/j.compeleceng.2021.107189)
 8. Xiaoqing Li, __Yu Lu*__, Xianghua Fu, and Yingjian Qi. Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing. Future Generation Computer Systems, 118:282-296, May 2021. (中科院1区, CCF C类) [https://doi.org/10.1016/j.future.2021.01.016](https://doi.org/10.1016/j.future.2021.01.016)
