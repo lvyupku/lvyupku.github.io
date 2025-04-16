@@ -67,11 +67,12 @@ News
 5. 深圳市高等院校稳定支持计划面上项目，SZWD2021012，基于全同态加密的隐私保护机器学习算法研究，2020.9-2023.12，30万元，结题，参与。
 6. 深圳市新引进高端人才科研启动项目，2019010801011，应用于移动及嵌入式物联网系统的深度学习技术研究，2019.1-2021.12，170万元，优秀结题，**主持**。
 7. 深圳市技术攻关面上项目，2021325715，重2022233 “互联网+”智慧母胎监 护技术研发，2022.1-2023.12，164万元，结题，参与。
-8. 广东省重点建设学科科研能力提升项目，2022ZDJS112，基于云边协同的多模态感知服务型人机交互系统关键技术研究，2023.1-2025.12，80万元，结题，参与。
-9. 广东省重点建设学科科研能力提升项目，2022ZDJS117，基于神经辐射场的高效视频编码技术研究，2023.1-2025.12，100万元，结题，参与。
-10. 广东省普通高校科研项目（特色创新类），2019KTSCX204，结合知识推理的弱监督混合式智能问答关键技术研究，2020.1-2021.12，10万元，结题，参与。
-11. 深圳市高等院校稳定支持计划面上项目，SZWD2021011，基于多模态知识感知的混合式特定域智能问答模型与方法研究，2020.9-2023.12，30万元，结题，参与。
-12. 深圳市科技应用示范项目，KJYY20170721163528274，智慧妇幼物联网围产期健康管理平台，2017.4-2020.4，300万元，结题，**主持**。
+8. 广东省普通高校科研项目（青年创新人才类），2022KQNCX071，基于多中心数据集的范化深度学习研究，2022.9-2024.8，在研，参与。
+9. 广东省重点建设学科科研能力提升项目，2022ZDJS112，基于云边协同的多模态感知服务型人机交互系统关键技术研究，2023.1-2025.12，80万元，结题，参与。
+10. 广东省重点建设学科科研能力提升项目，2022ZDJS117，基于神经辐射场的高效视频编码技术研究，2023.1-2025.12，100万元，结题，参与。
+11. 广东省普通高校科研项目（特色创新类），2019KTSCX204，结合知识推理的弱监督混合式智能问答关键技术研究，2020.1-2021.12，10万元，结题，参与。
+12. 深圳市高等院校稳定支持计划面上项目，SZWD2021011，基于多模态知识感知的混合式特定域智能问答模型与方法研究，2020.9-2023.12，30万元，结题，参与。
+13. 深圳市科技应用示范项目，KJYY20170721163528274，智慧妇幼物联网围产期健康管理平台，2017.4-2020.4，300万元，结题，**主持**。
     
 ***横向项目***
 
@@ -109,7 +110,7 @@ News
 6. Ming He, Xudong Zhao, __Yu Lu__, and Yi Hu*. An improved AlexNet model for automated skeletal maturity assessment using hand X-ray images. Future Generation Computer Systems, 121:106-113, August 2021. (中科院1区, CCF C类) [https://doi.org/10.1016/j.future.2021.03.018](https://doi.org/10.1016/j.future.2021.03.018)
 7. Mojisola Grace Asogbon, __Yu Lu__, Oluwarotimi Williams Samuel, Liwen Jing, Alice A. Miller, Guanglin Li, Kelvin K.L. Wong*. GBRAMP: A generalized backtracking regularized adaptive matching pursuit algorithm for signal reconstruction. Computers and Electrical Engineering, 92:107189, June 2021. (中科院3区) [https://doi.org/10.1016/j.compeleceng.2021.107189](https://doi.org/10.1016/j.compeleceng.2021.107189)
 8. Xiaoqing Li, __Yu Lu*__, Xianghua Fu, and Yingjian Qi. Building the Internet of Things platform for smart maternal healthcare services with wearable devices and cloud computing. Future Generation Computer Systems, 118:282-296, May 2021. (中科院1区, CCF C类) [https://doi.org/10.1016/j.future.2021.01.016](https://doi.org/10.1016/j.future.2021.01.016)
-9. Xiliang Zhu, Yang Wei, __Yu Lu__, Ming Zhao*, Ke Yang, Shiqian Wu, Zhang Hui, and Kelvin K.L. Wong*. Comparative analysis of active contour and convolutional neural network in rapid left-ventricle volume quantification using echocardiographic imaging. Computer Methods and Programs in Biomedicine, 199:105914, February 2021. (中科院2区Top) [https://doi.org/10.1016/j.cmpb.2020.105914](https://doi.org/10.1016/j.cmpb.2020.105914)
+9. Xiliang Zhu, Yang Wei, __Yu Lu*__, Ming Zhao*, Ke Yang, Shiqian Wu, Zhang Hui, and Kelvin K.L. Wong*. Comparative analysis of active contour and convolutional neural network in rapid left-ventricle volume quantification using echocardiographic imaging. Computer Methods and Programs in Biomedicine, 199:105914, February 2021. (中科院2区Top) [https://doi.org/10.1016/j.cmpb.2020.105914](https://doi.org/10.1016/j.cmpb.2020.105914)
 10. __Yu Lu__, Xi Zhang, Liwen Jing, Xiaoqing Li, and Xianghua Fu*. Estimation of the foetal heart rate baseline based on singular spectrum analysis and empirical mode decomposition. Future Generation Computer Systems, 112:126-135, November 2020. (中科院1区, CCF C类) [https://doi.org/10.1016/j.future.2020.05.008](https://doi.org/10.1016/j.future.2020.05.008)
 11. Ming Zhao*, Yang Wei, __Yu Lu__, and Kelvin K.L. Wong*. A novel U-Net approach to segment the cardiac chamber in magnetic resonance images with ghost artifacts. Computer Methods and Programs in Biomedicine, 196:105623, May 2020. (中科院2区Top) [https://doi.org/10.1016/j.cmpb.2020.105623](https://doi.org/10.1016/j.cmpb.2020.105623)
 12. Xu Chen, Jianjun Li, Yanchao Zhang, __Yu Lu__, and Shaoyu Liu*. Automatic feature extraction in X-ray image based on deep learning approach for determination of bone age. Future Generation Computer Systems, 110:795-801, September 2020. (中科院1区, CCF C类) [https://doi.org/10.1016/j.future.2019.10.032](https://doi.org/10.1016/j.future.2019.10.032)
