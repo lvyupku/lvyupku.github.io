@@ -166,17 +166,3 @@ News
 9. 2021年：深圳技术大学2021年度横向科研项目奖1项
 10. 2020年：深圳技术大学2020年度高水平论文奖（自然科学类）一等奖1项
 11. 2019年：深圳技术大学2019年度高水平论文奖（自然科学类）一等奖1项、三等奖1项
-
-***已投稿***
-1. CollaSpace: Consistency-Aware Space Collaboration for Contrastive Semi-Supervised Medical Image Segmentation. Submitted to [33rd ACM International Conference on Multimedia (ACM MM 2025)](https://acmmm2025.org/)
-2. A New Dataset, Model, and Benchmark for Lightweight and Real-Time Underwater Object Detection. Submitted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-3. EFCWM-Mamba-YOLO: Real-Time Underwater Object Detection with Adaptive Feature Representation and Domain Adaptation. Submitted to [2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)](http://www.iros25.org/)
-4. Segment Anything Model (SAM) for medical image segmentation: Taxonomy, challenges, and future directions. Submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
-5. PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images. Submitted to [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/)
-6. Multi-Stage Contrastive Training for Medical Report Generation: A Mamba-Based Multi-Modal Large Model. Submitted to [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/)
-7. DiffuEx: Diffusion-Based Explainable AI for Medical Imaging. Submitted to [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/)
-8. MedSegLocNet: Self-Supervised Learning for Joint Medical Image Segmentation and Landmark Localization with Task-Adaptive Feature Representation. Submitted to [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/)
-9. Self-Supervised Learning for Tractional Retinal Lesions Diagnosis from OCT Images. Submitted to [28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)](https://conferences.miccai.org/2025/en/)
-10. MambaXray-MTL: A Multi-Task Vision-Language Framework for Lesion Detection and Medical Report Generation. Submitted to [2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)](https://www.ieeesmc2025.org/)
-11. A Deep Learning Model for Surface Defect Detection in Thermoelectric Cooler Components. Submitted to [21st International Conference on Intelligent Computing (ICIC 2025)](http://www.ic-icc.cn/2025/index.php)
-12. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. Submitted to [21st International Conference on Intelligent Computing (ICIC 2025)](http://www.ic-icc.cn/2025/index.php)
