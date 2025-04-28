@@ -122,7 +122,7 @@ News
 
 ***国际学术会议论文***
 
-1. Wenbin Feng, __Yu Lu<sup>*</sup>__, Shijie Shi*, Meng Li, Huilin Ge. A Deep Learning Model for Surface Defect Detection in Thermoelectric Cooler Components. Proceedings of the 21st International Conference on Intelligent Computing (ICIC 2025), Ningbo, China, July 26-29, 2025. (CCF C类)
+1. Wenbin Feng, __Yu Lu__ <sup>*</sup>, Shijie Shi<sup>**</sup>, Meng Li, Huilin Ge. A Deep Learning Model for Surface Defect Detection in Thermoelectric Cooler Components. Proceedings of the 21st International Conference on Intelligent Computing (ICIC 2025), Ningbo, China, July 26-29, 2025. (CCF C类)
 2. Wei Zhang*, Haonan Qin, Xiujuan Zhao, __Yu Lu__, Bingding Huang, Zhicheng Dong, Caifen Wang. Attention-Enhanced Few-Shot Diagnosis of Pathological Myopia and MTM. Proceedings of the 21st International Conference on Intelligent Computing (ICIC 2025), Ningbo, China, July 26-29, 2025. (CCF C类)
 3. __Yu Lu*__, Qiong Zhu, Leya Li, Heng Zhao, Yuting Peng, Pufan Cai, Shijie Shi. M<sup>3</sup>SU-Net: A Multi-Model and Multi-Scale Deep Neural Network for Baseline Determination in Biomedical Time Series. Proceedings of the 2025 International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy, June 30 - July 5, 2025. (CCF C类)
 4. Lingzhi Zhou, Hongjing Chen, Ziqing You, Yuhuan Liao, Qing Liu, Demin Pang, Jiawen Yi, __Yu Lu*__. An Image Hiding Scheme based on Bayesian Optimization Reinforcement Learning and Chaotic Encryption. Proceedings of the 2025 International Joint Conference on Neural Networks (IJCNN 2025), Rome, Italy, June 30 - July 5, 2025. (CCF C类)
