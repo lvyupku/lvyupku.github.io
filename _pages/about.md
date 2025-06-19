@@ -1,14 +1,3 @@
-![image](https://github.com/user-attachments/assets/a1e7e49b-1e27-4cff-b3ce-3ba0fda8699f)
----
-permalink: /
-excerpt: "Yu Lu"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /Homepage.html
----
-<!-- title: "Homepage" -->
-<!--  Welcome to my website! -->
 **吕羽 Yu Lu**
 
 副教授，深圳技术大学
