@@ -1,3 +1,13 @@
+---
+permalink: /
+excerpt: "Yu Lu"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /Homepage.html
+---
+<!-- title: "Homepage" -->
+<!--  Welcome to my website! -->
 **吕羽 Yu Lu**
 
 副教授，深圳技术大学
