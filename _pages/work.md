@@ -43,6 +43,7 @@ author_profile: true
 **期刊审稿人 (Journal Reviewer)**
 - IEEE Journal of Biomedical and Health Informatics
 - IEEE Transactions on Emerging Topics in Computational Intelligence
+- IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Transactions on Reliability
 - IEEE Transactions on Vehicular Technology
 - IEEE Access
