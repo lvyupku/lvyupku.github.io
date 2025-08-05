@@ -110,7 +110,7 @@ News
 
 ***国际学术期刊论文***
 
-1. **Yu Lu**<sup>*</sup>, Zhanpeng Xu, Kai Leung Yung, Wai Hung Ip. MSL-Net: A Lightweight Self-Supervised Multi-Task Framework for IoMT-Enabled Medical Image Segmentation and Landmark Localization, Internet of Things, 2025. (SCIE,EI,中科院2区)
+1. **Yu Lu**<sup>*</sup>, Zhanpeng Xu, Kai Leung Yung, Wai Hung Ip. MSL-Net: A Lightweight Self-Supervised Multi-Task Framework for IoMT-Enabled Medical Image Segmentation and Landmark Localization, Internet of Things, 2025. (SCIE,EI,中科院2区) [https://doi.org/10.1016/j.iot.2025.101709](https://doi.org/10.1016/j.iot.2025.101709)
 2. Huilin Ge, Pan Sun, **Yu Lu**<sup>*</sup>. A New Dataset, Model, and Benchmark for Lightweight and Real-Time Underwater Object Detection, Neurocomputing, 2025. (SCIE,EI,中科院2区Top,CCF C) [https://doi.org/10.1016/j.neucom.2025.130891](https://doi.org/10.1016/j.neucom.2025.130891)
 3. Jia Sun, Qifeng Zhang, **Yu Lu**, Bingding Huang, Qiang Li<sup>*</sup>. A Review of Touching-Based Underwater Robotic Perception and Manipulation, Machines, 13(1):41, 10 January 2025. (SCIE,EI,中科院3区) [https://doi.org/10.3390/machines13010041](https://doi.org/10.3390/machines13010041)
 4. Weifang Xie, Pufan Cai, Yating Hu, **Yu Lu**<sup>*</sup>, Cang Chen, Zhiqi Cai, Xianghua Fu. AI-driven paradigm shift in computerized cardiotocography analysis: A systematic review and promising directions, Neurocomputing, 607:128446, 28 November 2024. (SCIE,EI,中科院2区Top,CCF C) [https://doi.org/10.1016/j.neucom.2024.128446](https://doi.org/10.1016/j.neucom.2024.128446)
