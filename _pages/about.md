@@ -28,7 +28,7 @@ Openings
 
 个人介绍
 ======
-现任副教授、硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。已在Neurocomputing、Knowledge-Based Systems、Future Generation Computer Systems、Artificial Intelligence in Medicine、Computer Methods and Programs in Biomedicine、Ocean Engineering、Reliability Engineering & System Safety等国际期刊，以及AAAI、ICME、ICASSP、BIBM等国际会议上发表学术论文70余篇。主持包含国家自然科学基金面上、广东省普通高校重点领域专项等项目。拥有2项国家发明专利授权，另有6项国家发明专利申请中，已实现1项科技成果转化。
+现任副教授、硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。已在Neurocomputing、Knowledge-Based Systems、Future Generation Computer Systems、Artificial Intelligence in Medicine、Computer Methods and Programs in Biomedicine、Ocean Engineering、Reliability Engineering & System Safety等国际期刊，以及AAAI、ICME、ICASSP、BIBM等国际会议上发表学术论文70余篇。主持包含国家自然科学基金面上项目、广东省普通高校重点领域专项等项目。拥有2项国家发明专利授权，另有6项国家发明专利申请中，已实现1项科技成果转化。
 
 - 2022.12-至今，深圳技术大学，副教授
 - 2018.09-2022.11，深圳技术大学，助理教授
