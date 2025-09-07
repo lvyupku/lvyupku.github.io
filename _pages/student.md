@@ -49,18 +49,6 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/xzp(2).jpg" alt="许展鹏">
-        </div>
-        <div class="text">
-            <p><strong>许展鹏</strong></p>
-            <p>硕士研究生，计算机技术专业，2022级</p>
-            <p>实验室：C-1-902</p>
-            <p>论文题目： 基于自监督多任务学习的左心室射血分数评估算法研究</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
             <img src="/images/sunpan.jpg" alt="孙攀">
         </div>
         <div class="text">
@@ -200,12 +188,24 @@ author_profile: true
 
     <div class="container">
         <div class="image">
+            <img src="/images/xzp(2).jpg" alt="许展鹏">
+        </div>
+        <div class="text">
+            <p><strong>许展鹏</strong></p>
+            <p>硕士研究生，计算机技术专业，2022级</p>
+            <p>论文题目： 基于自监督多任务学习的左心室射血分数评估算法研究</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
             <img src="/images/yzc.jpg" alt="余自长">
         </div>
         <div class="text">
             <p><strong>余自长</strong></p>
             <p>硕士研究生，计算机科学与技术专业，2021级</p>
             <p>论文题目：融合因果关系与生成模型的CTG数据增强方法研究</p>
+            <p>毕业去向：北京理工大学（读博）</p>
         </div>
     </div>
     
@@ -265,7 +265,7 @@ author_profile: true
             <p>本科生，计算机科学与技术专业，2020级</p>
             <p>第二届伦琴AI实验班成员</p>
             <p>毕业论文题目：基于深度学习的胎儿心率分析增强及基线自动确定</p>
-            <p>毕业去向：德国德累斯顿工业大学（硕士）</p>
+            <p>毕业去向：德国德累斯顿工业大学（读硕）</p>
         </div>
     </div>
 
@@ -276,7 +276,6 @@ author_profile: true
         <div class="text">
             <p><strong>罗瑞鹏</strong></p>
             <p>全职科研助理，2023年7月-2024年1月</p>
-            <p>实验室：C-1-902</p>
             <p>本科毕业于深圳技术大学</p>
         </div>
     </div>
@@ -288,9 +287,8 @@ author_profile: true
         <div class="text">
             <p><strong>梁焕文</strong></p>
             <p>硕士研究生，计算机技术专业，2020级</p>
-            <p>实验室：C-1-902</p>
             <p>论文题目：基于多元时序生物电信号的胎心监护评估算法研究</p>
-            <p>毕业去向：深圳大学（博士）</p>
+            <p>毕业去向：深圳大学（读博）</p>
         </div>
     </div>
 
@@ -339,7 +337,7 @@ author_profile: true
             <p>本科生，物联网工程专业，2019级</p>
             <p>第一届伦琴AI实验班成员</p>
             <p>毕业论文题目：基于深度学习和甲基化二代测序数据的癌症早筛方法研究</p>
-            <p>毕业去向：香港科技大学（硕士）</p>
+            <p>毕业去向：香港科技大学（读硕）</p>
         </div>
     </div>   
 
