@@ -9,6 +9,7 @@ author_profile: true
 ======
 
 **本科生课程**
+-  [大学计算机与人工智能A](https://valley-bestseller-0fd.notion.site/A-2025-278125d7376080478622c3352860de09)
 -  [机器学习导论](https://valley-bestseller-0fd.notion.site/2024-70bdcf9c5f86460e83984cc215e36dfe)
 -  [计算概论](https://valley-bestseller-0fd.notion.site/2024-10c125d73760808bad4bc80a0e86fc0e)
 -  操作系统
