@@ -25,6 +25,7 @@ author_profile: true
 
 
 **国际学术会议技术委员会成员 (PC Member)**
+- 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), December 15-18, 2025, Wuhan, China
 - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), December 3-6, 2024, Lisbon, Portugal
 - 31st International Conference on Neural Information Processing (ICONIP 2024), December 2-6, 2024, Auckland, New Zealand
 - 20th International Conference on Intelligent Computing (ICIC 2024), August 5-8, 2024, Tianjin, China
@@ -73,6 +74,8 @@ author_profile: true
 - Healthcare Analytics
 
 **会议审稿人 (Conference Reviewer)**
+- 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
+- 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)
 - 2025 IEEE International Conference on Multimedia and Expo (ICME)
 - 2025 International Joint Conference on Neural Networks (IJCNN)
 - 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
