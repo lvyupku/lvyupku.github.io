@@ -111,7 +111,6 @@ News
 **（2018.9-）**
 
 ***国际学术期刊论文***
-
 1. Huilin Ge, Pan Sun, **Yu Lu**<sup>*</sup>. A New Dataset, Model, and Benchmark for Lightweight and Real-Time Underwater Object Detection, Neurocomputing, 651:130891, 28 October 2025. (SCIE,EI,中科院2区Top,CCF C) [https://doi.org/10.1016/j.neucom.2025.130891](https://doi.org/10.1016/j.neucom.2025.130891)
 2. **Yu Lu**<sup>*</sup>, Zhanpeng Xu, Kai Leung Yung, Wai Hung Ip. MSL-Net: A Lightweight Self-Supervised Multi-Task Framework for IoMT-Enabled Medical Image Segmentation and Landmark Localization, Internet of Things, 33:101709, September 2025. (SCIE,EI,中科院2区) [https://doi.org/10.1016/j.iot.2025.101709](https://doi.org/10.1016/j.iot.2025.101709)
 3. Weifang Xie, Pufan Cai, Yating Hu, **Yu Lu**<sup>*</sup>, Cang Chen, Zhiqi Cai, Xianghua Fu. AI-driven paradigm shift in computerized cardiotocography analysis: A systematic review and promising directions, Neurocomputing, 607:128446, 28 November 2024. (SCIE,EI,中科院2区Top,CCF C) [https://doi.org/10.1016/j.neucom.2024.128446](https://doi.org/10.1016/j.neucom.2024.128446)
@@ -131,7 +130,9 @@ News
 
 
 ***国际学术会议论文***
-
+1. Wei Zhang, **Yu Lu**<sup>*</sup>, Han Jiang, Xiujuan Zhao, Qianying Liu, Bingding Huang, Zhaoshun Zhang, Zhicheng Dong, Liyilei Su. Enhancing Early Detection of Tractional Retinal Lesions in OCT via Self-Supervised Learning. Proceedings of the 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Wuhan, China, December 15-18, 2025. (CCF B)
+2. Yongfa Liu<sup>#</sup>, **Yu Lu**<sup>#</sup>, Yunhao Yang, Bin Zeng, Zexiang Guo, Yueling Lyu, Xinrui Wan, Xiao Song, Shurong Peng<sup>*</sup>. MALSeg: A Hyperspectral Benchmark and Lightweight Model for Acne Lesion Segmentation. Proceedings of the 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Wuhan, China, December 15-18, 2025. (CCF B)
+3. **Yu Lu**, Zhanpeng Xu, Wei Zhang<sup>*</sup>, Kelvin K.L. Wong. Self-Supervised Learning for Joint Medical Image Segmentation and Landmark Detection with Task-Adaptive Feature Representation. Proceedings of the 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Wuhan, China, December 15-18, 2025. (CCF B)
 4. Pan Sun, **Yu Lu**<sup>*</sup>, Shijie Shi, Meng Li, Qiang Li, Huilin Ge. EFCWM-Mamba-YOLO: Real-Time Underwater Object Detection with Adaptive Feature Representation and Domain Adaptation. Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China, October 19-25, 2025. (CSRanking顶尖会议)
 5. Wenbing Feng, **Yu Lu**<sup>*</sup>, Xiaoqing Li, Shijie Shi, Yingjian Qi. MambaXray-CTL: Multi-Stage Contrastive Training for Medical Report Generation with a Mamba-Based Multi-Modal Large Model. Proceedings of the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Vienna, Austria, October 5-8, 2025. (CCF C)
 6. Wenbin Feng, **Yu Lu**<sup>*</sup>, Shijie Shi<sup>**</sup>, Meng Li, Huilin Ge. A Deep Learning Model for Surface Defect Detection in Thermoelectric Cooler Components. Proceedings of the 21st International Conference on Intelligent Computing (ICIC 2025), 163-172, Ningbo, China, July 26-29, 2025. (CCF C) [https://doi.org/10.1007/978-981-96-9921-6_14](https://doi.org/10.1007/978-981-96-9921-6_14)
