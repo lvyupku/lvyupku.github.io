@@ -40,7 +40,7 @@ Openings
 News
 ======
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
-- [10/2025] 5 papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+- [10/2025] 4 papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 - [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted to [SMC 2025](https://www.ieeesmc2025.org/)（本科生一作）
 - [06/2025] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
