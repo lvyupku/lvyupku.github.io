@@ -112,7 +112,7 @@ News
 **（2018.9-）**
 
 ***国际学术期刊论文***
-1. **Yu Lu**, Zhenpeng Xu, Meng Li*, Xianghua Fu, Kai Leung Yung, Wai Hung Ip. A Benchmark Dataset and Lightweight Model for Multi-Distance Gesture Recognition in UAV Control, Applied Soft Computing, 2025. Accepted (SCIE,EI,中科院2区Top)
+1. **Yu Lu**, Zhenpeng Xu, Meng Li*, Xianghua Fu, Kai Leung Yung, Wai Hung Ip. A Benchmark Dataset and Lightweight Model for Multi-Distance Gesture Recognition in UAV Control, Applied Soft Computing, 2026. (SCIE,EI,中科院2区Top) [https://doi.org/10.1016/j.asoc.2025.114222](https://doi.org/10.1016/j.asoc.2025.114222)
 2. Huilin Ge, Pan Sun, **Yu Lu**<sup>*</sup>. A New Dataset, Model, and Benchmark for Lightweight and Real-Time Underwater Object Detection, Neurocomputing, 651:130891, 28 October 2025. (SCIE,EI,中科院2区Top,CCF C) [https://doi.org/10.1016/j.neucom.2025.130891](https://doi.org/10.1016/j.neucom.2025.130891)
 3. **Yu Lu**<sup>*</sup>, Zhanpeng Xu, Kai Leung Yung, Wai Hung Ip. MSL-Net: A Lightweight Self-Supervised Multi-Task Framework for IoMT-Enabled Medical Image Segmentation and Landmark Localization, Internet of Things, 33:101709, September 2025. (SCIE,EI,中科院2区) [https://doi.org/10.1016/j.iot.2025.101709](https://doi.org/10.1016/j.iot.2025.101709)
 4. Weifang Xie, Pufan Cai, Yating Hu, **Yu Lu**<sup>*</sup>, Cang Chen, Zhiqi Cai, Xianghua Fu. AI-driven paradigm shift in computerized cardiotocography analysis: A systematic review and promising directions, Neurocomputing, 607:128446, 28 November 2024. (SCIE,EI,中科院2区Top,CCF C) [https://doi.org/10.1016/j.neucom.2024.128446](https://doi.org/10.1016/j.neucom.2024.128446)
