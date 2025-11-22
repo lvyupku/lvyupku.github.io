@@ -43,6 +43,8 @@ author_profile: true
 
 **期刊审稿人 (Journal Reviewer)**
 - IEEE Journal of Biomedical and Health Informatics
+- IEEE Transactions on Medical Imaging
+- IEEE Transactions on Mobile Computing
 - IEEE Transactions on Emerging Topics in Computational Intelligence
 - IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Transactions on Reliability
@@ -74,6 +76,7 @@ author_profile: true
 - Healthcare Analytics
 
 **会议审稿人 (Conference Reviewer)**
+- 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - 40th AAAI Conference on Artificial Intelligence (AAAI 2026)
 - 28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)
 - 2025 IEEE International Conference on Multimedia and Expo (ICME)
