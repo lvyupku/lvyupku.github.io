@@ -39,7 +39,6 @@ Openings
 
 News
 ======
-- [11/2025] 2 papers accepted to [BIBM 2025 Workshop](https://biod.whu.edu.cn/bibm2025/)
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [10/2025] 3 papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 - [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
@@ -57,7 +56,7 @@ News
 - [03/2024] 3 papers accepted to [IJCNN 2024](https://2024.ieeewcci.org/)（硕士生一作×3）
 - [03/2024] 2 papers accepted to [CF 2024](https://www.computingfrontiers.org/2024/)（本科生一作×1）
 - [02/2024] 1 paper accepted to [ISBI 2024](https://biomedicalimaging.org/2024/)（硕士生一作）
-- [11/2023] 1 paper accepted to [BIBM 2023 Workshp](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/)（本科生一作）
+- [11/2023] 1 paper accepted to [BIBM 2023](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/)（本科生一作）
 - [05/2023] 2 papers accepted to [ICIC 2023](https://www.ic-icc.cn/2023/)（本科生一作×1）
 - [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
 - [07/2021] 1 paper accepted to [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)（本科生一作）
