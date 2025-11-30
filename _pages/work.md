@@ -42,13 +42,14 @@ author_profile: true
 
 
 **期刊审稿人 (Journal Reviewer)**
-- IEEE Journal of Biomedical and Health Informatics
-- IEEE Transactions on Medical Imaging
-- IEEE Transactions on Mobile Computing
-- IEEE Transactions on Emerging Topics in Computational Intelligence
-- IEEE Transactions on Geoscience and Remote Sensing
-- IEEE Transactions on Reliability
-- IEEE Transactions on Vehicular Technology
+- IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
+- IEEE Transactions on Medical Imaging (IEEE TMI)
+- IEEE Transactions on Mobile Computing (IEEE TMC)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
+- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+- IEEE Transactions on Reliability (IEEE TR)
+- IEEE Transactions on Vehicular Technology (IEEE TVT)
+- IEEE Signal Processing Letters (IEEE SPL)
 - IEEE Access
 - Applied Soft Computing
 - Neurocomputing
