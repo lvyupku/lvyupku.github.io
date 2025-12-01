@@ -25,28 +25,15 @@ Openings
 ======
 我有多个专职副研究员/博士后/联合培养博士生/硕士生/RA/本科生/实习生/访问学生的职位空缺（全年），从事与医学人工智能、无人自主系统、形式化方法等相关的研究项目。欢迎有兴趣与我一起工作的优秀学生发邮件联系我。
 
-I have multiple year-round openings for full-time Associate Researchers, Postdoctoral Fellows, Joint-Training PhD Students, Master’s Students, Research Assistants, Undergraduate Students, Interns, and Visiting Students. These positions are related to research projects in AI in Medicine, Autonomous Systems, and Formal Methods. Outstanding candidates interested in working with me are welcome to contact me via email.
-
-
-个人介绍
 Introduction
 ======
 现任副教授、硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。已在Applied Soft Computing、Neurocomputing、Knowledge-Based Systems、Future Generation Computer Systems、Artificial Intelligence in Medicine、Computer Methods and Programs in Biomedicine、Ocean Engineering、Reliability Engineering & System Safety等国际期刊，以及AAAI、IROS、ICME、ICASSP、BIBM等国际会议上发表学术论文80余篇。主持国家自然科学基金面上项目、广东省普通高校重点领域专项等项目10余项。获2项发明专利授权，另有6项发明专利申请中，已实现1项科技成果转化。担任IEEE JBHI、IEEE TMI、IEEE TGRS、IEEE TMC、IEEE TVT、IEEE TETCI等国际顶级期刊审稿人。
-
-Yu Lu is currently an Associate Professor, Master’s Supervisor, and Deputy Director of the Department of Computer Science and Technology. He is also a Category C Talent of the Shenzhen Peacock Plan and a member of the Jiusan Society. He has published over 80 research papers in international journals such as Applied Soft Computing, Neurocomputing, Knowledge-Based Systems, Future Generation Computer Systems, Artificial Intelligence in Medicine, Computer Methods and Programs in Biomedicine, Ocean Engineering, and Reliability Engineering & System Safety, as well as in international conferences including AAAI, IROS, ICME, ICASSP, and BIBM. He has led more than 10 research projects, including the National Natural Science Foundation of China (General Program) and Guangdong Key Areas R&D projects. He holds 2 granted invention patents, with 6 additional patents under review, and has achieved one successful technology transfer. He serves as a reviewer for top international journals such as IEEE JBHI, IEEE TMI, IEEE TGRS, IEEE TMC, IEEE TVT, and IEEE TETCI.
 
 - 2022.12-至今，深圳技术大学，副教授
 - 2018.09-2022.11，深圳技术大学，助理教授
 - 2017.03-2018.08，深圳京柏医疗科技股份有限公司，科学家
 - 2015.10-2017.03，英国克兰菲尔德大学，博士后
 - 2011.10-2015.09，英国格拉斯哥大学，计算机科学专业，博士
-  
-- Dec. 2022 – Present: Associate Professor, Shenzhen Technology University
-- Sept. 2018 – Nov. 2022: Assistant Professor, Shenzhen Technology University
-- Mar. 2017 – Aug. 2018: Scientist, Shenzhen Jumper Medical Equipment Co., Ltd.
-- Oct. 2015 – Mar. 2017: Research Fellow, Cranfield University, UK
-- Oct. 2011 – Sept. 2015: Ph.D. in Computing Science, University of Glasgow, UK
-
 
 News
 ======
