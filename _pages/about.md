@@ -57,6 +57,7 @@ News
 - [03/2024] 3 papers accepted to [IJCNN 2024](https://2024.ieeewcci.org/)（硕士生一作×3）
 - [03/2024] 2 papers accepted to [CF 2024](https://www.computingfrontiers.org/2024/)（本科生一作×1）
 - [02/2024] 1 paper accepted to [ISBI 2024](https://biomedicalimaging.org/2024/)（硕士生一作）
+- [12/2023] 获认定2023年广东省一流本科课程1门📚✨
 - [11/2023] 1 paper accepted to [BIBM 2023 workshop](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/)（本科生一作）
 - [05/2023] 2 papers accepted to [ICIC 2023](https://www.ic-icc.cn/2023/)（本科生一作×1）
 - [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
