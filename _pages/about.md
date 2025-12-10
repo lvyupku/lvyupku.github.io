@@ -37,11 +37,9 @@ Introduction
 
 News
 ======
-- [12/2025] 荣获2025年广东省学校优秀教学成果奖特等奖1项🏆🏆🏆
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [11/2025] 2 papers accepted to [BIBM 2025 workshop](https://biod.whu.edu.cn/bibm2025/)
 - [10/2025] 3 papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
-- [08/2025] 获批2025年国家自然科学基金面上项目1项（负责人）📘🌿
 - [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted to [SMC 2025](https://www.ieeesmc2025.org/)（本科生一作）
 - [06/2025] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
@@ -57,7 +55,6 @@ News
 - [03/2024] 3 papers accepted to [IJCNN 2024](https://2024.ieeewcci.org/)（硕士生一作×3）
 - [03/2024] 2 papers accepted to [CF 2024](https://www.computingfrontiers.org/2024/)（本科生一作×1）
 - [02/2024] 1 paper accepted to [ISBI 2024](https://biomedicalimaging.org/2024/)（硕士生一作）
-- [12/2023] 获认定2023年广东省一流本科课程1门📚✨
 - [11/2023] 1 paper accepted to [BIBM 2023 workshop](https://bidma.cpsc.ucalgary.ca/IEEE-BIBM-2023/)（本科生一作）
 - [05/2023] 2 papers accepted to [ICIC 2023](https://www.ic-icc.cn/2023/)（本科生一作×1）
 - [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
@@ -177,14 +174,15 @@ News
 
 
 ***荣誉获奖***
-1. 2024年12月：广东省计算机学会高等教育教学成果奖一等奖，“I<sup>3</sup>融合、生师企同发展”的计算机学科人才成长体系（排名：9/10）
-2. 2024年12月：广东省计算机学会高等教育教学成果奖二等奖，面向新工科构建分层分类的应用型大学计算机课程教学改革与实践（排名：3/10）
-3. 2024年06月：深圳技术大学第二届校级教学成果奖一等奖，“I<sup>3</sup>融合，生师企同发展”的计算机学科人才成长体系（排名：6/12）
-4. 2024年06月：深圳技术大学第二届校级教学成果奖二等奖，面向新工科构建分层分类的应用型大学计算机课程教学改革与实践（排名：3/13）
-5. 2023年12月：广东省一流本科课程，“程序设计基础”（排名：4/6）
-6. 2022年09月：2021-2022学年深圳技术大学“优秀国际合作工作者”
-7. 2022年：深圳技术大学2022年度高水平论文奖（自然科学类）二等奖1项、三等奖1项
-8. 2021年：深圳技术大学2021年度高水平论文奖（自然科学类）一等奖1项
-9. 2021年：深圳技术大学2021年度横向科研项目奖1项
-10. 2020年：深圳技术大学2020年度高水平论文奖（自然科学类）一等奖1项
-11. 2019年：深圳技术大学2019年度高水平论文奖（自然科学类）一等奖1项、三等奖1项
+1. 2025年12月：广东省学校优秀教学成果奖（高等教育-本科类）特等奖（最高奖），“I<sup>3</sup>深融合，生师企共发展”的应用型计算机学科人才培养体系创新与实践（排名7/14）
+2. 2024年12月：广东省计算机学会高等教育教学成果奖一等奖（最高奖），“I<sup>3</sup>融合、生师企同发展”的计算机学科人才成长体系（排名：9/10）
+3. 2024年12月：广东省计算机学会高等教育教学成果奖二等奖，面向新工科构建分层分类的应用型大学计算机课程教学改革与实践（排名：3/10）
+4. 2024年06月：深圳技术大学第二届校级教学成果奖一等奖，“I<sup>3</sup>融合，生师企同发展”的计算机学科人才成长体系（排名：6/12）
+5. 2024年06月：深圳技术大学第二届校级教学成果奖二等奖，面向新工科构建分层分类的应用型大学计算机课程教学改革与实践（排名：3/13）
+6. 2023年12月：广东省一流本科课程，“程序设计基础”（排名：4/6）
+7. 2022年09月：2021-2022学年深圳技术大学“优秀国际合作工作者”
+8. 2022年：深圳技术大学2022年度高水平论文奖（自然科学类）二等奖1项、三等奖1项
+9. 2021年：深圳技术大学2021年度高水平论文奖（自然科学类）一等奖1项
+10. 2021年：深圳技术大学2021年度横向科研项目奖1项
+11. 2020年：深圳技术大学2020年度高水平论文奖（自然科学类）一等奖1项
+12. 2019年：深圳技术大学2019年度高水平论文奖（自然科学类）一等奖1项、三等奖1项
