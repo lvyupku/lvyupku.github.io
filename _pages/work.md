@@ -49,6 +49,7 @@ author_profile: true
 - IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 - IEEE Transactions on Reliability (IEEE TR)
 - IEEE Transactions on Vehicular Technology (IEEE TVT)
+- IEEE Internet of Things Journal
 - IEEE Signal Processing Letters (IEEE SPL)
 - IEEE Access
 - Applied Soft Computing
