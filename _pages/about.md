@@ -37,6 +37,7 @@ Introduction
 
 News
 ======
+- [12/2025] 1 paper accepted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [11/2025] 2 papers accepted to [BIBM 2025 workshop](https://biod.whu.edu.cn/bibm2025/)
 - [10/2025] 3 papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
