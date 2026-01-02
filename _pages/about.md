@@ -38,7 +38,6 @@ Introduction
 News
 ======
 - [12/2025] 1 paper accepted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- [11/2025] 1 paper accepted to [AAAI 2026 workshop](https://aaai.org/conference/aaai/aaai-26/workshop-program-list/)
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
