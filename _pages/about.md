@@ -27,7 +27,7 @@ Openings
 
 Introduction
 ======
-现任副教授、硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。已在Pattern Recognition、Applied Soft Computing、Neurocomputing、Knowledge-Based Systems、Artificial Intelligence in Medicine、Ocean Engineering、Reliability Engineering & System Safety等国际期刊，以及AAAI、IROS、ICME、ICASSP、BIBM等国际会议上发表学术论文80余篇。主持国家自然科学基金面上项目、广东省普通高校重点领域专项等项目10余项。获2项发明专利授权，另有6项发明专利申请中，已实现1项科技成果转化。担任IEEE JBHI、IEEE TMI、IEEE TGRS、IEEE TMC、IEEE TVT、IEEE TETCI等国际顶级期刊审稿人。
+现任副教授、硕士生导师，计算机科学与技术系副主任，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。已在Pattern Recognition、Applied Soft Computing、Neurocomputing、Knowledge-Based Systems、Artificial Intelligence in Medicine、Ocean Engineering、Reliability Engineering & System Safety等国际期刊，以及AAAI、IROS、ICME、ICASSP、BIBM等国际会议上发表学术论文80余篇。主持国家自然科学基金面上项目、广东省普通高校重点领域专项等项目10余项。获2项发明专利授权，另有6项发明专利申请中，已实现1项科技成果转化。担任IEEE TIP/TMI/JBHI/TGRS/TMC/TVT/TETCI等顶刊审稿人。
 
 - 2022.12-至今，深圳技术大学，副教授
 - 2018.09-2022.11，深圳技术大学，助理教授
@@ -39,12 +39,14 @@ News
 ======
 - [12/2025] 1 paper accepted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
+- [10/2025] 1 regular paper accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 - [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - [06/2025] 1 paper accepted to [IROS 2025](https://www.iros25.org/)（硕士生一作）
 - [03/2025] 1 paper accepted to [ICME 2025](https://2025.ieeeicme.org/)（硕士生一作）
 - [12/2024] 1 paper accepted to [ICASSP 2025](https://2025.ieeeicassp.org/)（硕士生一作）
 - [08/2024] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+- [08/2024] 1 regular paper accepted to [BIBM 2024](https://ieeebibm.org/BIBM2024/)
 - [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
 - [07/2021] 1 paper accepted to [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)（本科生一作）
   相关报道：“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行了报道。
