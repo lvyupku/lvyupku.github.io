@@ -45,6 +45,7 @@ author_profile: true
 - IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
 - IEEE Transactions on Medical Imaging (IEEE TMI)
 - IEEE Transactions on Mobile Computing (IEEE TMC)
+- IEEE Transactions on Information Forensics & Security
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 - IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
 - IEEE Transactions on Reliability (IEEE TR)
