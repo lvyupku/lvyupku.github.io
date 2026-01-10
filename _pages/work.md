@@ -63,6 +63,7 @@ author_profile: true
 - Future Generation Computer Systems
 - Computer Science Review
 - IET Image Processing
+- International Journal of System Sciences
 - Neural Computing and Applications
 - The Journal of Maternal-Fetal & Neonatal Medicine
 - Journal of Bone Oncology
