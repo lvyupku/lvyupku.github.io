@@ -37,6 +37,7 @@ Introduction
 
 News
 ======
+- [01/2026] 1 paper accepted to [ICASSP 2026](https://2026.ieeeicassp.org/)（硕士生一作）
 - [12/2025] 1 paper accepted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [10/2025] 1 regular paper accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
