@@ -43,8 +43,10 @@ author_profile: true
 
 
 **期刊审稿人 (Journal Reviewer)**
-- IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
+- IEEE Transactions on Image Processing (IEEE TIP)
 - IEEE Transactions on Medical Imaging (IEEE TMI)
+- IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
+- IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)
 - IEEE Transactions on Mobile Computing (IEEE TMC)
 - IEEE Transactions on Information Forensics & Security
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
@@ -55,6 +57,7 @@ author_profile: true
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - IEEE Signal Processing Letters (IEEE SPL)
 - IEEE Access
+- ACM Transactions on Intelligent Systems and Technology (ACM TIST)
 - Applied Soft Computing
 - Neurocomputing
 - Artificial Intelligence In Medicine
