@@ -54,7 +54,7 @@ author_profile: true
 - IEEE Transactions on Reliability (IEEE TR)
 - IEEE Transactions on Vehicular Technology (IEEE TVT)
 - IEEE Internet of Things Journal
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
 - IEEE Signal Processing Letters (IEEE SPL)
 - IEEE Access
 - ACM Transactions on Intelligent Systems and Technology (ACM TIST)
