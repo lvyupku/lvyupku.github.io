@@ -52,6 +52,7 @@ author_profile: true
 - IEEE Transactions on Information Forensics & Security (IEEE TIFS)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 - IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+- IEEE Transactions on Systems, Man and Cybernetics: Systems (IEEE SMC)
 - IEEE Transactions on Reliability (IEEE TR)
 - IEEE Transactions on Vehicular Technology (IEEE TVT)
 - IEEE Internet of Things Journal
