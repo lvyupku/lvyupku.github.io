@@ -104,7 +104,7 @@ News
 **（2018.9-）**
 
 ***国际学术期刊论文***
-1. Kelvin K.L. Wong, **Yu Lu**<sup>*</sup>, Wai Hung Ip, Wenjun Zhang, Zhili Sun. Bridging Weibull Failure Models and CTMC Verification: Automated Phase-Type Encoding for Satellite Reliability Analysis in PRISM, IEEE Transactions on Aerospace and Electronic Systems, Accepted.
+1. Kelvin K.L. Wong, **Yu Lu**<sup>*</sup>, Wai Hung Ip, Wenjun Zhang, Zhili Sun. Bridging Weibull Failure Models and CTMC Verification: Automated Phase-Type Encoding for Satellite Reliability Analysis in PRISM, IEEE Transactions on Aerospace and Electronic Systems, Accepted. [https://doi.org/10.1109/TAES.2026.3665850](https://doi.org/10.1109/TAES.2026.3665850)
 2. Huilin Ge, Jie Zhu, Wenbin Feng, Jiali Ouyang, Ze Wang, Xiaoping Chen, **Yu Lu**<sup>*</sup>. AquaSlot-SAM: Coupling slot-based State Space Models with SAM for robust underwater video multi-object segmentation, Pattern Recognition, Volume 174, June 2026, 112964. (SCI,中科院1区Top,CCF B) [https://doi.org/10.1016/j.patcog.2025.112964](https://doi.org/10.1016/j.patcog.2025.112964)
 3. Huilin Ge, Meng Li, Guanghui Wen, **Yu Lu**<sup>*</sup>. Safety-assured decision support for ASV navigation via hybrid graph planning and timed automata verification, Expert Systems With Applications, Volume 312, May 2026, 131367. (SCI,中科院1区Top,CCF C) [https://doi.org/10.1016/j.eswa.2026.131367](https://doi.org/10.1016/j.eswa.2026.131367)
 4. **Yu Lu**, Zhenpeng Xu, Meng Li*, Xianghua Fu, Kai Leung Yung, Wai Hung Ip. A Benchmark Dataset and Lightweight Model for Multi-Distance Gesture Recognition in UAV Control, Applied Soft Computing, Volume 186, Part D, January 2026, 114222. (SCI,中科院2区Top) [https://doi.org/10.1016/j.asoc.2025.114222](https://doi.org/10.1016/j.asoc.2025.114222)
