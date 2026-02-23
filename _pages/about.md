@@ -37,7 +37,7 @@ Introduction
 
 News
 ======
-- [02/2026] 1 paper accepted to [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+- [02/2026] 1 paper accepted to [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)（本科生一作）
 - [02/2026] 1 paper accepted to [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
 - [01/2026] 1 paper accepted to [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
 - [01/2026] 1 paper accepted to [ICASSP 2026](https://2026.ieeeicassp.org/)（硕士生一作）
