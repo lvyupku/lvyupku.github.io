@@ -48,6 +48,7 @@ author_profile: true
 - IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
 - IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)
 - IEEE Transactions on Mobile Computing (IEEE TMC)
+- IEEE Transactions on Industrial Informatics (IEEE TII)
 - IEEE Transactions on Mechatronics (IEEE TMECH)
 - IEEE Transactions on Information Forensics & Security (IEEE TIFS)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
