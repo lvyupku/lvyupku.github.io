@@ -50,6 +50,7 @@ author_profile: true
 - IEEE Transactions on Mobile Computing (IEEE TMC)
 - IEEE Transactions on Industrial Informatics (IEEE TII)
 - IEEE Transactions on Mechatronics (IEEE TMECH)
+- IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
 - IEEE Transactions on Information Forensics & Security (IEEE TIFS)
 - IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
 - IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
