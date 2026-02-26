@@ -57,6 +57,7 @@ author_profile: true
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (IEEE SMC)
 - IEEE Transactions on Reliability (IEEE TR)
 - IEEE Transactions on Human-Machine Systems (IEEE THMS)
+- IEEE Transactions on Consumer Electronics (IEEE TCE)
 - IEEE Transactions on Vehicular Technology (IEEE TVT)
 - IEEE Internet of Things Journal  (IEEE IoTJ)
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
