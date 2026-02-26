@@ -42,7 +42,7 @@ author_profile: true
 - 2nd EAI International Conference on Industrial Networks and Intelligent Systems (INISCOM 2016), October 31- November 2, 2016, Leicester, UK
 
 
-**期刊审稿人 (Journal Reviewer)**
+**国际期刊审稿人 (Journal Reviewer)**
 - IEEE Transactions on Image Processing (IEEE TIP)
 - IEEE Transactions on Medical Imaging (IEEE TMI)
 - IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
