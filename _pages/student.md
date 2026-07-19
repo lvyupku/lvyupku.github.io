@@ -1,4 +1,4 @@
----
+<img width="432" height="99" alt="image" src="https://github.com/user-attachments/assets/b10ee52e-70e2-4097-84d9-ee2c8d1c1b2d" />---
 layout: archive
 title: "指导学生"
 permalink: /student/
@@ -104,8 +104,8 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>孙攀</strong></p>
-            <p>硕士研究生，计算机技术专业，2023级</p>
-            <p>实验室：C-1-902</p>
+            <p>硕士研究生毕业，计算机技术专业，2023级</p>
+            <p>论文题目：基于半监督深度学习的水下目标检测方法</p>
         </div>
     </div>
 
@@ -115,8 +115,8 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>胡亚婷</strong></p>
-            <p>硕士研究生，计算机科学与技术专业，2023级</p>
-            <p>实验室：C-1-902</p>
+            <p>硕士研究生毕业，计算机科学与技术专业，2023级</p>
+            <p>论文题目：基于深度生成模型的胎儿心电信号提取方法研究</p>
         </div>
     </div>
 
@@ -126,8 +126,8 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>邓小康</strong></p>
-            <p>硕士研究生，计算机技术，2023级</p>
-            <p>实验室：C-1-902</p>
+            <p>硕士研究生毕业，计算机技术，2023级</p>
+            <p>论文题目：基于SAM的语义提示与时序建模的左心室超声图像分割与功能分析方法研究</p>
         </div>
     </div>
     
@@ -137,8 +137,8 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>彭翊婷</strong></p>
-            <p>硕士研究生，计算机技术，2023级</p>
-            <p>实验室：C-1-902</p>
+            <p>硕士研究生毕业，计算机技术，2023级</p>
+            <p>论文题目：结合自监督对比学习与连续学习的胎心监护异常检测方法研究</p>
         </div>
     </div>
 
@@ -148,7 +148,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>许展鹏</strong></p>
-            <p>硕士研究生，计算机技术专业，2022级</p>
+            <p>硕士研究生毕业，计算机技术专业，2022级</p>
             <p>论文题目： 基于自监督多任务学习的左心室射血分数评估算法研究</p>
         </div>
     </div>
@@ -159,7 +159,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>余自长</strong></p>
-            <p>硕士研究生，计算机科学与技术专业，2021级</p>
+            <p>硕士研究生毕业，计算机科学与技术专业，2021级</p>
             <p>论文题目：融合因果关系与生成模型的CTG数据增强方法研究</p>
             <p>毕业去向：北京理工大学（读博）</p>
         </div>
@@ -171,7 +171,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>徐振朋</strong></p>
-            <p>硕士研究生，计算机技术专业，2021级</p>
+            <p>硕士研究生毕业，计算机技术专业，2021级</p>
             <p>论文题目：基于多尺度和轻量化的无人机手势识别研究</p>
         </div>
     </div>
@@ -182,7 +182,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>赵瑞杰</strong></p>
-            <p>硕士研究生，计算机技术专业，2021级</p>
+            <p>硕士研究生毕业，计算机技术专业，2021级</p>
             <p>论文题目：基于深度学习的PPG连续无创血压检测方法研究</p>
         </div>
     </div>
