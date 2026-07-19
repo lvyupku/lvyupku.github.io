@@ -93,6 +93,28 @@ author_profile: true
         </div>
     </div>
 
+    <div class="container">
+        <div class="image">
+            <img src="/images/caipufan.jpg" alt="何锦鸿">
+        </div>
+        <div class="text">
+            <p><strong>何锦鸿</strong></p>
+            <p>硕士研究生，计算机技术专业，2025级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/caipufan.jpg" alt="朱沛鸿">
+        </div>
+        <div class="text">
+            <p><strong>朱沛鸿</strong></p>
+            <p>硕士研究生，计算机技术专业，2025级</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
 
     
 <h2>过往成员</h2>
