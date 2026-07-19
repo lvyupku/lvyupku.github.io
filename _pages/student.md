@@ -39,7 +39,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/adil.png" alt="Dr. Adil Nawaz">
+            <img src="/images/adilnawaz.png" alt="Dr. Adil Nawaz">
         </div>
         <div class="text">
             <p><strong>Dr. Adil Nawaz</strong></p>
