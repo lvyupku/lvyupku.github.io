@@ -78,7 +78,7 @@ author_profile: true
         <div class="text">
             <p><strong>朱琼</strong></p>
             <p>硕士研究生，计算机技术专业，2024级</p>
-            <p>实验室：C-1-902</p>
+            <p>实验室：C1-902</p>
         </div>
     </div>
 
@@ -89,7 +89,7 @@ author_profile: true
         <div class="text">
             <p><strong>蔡普凡</strong></p>
             <p>硕士研究生，计算机技术专业，2024级</p>
-            <p>实验室：C-1-902</p>
+            <p>实验室：C1-902</p>
         </div>
     </div>
 
@@ -100,7 +100,7 @@ author_profile: true
         <div class="text">
             <p><strong>何锦鸿</strong></p>
             <p>硕士研究生，计算机技术专业，2025级</p>
-            <p>实验室：C-1-902</p>
+            <p>实验室：C1-902</p>
         </div>
     </div>
 
@@ -111,7 +111,7 @@ author_profile: true
         <div class="text">
             <p><strong>朱沛鸿</strong></p>
             <p>硕士研究生，计算机技术专业，2025级</p>
-            <p>实验室：C-1-902</p>
+            <p>实验室：C1-902</p>
         </div>
     </div>
 
