@@ -15,10 +15,13 @@ author_profile: true
         align-items: center; 
     }
     .image {
-        flex: 1;
-        margin-right: 10px;
-        text-align: center;
-    }
+    flex: 1;
+    margin-right: 10px;
+
+    display: flex;
+    justify-content: center; /* 水平居中 */
+    align-items: center;     /* 垂直居中 */
+}
     .text {
         flex: 2;
         padding: 10px;
