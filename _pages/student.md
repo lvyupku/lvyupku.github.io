@@ -1,4 +1,3 @@
-<img width="432" height="99" alt="image" src="https://github.com/user-attachments/assets/b10ee52e-70e2-4097-84d9-ee2c8d1c1b2d" />---
 layout: archive
 title: "指导学生"
 permalink: /student/
@@ -67,8 +66,7 @@ author_profile: true
             <p>兼职科研助理，2022年7月-至今</p>
             <p>本科生，生物医学工程专业，2018级</p>
             <p>毕业论文题目：基于病理学切片图像的乳腺癌淋巴结转移检测算法研究</p>
-            <p>硕士毕业于新加坡国立大学</p>
-            <p>目前就职于新加坡国立大学，任Research Associate</p>
+            <p>硕士毕业于新加坡国立大学，目前就职于新加坡国立大学，任Research Associate</p>
         </div>
     </div> 
 
