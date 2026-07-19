@@ -194,7 +194,6 @@ author_profile: true
             <p><strong>张乐莹</strong></p>
             <p>本科生，数据科学与大数据技术专业，2021级</p>
             <p>第三届伦琴AI实验班成员</p>
-            <p>实验室：C-1-902</p>
         </div>
     </div>
 
@@ -206,7 +205,6 @@ author_profile: true
             <p><strong>叶开宜</strong></p>
             <p>本科生，数据科学与大数据技术专业，2021级</p>
             <p>第三届伦琴AI实验班成员</p>
-            <p>实验室：C-1-211</p>
         </div>
     </div>
         
@@ -218,7 +216,6 @@ author_profile: true
             <p><strong>余婧莹</strong></p>
             <p>本科生，物联网工程专业，2022级</p>
             <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-902</p>
         </div>
     </div>
 
@@ -230,7 +227,6 @@ author_profile: true
             <p><strong>肖智辉</strong></p>
             <p>本科生，数据科学与大数据技术专业，2022级</p>
             <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-211</p>
         </div>
     </div>
 
@@ -242,7 +238,6 @@ author_profile: true
             <p><strong>冯文斌</strong></p>
             <p>本科生，计算机科学与技术专业，2022级</p>
             <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-211</p>
         </div>
     </div>
 
@@ -253,7 +248,6 @@ author_profile: true
         <div class="text">
             <p><strong>李星玥</strong></p>
             <p>本科生，智能医学工程专业，2022级</p>
-            <p>实验室：C-1-902</p>
         </div>
     </div>
 
