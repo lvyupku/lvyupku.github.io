@@ -95,7 +95,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/caipufan.jpg" alt="何锦鸿">
+            <img src="/images/hejinhong.jpg" alt="何锦鸿">
         </div>
         <div class="text">
             <p><strong>何锦鸿</strong></p>
