@@ -12,7 +12,7 @@ author_profile: true
         display: flex;
         border: 1px solid black;
         padding: 10px;
-        align-items: flex-start; 
+        align-items: center; 
     }
     .image {
         flex: 1;
