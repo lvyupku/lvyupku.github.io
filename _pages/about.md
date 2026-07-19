@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 excerpt: "Yu Lu"
 author_profile: true
 redirect_from: 
