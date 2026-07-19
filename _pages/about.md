@@ -29,9 +29,7 @@ Introduction
 ======
 现任副教授、硕士生导师，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。已在IEEE Journal of Biomedical and Health Informatics、IEEE Transactions on Aerospace and Electronic Systems、Pattern Recognition、Expert Systems With Applications、Applied Soft Computing、Neurocomputing、Knowledge-Based Systems、Artificial Intelligence in Medicine、Ocean Engineering、Reliability Engineering & System Safety等国际期刊，以及AAAI、IROS、ICME、ICASSP、BIBM等国际会议上发表学术论文100余篇。主持国家自然科学基金面上项目、广东省普通高校重点领域专项等项目10余项。获2项发明专利授权，另有6项发明专利申请中，已实现1项科技成果转化。担任IEEE TIP/TMI/JBHI/TDSC/TIFS/TII/TMECH/TGRS/TMC/TETCI等顶刊审稿人。
 
-- 2026.10-2027.10，新西兰奥克兰大学，访问学者
 - 2022.12-至今，深圳技术大学，副教授
-- 2022.11-2026.07，深圳技术大学，计算机科学与技术系副主任
 - 2018.09-2022.11，深圳技术大学，助理教授
 - 2017.03-2018.08，深圳京柏医疗科技股份有限公司，科学家
 - 2015.10-2017.03，英国克兰菲尔德大学，博士后
@@ -61,10 +59,6 @@ News
 
 项目经历
 ======
-
-***人才项目***
-
-1. 国家公派高级研究学者、访问学者、博士后项目（国家公派高级研究学者、访问学者项目），2026.10-2027.10，国家留学基金管理委员会（CSC）。
    
 ***纵向项目***
 
