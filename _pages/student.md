@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "指导学生"
 permalink: /student/
