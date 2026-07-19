@@ -34,7 +34,18 @@ author_profile: true
 <body>
     <h2>当前成员</h2>
 
-
+    <div class="container">
+        <div class="image">
+            <img src="/images/adil.png" alt="Dr. Adil Nawaz">
+        </div>
+        <div class="text">
+            <p><strong>Dr. Adil Nawaz</strong></p>
+            <p>博士后，2026年5月-至今</p>
+            <p>深圳大学博士毕业</p>
+            个人主页：<a href="https://scholar.google.com/citations?user=tWc9ldIAAAAJ">https://scholar.google.com/citations?user=tWc9ldIAAAAJ/</a>
+        </div>
+    </div>
+    
     <div class="container">
         <div class="image">
             <img src="/images/lqy.png" alt="刘倩颖">
@@ -47,17 +58,19 @@ author_profile: true
         </div>
     </div>
 
-    <div class="container">
+        <div class="container">
         <div class="image">
-            <img src="/images/adil.png" alt="Dr. Adil Nawaz">
+            <img src="/images/lxq.jpeg" alt="李晓庆">
         </div>
         <div class="text">
-            <p><strong>Dr. Adil Nawaz</strong></p>
-            <p>博士后，2026年5月-至今</p>
-            <p>深圳大学博士毕业</p>
-            个人主页：<a href="https://scholar.google.com/citations?user=tWc9ldIAAAAJ">https://scholar.google.com/citations?user=tWc9ldIAAAAJ/</a>
+            <p><strong>Xiaoqing Li (李晓庆）</strong></p>
+            <p>兼职科研助理，2022年7月-至今</p>
+            <p>本科生，生物医学工程专业，2018级</p>
+            <p>毕业论文题目：基于病理学切片图像的乳腺癌淋巴结转移检测算法研究</p>
+            <p>硕士毕业于新加坡国立大学</p>
+            <p>目前就职于新加坡国立大学，任Research Associate</p>
         </div>
-    </div>
+    </div> 
 
      <div class="container">
         <div class="image">
@@ -327,20 +340,7 @@ author_profile: true
             <p>硕士毕业于澳大利亚阿德莱德大学</p>
             <p>目前就职于深圳技术大学外国语学院，任实验员</p>
         </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/lxq.jpeg" alt="李晓庆">
-        </div>
-        <div class="text">
-            <p><strong>李晓庆</strong></p>
-            <p>本科生，生物医学工程专业，2018级</p>
-            <p>毕业论文题目：基于病理学切片图像的乳腺癌淋巴结转移检测算法研究</p>
-            <p>硕士毕业于新加坡国立大学</p>
-            <p>目前就职于新加坡国立大学，任Research Associate</p>
-        </div>
-    </div>    
+    </div>   
 
     <div class="container">
         <div class="image">
