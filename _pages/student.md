@@ -155,6 +155,16 @@ author_profile: true
         </div>
     </div>
 
+    <div class="container">
+        <div class="image">
+            <img src="/images/liushengyi.jpg" alt="刘圣一">
+        </div>
+        <div class="text">
+            <p><strong>刘圣一</strong></p>
+            <p>本科生，“应用研究型拔尖创新人才培养”项目（新才班），2025级</p>
+        </div>
+    </div>
+
 
     
 <h2>过往成员</h2>
