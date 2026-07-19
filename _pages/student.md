@@ -115,6 +115,46 @@ author_profile: true
         </div>
     </div>
 
+     <div class="container">
+        <div class="image">
+            <img src="/images/zengzixuan.jpg" alt="曾子轩">
+        </div>
+        <div class="text">
+            <p><strong>曾子轩</strong></p>
+            <p>本科生，计算机科学与技术专业，2025级</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/liangxinyu.jpg" alt="梁馨予">
+        </div>
+        <div class="text">
+            <p><strong>梁馨予</strong></p>
+            <p>本科生，数据科学与大数据技术专业，2025级</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/zhouhui.jpg" alt="周辉">
+        </div>
+        <div class="text">
+            <p><strong>周辉</strong></p>
+            <p>本科生，数据科学与大数据技术专业，2025级</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/linhongming.jpg" alt="林宏铭">
+        </div>
+        <div class="text">
+            <p><strong>林宏铭</strong></p>
+            <p>本科生，数据科学与大数据技术专业，2025级</p>
+        </div>
+    </div>
+
 
     
 <h2>过往成员</h2>
