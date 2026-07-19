@@ -81,76 +81,7 @@ author_profile: true
         </div>
     </div>
 
-    <div class="container">
-        <div class="image">
-            <img src="/images/zly.jpg" alt="张乐莹">
-        </div>
-        <div class="text">
-            <p><strong>张乐莹</strong></p>
-            <p>本科生，数据科学与大数据技术专业，2021级</p>
-            <p>第三届伦琴AI实验班成员</p>
-            <p>实验室：C-1-902</p>
-        </div>
-    </div>
 
-    <div class="container">
-        <div class="image">
-            <img src="/images/yky.jpg" alt="叶开宜">
-        </div>
-        <div class="text">
-            <p><strong>叶开宜</strong></p>
-            <p>本科生，数据科学与大数据技术专业，2021级</p>
-            <p>第三届伦琴AI实验班成员</p>
-            <p>实验室：C-1-211</p>
-        </div>
-    </div>
-        
-    <div class="container">
-        <div class="image">
-            <img src="/images/yjy.jpg" alt="余婧莹">
-        </div>
-        <div class="text">
-            <p><strong>余婧莹</strong></p>
-            <p>本科生，物联网工程专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-902</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/xzh.jpg" alt="肖智辉">
-        </div>
-        <div class="text">
-            <p><strong>肖智辉</strong></p>
-            <p>本科生，数据科学与大数据技术专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-211</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/hwb.jpg" alt="冯文斌">
-        </div>
-        <div class="text">
-            <p><strong>冯文斌</strong></p>
-            <p>本科生，计算机科学与技术专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-            <p>实验室：C-1-211</p>
-        </div>
-    </div>
-
- <div class="container">
-        <div class="image">
-            <img src="/images/lixingyue.jpg" alt="李星玥">
-        </div>
-        <div class="text">
-            <p><strong>李星玥</strong></p>
-            <p>本科生，智能医学工程专业，2022级</p>
-            <p>实验室：C-1-902</p>
-        </div>
-    </div>
     
 <h2>过往成员</h2>
 
@@ -240,6 +171,77 @@ author_profile: true
             <p><strong>赵瑞杰</strong></p>
             <p>硕士研究生，计算机技术专业，2021级</p>
             <p>论文题目：基于深度学习的PPG连续无创血压检测方法研究</p>
+        </div>
+    </div>
+
+        <div class="container">
+        <div class="image">
+            <img src="/images/zly.jpg" alt="张乐莹">
+        </div>
+        <div class="text">
+            <p><strong>张乐莹</strong></p>
+            <p>本科生，数据科学与大数据技术专业，2021级</p>
+            <p>第三届伦琴AI实验班成员</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/yky.jpg" alt="叶开宜">
+        </div>
+        <div class="text">
+            <p><strong>叶开宜</strong></p>
+            <p>本科生，数据科学与大数据技术专业，2021级</p>
+            <p>第三届伦琴AI实验班成员</p>
+            <p>实验室：C-1-211</p>
+        </div>
+    </div>
+        
+    <div class="container">
+        <div class="image">
+            <img src="/images/yjy.jpg" alt="余婧莹">
+        </div>
+        <div class="text">
+            <p><strong>余婧莹</strong></p>
+            <p>本科生，物联网工程专业，2022级</p>
+            <p>第四届伦琴AI实验班成员</p>
+            <p>实验室：C-1-902</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/xzh.jpg" alt="肖智辉">
+        </div>
+        <div class="text">
+            <p><strong>肖智辉</strong></p>
+            <p>本科生，数据科学与大数据技术专业，2022级</p>
+            <p>第四届伦琴AI实验班成员</p>
+            <p>实验室：C-1-211</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/hwb.jpg" alt="冯文斌">
+        </div>
+        <div class="text">
+            <p><strong>冯文斌</strong></p>
+            <p>本科生，计算机科学与技术专业，2022级</p>
+            <p>第四届伦琴AI实验班成员</p>
+            <p>实验室：C-1-211</p>
+        </div>
+    </div>
+
+ <div class="container">
+        <div class="image">
+            <img src="/images/lixingyue.jpg" alt="李星玥">
+        </div>
+        <div class="text">
+            <p><strong>李星玥</strong></p>
+            <p>本科生，智能医学工程专业，2022级</p>
+            <p>实验室：C-1-902</p>
         </div>
     </div>
 
@@ -349,7 +351,7 @@ author_profile: true
             <p>本科生，物联网工程专业，2019级</p>
             <p>第一届伦琴AI实验班成员</p>
             <p>毕业论文题目：基于深度学习和甲基化二代测序数据的癌症早筛方法研究</p>
-            <p>毕业去向：香港科技大学（读硕）</p>
+            <p>毕业去向：香港科技大学（硕士）</p>
         </div>
     </div>   
 
