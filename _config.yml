@@ -11,7 +11,7 @@ title                    : "吕羽"
 title_separator          : "-"
 name                     : &name " "
 description              : &description " "
-url                      : https://lvyupku.github.io/
+url                      : https://lvyupku.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lvyupku/lvyupku.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
