@@ -270,6 +270,7 @@ author_profile: true
         <div class="text">
             <p><strong>李星玥</strong></p>
             <p>本科生，智能医学工程专业，2022级</p>
+            <p>毕业去向：深圳大学（读硕）</p>
         </div>
     </div>
 
