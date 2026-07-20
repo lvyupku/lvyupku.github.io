@@ -131,6 +131,17 @@ author_profile: true
 
     <div class="container">
         <div class="image">
+            <img src="/images/" alt="林悦桐">
+        </div>
+        <div class="text">
+            <p><strong>林悦桐</strong></p>
+            <p>本科生，物联网工程专业，2023级</p>
+            <p>实验室：C1-405</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
             <img src="/images/wantengyuan.jpg" alt="万腾远">
         </div>
         <div class="text">
