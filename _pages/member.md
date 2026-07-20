@@ -67,7 +67,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>Xiaoqing Li (李晓庆）</strong></p>
-            <p>兼职科研助理，2022年7月-至今</p>
+            <p>兼职科研助理，2024年3月-至今</p>
             <p>本科生，生物医学工程专业，2018级</p>
             <p>硕士毕业并就职于新加坡国立大学，任Research Associate</p>
             个人主页：<a href="https://lixiaoqingnnz.github.io/career_site/">https://lixiaoqingnnz.github.io/career_site/</a>
