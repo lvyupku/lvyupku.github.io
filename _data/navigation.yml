@@ -2,6 +2,9 @@
 main:
   - title: "项目经历"
     url: /project/
+
+  - title: "发表论文"
+    url: /publication/
     
   - title: "荣誉获奖"
     url: /award/
