@@ -25,7 +25,9 @@ author_profile: true
 
 
 **国际学术会议技术委员会成员 (PC Member)**
+- 41st AAAI Conference on Artificial Intelligence (AAAI 2027), February 16-23, 2027, Montréal, Canada
 - 2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), December 1-4, 2026, Dallas, TX, USA
+- 23rd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026), November 17-20, 2026, Guangzhou, China
 - 2025 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), December 15-18, 2025, Wuhan, China
 - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), December 3-6, 2024, Lisbon, Portugal
 - 31st International Conference on Neural Information Processing (ICONIP 2024), December 2-6, 2024, Auckland, New Zealand
