@@ -125,6 +125,7 @@ author_profile: true
         <div class="text">
             <p><strong>林政</strong></p>
             <p>本科生，物联网工程专业，2023级</p>
+            <p>实验室：C1-405</p>
         </div>
     </div>
 
@@ -135,6 +136,7 @@ author_profile: true
         <div class="text">
             <p><strong>万腾远</strong></p>
             <p>本科生，2024级</p>
+            <p>实验室：C1-405</p>
         </div>
     </div>
 
