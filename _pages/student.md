@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "指导学生"
+title: "实验室成员"
 permalink: /student/
 author_profile: true
 ---
@@ -131,7 +131,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/" alt="林悦桐">
+            <img src="/images/linyuetong.jpg" alt="林悦桐">
         </div>
         <div class="text">
             <p><strong>林悦桐</strong></p>
