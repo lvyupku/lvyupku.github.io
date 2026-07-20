@@ -55,7 +55,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>Qianying Liu (刘倩颖)</strong></p>
-            <p>兼职科研助理，2025年3月-至今</p>
+            <p>科研助理（兼职），2025年3月-至今</p>
             <p>英国格拉斯哥大学在读博士</p>
             个人主页：<a href="https://kathyliu579.github.io/">https://kathyliu579.github.io/</a>
         </div>
@@ -67,7 +67,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>Xiaoqing Li (李晓庆）</strong></p>
-            <p>兼职科研助理，2024年3月-至今</p>
+            <p>科研助理（兼职），2024年3月-至今</p>
             <p>本科生，生物医学工程专业，2018级</p>
             <p>硕士毕业并就职于新加坡国立大学，任Research Associate</p>
             个人主页：<a href="https://lixiaoqingnnz.github.io/career_site/">https://lixiaoqingnnz.github.io/career_site/</a>
@@ -416,7 +416,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>罗瑞鹏</strong></p>
-            <p>全职科研助理，2023年7月-2024年1月</p>
+            <p>科研助理（全职），2023年7月-2024年1月</p>
             <p>本科毕业于深圳技术大学</p>
         </div>
     </div>
@@ -439,7 +439,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>郭天雨</strong></p>
-            <p>全职科研助理，2021年3月-2022年8月</p>
+            <p>科研助理（全职），2021年3月-2022年8月</p>
             <p>本科毕业于华南师范大学</p>
         </div>
     </div>
@@ -450,7 +450,7 @@ author_profile: true
         </div>
         <div class="text">
             <p><strong>蒋拓</strong></p>
-            <p>全职科研助理，2020年3月-2021年2月</p>
+            <p>科研助理（全职），2020年3月-2021年2月</p>
             <p>硕士毕业于澳大利亚南澳大学</p>
             <p>目前就职于深圳技术大学外国语学院，任实验员</p>
         </div>
