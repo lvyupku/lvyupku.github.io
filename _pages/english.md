@@ -11,7 +11,8 @@ Associate Professor，School of Artificial Intelligence，Shenzhen Technology Un
 
 Office: C1-1615
 
-Labs: C1-902 (Graduate Students and Postdoctoral Researchers); C1-405 (Undergraduate Students)
+Labs: C1-902 (Graduate Students and Postdoctoral Researchers);
+      C1-405 (Undergraduate Students)
 
 Email:
 
@@ -30,32 +31,32 @@ I have published more than 100 academic papers in international journals, includ
 
 I have led or participated in more than ten research projects, including General Programs of the National Natural Science Foundation of China and Key-Area Special Projects for General Universities in Guangdong Province. I have been granted two invention patents, with another six invention patent applications currently under examination, and have completed the commercialization of one research achievement. I also serve as a reviewer for leading IEEE journals, including IEEE TIP, IEEE TMI, IEEE JBHI, IEEE TDSC, IEEE TIFS, IEEE TII, IEEE TMECH, IEEE TGRS, IEEE TMC, and IEEE TETCI.
 
-- Dec. 2022–Present: Associate Professor, Shenzhen Technology University
-- Sep. 2018–Nov. 2022: Assistant Professor, Shenzhen Technology University
-- Mar. 2017–Aug. 2018: Scientist, Shenzhen Jumper Medical Equipment Co., Ltd.
-- Oct. 2015–Mar. 2017: Research Fellow, Cranfield University, United Kingdom
+- Dec. 2022–Present: Associate Professor, Shenzhen Technology University, Shenzhen, China
+- Sep. 2018–Nov. 2022: Assistant Professor, Shenzhen Technology University, Shenzhen, China
+- Mar. 2017–Aug. 2018: Scientist, Shenzhen Jumper Medical Equipment Co., Ltd., Shenzhen, China
+- Oct. 2015–Mar. 2017: Research Fellow, Cranfield University, UK
 - Oct. 2011–Sep. 2015: Ph.D. in Computing Science, University of Glasgow, UK
 
 News
 ======
 - [06/2026] 1 paper accepted by [IROS 2026](https://2026.ieee-iros.org/) (undergraduate student as the first author).
 - [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020) (undergraduate student as the first author).
-- [02/2026] 1 paper accepted to [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
-- [01/2026] 1 paper accepted to [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
-- [01/2026] 1 paper accepted to [ICASSP 2026](https://2026.ieeeicassp.org/) (master's student as the first author).）
-- [12/2025] 1 paper accepted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
-- [10/2025] 1 regular paper, 2 short papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
-- [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
-- [06/2025] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-- [06/2025] 1 paper accepted to [IROS 2025](https://www.iros25.org/) (master's student as the first author).
-- [03/2025] 1 paper accepted to [ICME 2025](https://2025.ieeeicme.org/) (master's student as the first author).
-- [12/2024] 1 paper accepted to [ICASSP 2025](https://2025.ieeeicassp.org/) (master's student as the first author).
-- [08/2024] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-- [08/2024] 1 regular paper accepted to [BIBM 2024](https://ieeebibm.org/BIBM2024/)
-- [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) (master's student as the first author).
-- [07/2021] 1 paper accepted to [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems) (undergraduate student as the first author).
-  Related news coverage: “A Student Everyone Envies! Shenzhen Technology University Undergraduate Publishes Research Papers in an International Journal and at International Conferences.” The achievement was reported by [Tencent News](https://new.qq.com/rain/a/20210714A0AGOR00)，[Sina](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，[Shenzhen Special Zone Daily], and other media outlets.
+- [02/2026] 1 paper accepted by [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
+- [01/2026] 1 paper accepted by [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+- [01/2026] 1 paper accepted by [ICASSP 2026](https://2026.ieeeicassp.org/) (master's student as the first author).）
+- [12/2025] 1 paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- [11/2025] 1 paper accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
+- [10/2025] 1 regular paper, 2 short papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+- [07/2025] 1 paper accepted by [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
+- [06/2025] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+- [06/2025] 1 paper accepted by [IROS 2025](https://www.iros25.org/) (master's student as the first author).
+- [03/2025] 1 paper accepted by [ICME 2025](https://2025.ieeeicme.org/) (master's student as the first author).
+- [12/2024] 1 paper accepted by [ICASSP 2025](https://2025.ieeeicassp.org/) (master's student as the first author).
+- [08/2024] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+- [08/2024] 1 regular paper accepted by [BIBM 2024](https://ieeebibm.org/BIBM2024/)
+- [12/2022] 1 paper accepted by [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) (master's student as the first author).
+- [07/2021] 1 paper accepted by [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems) (undergraduate student as the first author).
+  Related news coverage: “A Student Everyone Envies! Shenzhen Technology University Undergraduate Publishes Research Papers in an International Journal and at International Conferences.” The achievement was reported by [Tencent News](https://new.qq.com/rain/a/20210714A0AGOR00)，[Sina](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，Shenzhen Special Zone Daily, and other media outlets.
 
 
 Research Projects
@@ -63,45 +64,45 @@ Research Projects
    
 ***Government-Funded Research Projects***
 
-1. General Program of the National Natural Science Foundation of China, No. 62576222, “Intelligent Anomaly Detection and Explainability Methods for Multi-Source Physiological Signals,” Jan. 2026–Dec. 2029, **Principal Investigator**.
-2. General Program of the National Natural Science Foundation of China, No. 62473267, “Large Language Model-Driven Fusion of Multi-Source Incomplete Physiological Information,” Jan. 2025–Dec. 2028, participant.
-3. Key-Area Special Project for General Universities in Guangdong Province—Biomedicine and Health, No. 2023ZDZX2055, “Key Technologies for Traditional Chinese Medicine Diagnosis of Maternal and Child Health Conditions Based on AI-Enabled Multimodal Data,” Oct. 2023–Oct. 2026, **Principal Investigator**.
+1. General Program of the National Natural Science Foundation of China, No. 62576222, “Intelligent Anomaly Detection and Explainability Methods for Multi-Source Physiological Signals,” Jan. 2026–Dec. 2029, **PI**.
+2. General Program of the National Natural Science Foundation of China, No. 62473267, “Large Language Model-Driven Fusion of Multi-Source Incomplete Physiological Information,” Jan. 2025–Dec. 2028, Co-I.
+3. Key-Area Special Project for General Universities in Guangdong Province—Biomedicine and Health, No. 2023ZDZX2055, “Key Technologies for Traditional Chinese Medicine Diagnosis of Maternal and Child Health Conditions Based on AI-Enabled Multimodal Data,” Oct. 2023–Oct. 2026, **PI**.
 4. General Open Fund Project of the National Engineering Laboratory for Big Data System Computing Technology, No. SZU-BDSC-OF2024-11, “Prediction of Adverse Delivery Outcomes Using Multimodal Deep Learning Based on Big Data and Large Models,” Jan. 2024–Dec. 2025, **Principal Investigator**.
-5. Open Project of the State Key Laboratory of Robotics, “Tactile-Based Perception Modeling and Grasping Simulation for Underwater Manipulators,” Dec. 2023–Dec. 2025, ongoing, participant.
-6. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021012, “Privacy-Preserving Machine-Learning Algorithms Based on Fully Homomorphic Encryption,” Sep. 2020–Dec. 2023, participant.
-7. Shenzhen Research Start-Up Project for Newly Introduced High-Level Talents, No. 2019010801011, “Deep-Learning Technologies for Mobile and Embedded Internet-of-Things Systems,” Jan. 2019–Dec. 2021, RMB 1.7 million, completed, **Principal Investigator**.
-8. Shenzhen General Technology Research Project, No. 2021325715, Key Project No. 2022233, “Research and Development of an ‘Internet+’ Intelligent Maternal–Fetal Monitoring System,” Jan. 2022–Dec. 2023, participant.
-9. Scientific Research Project for General Universities in Guangdong Province—Young Innovative Talents Category, No. 2022KQNCX071, “Generalizable Deep Learning Based on Multi-Center Datasets,” Sep. 2022–Aug. 2024, participant.
-10. Guangdong Key-Discipline Research Capacity Enhancement Project, No. 2022ZDJS112, “Key Technologies for a Multimodal Perception-Based Human–Computer Interaction Service System Using Cloud–Edge Collaboration,” Jan. 2023–Dec. 2025, participant.
-11. Guangdong Key-Discipline Research Capacity Enhancement Project, No. 2022ZDJS117, “Efficient Video-Coding Technologies Based on Neural Radiance Fields,” Jan. 2023–Dec. 2025, participant.
-12. Scientific Research Project for General Universities in Guangdong Province—Characteristic Innovation Category, No. 2019KTSCX204, “Key Technologies for Weakly Supervised Hybrid Intelligent Question Answering with Knowledge Reasoning,” Jan. 2020–Dec. 2021, participant.
-13. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021011, “Multimodal Knowledge-Aware Hybrid Models and Methods for Domain-Specific Intelligent Question Answering,” Sep. 2020–Dec. 2023, participant.
-14. Shenzhen Science and Technology Application Demonstration Project, No. KJYY20170721163528274, “Intelligent Maternal and Child Internet-of-Things Platform for Perinatal Health Management,” Apr. 2017–Apr. 2020, RMB 3 million, completed, **Principal Investigator**.
+5. Open Project of the State Key Laboratory of Robotics, “Tactile-Based Perception Modeling and Grasping Simulation for Underwater Manipulators,” Dec. 2023–Dec. 2025, Co-I.
+6. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021012, “Privacy-Preserving Machine-Learning Algorithms Based on Fully Homomorphic Encryption,” Sep. 2020–Dec. 2023, Co-I.
+7. Shenzhen Research Start-Up Project for Newly Introduced High-Level Talents, No. 2019010801011, “Deep-Learning Technologies for Mobile and Embedded Internet-of-Things Systems,” Jan. 2019–Dec. 2021, **PI**.
+8. Shenzhen General Technology Research Project, No. 2021325715, Key Project No. 2022233, “Research and Development of an ‘Internet+’ Intelligent Maternal–Fetal Monitoring System,” Jan. 2022–Dec. 2023, Co-I.
+9. Scientific Research Project for General Universities in Guangdong Province—Young Innovative Talents Category, No. 2022KQNCX071, “Generalizable Deep Learning Based on Multi-Center Datasets,” Sep. 2022–Aug. 2024, Co-I.
+10. Guangdong Key-Discipline Research Capacity Enhancement Project, No. 2022ZDJS112, “Key Technologies for a Multimodal Perception-Based Human–Computer Interaction Service System Using Cloud–Edge Collaboration,” Jan. 2023–Dec. 2025, Co-I.
+11. Guangdong Key-Discipline Research Capacity Enhancement Project, No. 2022ZDJS117, “Efficient Video-Coding Technologies Based on Neural Radiance Fields,” Jan. 2023–Dec. 2025, Co-I.
+12. Scientific Research Project for General Universities in Guangdong Province—Characteristic Innovation Category, No. 2019KTSCX204, “Key Technologies for Weakly Supervised Hybrid Intelligent Question Answering with Knowledge Reasoning,” Jan. 2020–Dec. 2021, Co-I.
+13. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021011, “Multimodal Knowledge-Aware Hybrid Models and Methods for Domain-Specific Intelligent Question Answering,” Sep. 2020–Dec. 2023, Co-I.
+14. Shenzhen Science and Technology Application Demonstration Project, No. KJYY20170721163528274, “Intelligent Maternal and Child Internet-of-Things Platform for Perinatal Health Management,” Apr. 2017–Apr. 2020, RMB 3 million, completed, **PI**.
     
 ***Industry–University Collaborative Projects***
 
-1. Ministry of Education Industry–University Collaborative Education Project, No. 231105340010748, “Development of an Intelligent Autonomous Unmanned Systems Laboratory for Applied-Talent Education,” Oct. 2023–Sep. 2024, **Principal Investigator**.
-2. Shenzhen Technology University–Enterprise Joint Laboratory Project, No. 20231064010040, “OpenHarmony Joint Laboratory” with Guangdong Nine-Link Technology Co., Ltd., Apr. 2023–Apr. 2026, participant.
-3. Industry-Sponsored Project, No. 20210202027, “Development of an Autonomous Glass-Curtain-Wall Cleaning Robot Based on Artificial Intelligence,” Sep. 2021–Dec. 2023, **Principal Investigator**.
-4. Shenzhen Technology University–Enterprise Collaborative Talent-Training Project, No. 201922002, “Shenzhen Jumper Technology–Medical Big Data Joint Laboratory,” Jun. 2021–May 2024, **Principal Investigator**.
-5. Ministry of Education Supply–Demand Matching Employment Education Project, No. 20230109806, “Human-Resource Capacity Enhancement for the Computer Science and Technology Program at Shenzhen Technology University,” Jan. 2023–Dec. 2023, **Principal Investigator**.
-6. Ministry of Education Supply–Demand Matching Employment Education Project, No. 20230103577, “Baidu Practical Training Base Project,” Jan. 2023–Dec. 2023, participant.
-7. Ministry of Education Industry–University Collaborative Education Project, No. 202101207006, “Reform and Practice of a Computational-Thinking-Oriented University Computer Fundamentals Course in the Era of Big Data,” Mar. 2021–Feb. 2023, **Principal Investigator**.
-8. Ministry of Education Industry–University Collaborative Education Project, No. 202101207006, “Development of University Computer Fundamentals Courses at Universities of Applied Sciences under the New Engineering Education Initiative,” Mar. 2021–Feb. 2023, participant.
-9. Ministry of Education Industry–University Collaborative Education Project, No. 201902259017, “Development of the Tencent–Shenzhen Technology University Artificial Intelligence Practice Base,” Sep. 2020–Aug. 2021, participant.
-10. Ministry of Education Industry–University Collaborative Education Project, No. 201901215018, “AI Practice Teaching Platform Based on a vGPU Environment,” Oct. 2019–Sep. 2020, participant.
-11. Ministry of Education Industry–University Collaborative Education Project, No. 201802083053, “Development of a Test Data Center Based on Artificial Intelligence Technologies,” Jan. 2019–Dec. 2019, participant.
+1. Ministry of Education Industry–University Collaborative Education Project, No. 231105340010748, “Development of an Intelligent Autonomous Unmanned Systems Laboratory for Applied-Talent Education,” Oct. 2023–Sep. 2024, **PI**.
+2. Shenzhen Technology University–Enterprise Joint Laboratory Project, No. 20231064010040, “OpenHarmony Joint Laboratory” with Guangdong Nine-Link Technology Co., Ltd., Apr. 2023–Apr. 2026, Co-I.
+3. Industry-Sponsored Project, No. 20210202027, “Development of an Autonomous Glass-Curtain-Wall Cleaning Robot Based on Artificial Intelligence,” Sep. 2021–Dec. 2023, **PI**.
+4. Shenzhen Technology University–Enterprise Collaborative Talent-Training Project, No. 201922002, “Shenzhen Jumper Technology–Medical Big Data Joint Laboratory,” Jun. 2021–May 2024, **PI**.
+5. Ministry of Education Supply–Demand Matching Employment Education Project, No. 20230109806, “Human-Resource Capacity Enhancement for the Computer Science and Technology Program at Shenzhen Technology University,” Jan. 2023–Dec. 2023, **PI**.
+6. Ministry of Education Supply–Demand Matching Employment Education Project, No. 20230103577, “Baidu Practical Training Base Project,” Jan. 2023–Dec. 2023, Co-I.
+7. Ministry of Education Industry–University Collaborative Education Project, No. 202101207006, “Reform and Practice of a Computational-Thinking-Oriented University Computer Fundamentals Course in the Era of Big Data,” Mar. 2021–Feb. 2023, **PI**.
+8. Ministry of Education Industry–University Collaborative Education Project, No. 202101207006, “Development of University Computer Fundamentals Courses at Universities of Applied Sciences under the New Engineering Education Initiative,” Mar. 2021–Feb. 2023, Co-I.
+9. Ministry of Education Industry–University Collaborative Education Project, No. 201902259017, “Development of the Tencent–Shenzhen Technology University Artificial Intelligence Practice Base,” Sep. 2020–Aug. 2021, Co-I.
+10. Ministry of Education Industry–University Collaborative Education Project, No. 201901215018, “AI Practice Teaching Platform Based on a vGPU Environment,” Oct. 2019–Sep. 2020, Co-I.
+11. Ministry of Education Industry–University Collaborative Education Project, No. 201802083053, “Development of a Test Data Center Based on Artificial Intelligence Technologies,” Jan. 2019–Dec. 2019, Co-I.
 
 ***Teaching and Education Reform Projects***
 
-1. Guangdong Provincial Higher Education Teaching Reform Project, “Exploration and Development of a High-Quality Applied-Talent Education System in Computer-Related Disciplines,” Oct. 2024–Oct. 2027, participant.
-2. Fourth-Batch Textbook Pilot Application Project under the “101 Plan” for Undergraduate Computer Education Reform, Introduction to Computing, ongoing, Project Lead.
+1. Guangdong Provincial Higher Education Teaching Reform Project, “Exploration and Development of a High-Quality Applied-Talent Education System in Computer-Related Disciplines,” Oct. 2024–Oct. 2027, Co-I.
+2. Fourth-Batch Textbook Pilot Application Project under the “101 Plan” for Undergraduate Computer Education Reform, Introduction to Computing, ongoing, **PI**.
 3. General Teaching Reform Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202301010, “Theory and Practice of Developing a First-Class Undergraduate Computer Science and Technology Program at a University of Applied Sciences,” **Principal Investigator**.
-4. Distinctive Course Development Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202302012, Introduction to Machine Learning, **Principal Investigator**.
-5. Education Research Project of the National Association for Computer Education in Higher Education, Fourth Quarter of 2022, “14th Five-Year Plan Textbook Development Project,” No. CERACU2022P47, University Computer Fundamentals, participant.
-6. Guangdong Provincial Higher Education Teaching Reform Project, No. 20211056040002, “Exploration of University Computer Fundamentals Course Reform at Universities of Applied Sciences,” Jan. 2021–Dec. 2022, participant.
-7. Shenzhen Technology University Teaching Reform Research Project, No. 20181043, “Exploration of an I<sup>3</sup>-Integrated Applied-Talent Education System for Computer-Related Disciplines,” Nov. 2018–Dec. 2020, participant.
-8. Shenzhen Technology University Teaching Reform Research Project, No. 20181051, “Innovative Teaching of University Computer Fundamentals Using the LEGO Mindstorms Robotic System under the New Engineering Education Initiative,” Dec. 2018–Nov. 2020, **Principal Investigator**.
+4. Distinctive Course Development Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202302012, Introduction to Machine Learning, **PI**.
+5. Education Research Project of the National Association for Computer Education in Higher Education, Fourth Quarter of 2022, “14th Five-Year Plan Textbook Development Project,” No. CERACU2022P47, University Computer Fundamentals, Co-I.
+6. Guangdong Provincial Higher Education Teaching Reform Project, No. 20211056040002, “Exploration of University Computer Fundamentals Course Reform at Universities of Applied Sciences,” Jan. 2021–Dec. 2022, Co-I.
+7. Shenzhen Technology University Teaching Reform Research Project, No. 20181043, “Exploration of an I<sup>3</sup>-Integrated Applied-Talent Education System for Computer-Related Disciplines,” Nov. 2018–Dec. 2020, Co-I.
+8. Shenzhen Technology University Teaching Reform Research Project, No. 20181051, “Innovative Teaching of University Computer Fundamentals Using the LEGO Mindstorms Robotic System under the New Engineering Education Initiative,” Dec. 2018–Nov. 2020, **PI**.
 
 
 Selected Publications
