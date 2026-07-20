@@ -5,8 +5,6 @@ permalink: /lesson/
 author_profile: true
 ---
 
-课程
-======
 
 **本科生课程**
 -  [大学计算机与人工智能A](https://valley-bestseller-0fd.notion.site/A-2025-278125d7376080478622c3352860de09)
