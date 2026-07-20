@@ -70,6 +70,7 @@ author_profile: true
             <p>兼职科研助理，2022年7月-至今</p>
             <p>本科生，生物医学工程专业，2018级</p>
             <p>硕士毕业并就职于新加坡国立大学，任Research Associate</p>
+            个人主页：<a href="https://lixiaoqingnnz.github.io/career_site/">https://lixiaoqingnnz.github.io/career_site/</a>
         </div>
     </div> 
 
@@ -261,6 +262,51 @@ author_profile: true
 
     <div class="container">
         <div class="image">
+            <img src="/images/hwb.jpg" alt="冯文斌">
+        </div>
+        <div class="text">
+            <p><strong>冯文斌</strong></p>
+            <p>本科生，计算机科学与技术专业，2022级</p>
+            <p>第四届伦琴AI实验班成员</p>
+            个人主页：<a href="https://wenbin-feng.github.io/">https://wenbin-feng.github.io/</a>
+        </div>
+    </div>
+
+        <div class="container">
+        <div class="image">
+            <img src="/images/yjy.jpg" alt="余婧莹">
+        </div>
+        <div class="text">
+            <p><strong>余婧莹</strong></p>
+            <p>本科生，物联网工程专业，2022级</p>
+            <p>第四届伦琴AI实验班成员</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/xzh.jpg" alt="肖智辉">
+        </div>
+        <div class="text">
+            <p><strong>肖智辉</strong></p>
+            <p>本科生，数据科学与大数据技术专业，2022级</p>
+            <p>第四届伦琴AI实验班成员</p>
+        </div>
+    </div>
+
+ <div class="container">
+        <div class="image">
+            <img src="/images/lixingyue.jpg" alt="李星玥">
+        </div>
+        <div class="text">
+            <p><strong>李星玥</strong></p>
+            <p>本科生，智能医学工程专业，2022级</p>
+            <p>毕业去向：深圳大学（读硕）</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
             <img src="/images/xzp(2).jpg" alt="许展鹏">
         </div>
         <div class="text">
@@ -323,50 +369,6 @@ author_profile: true
             <p><strong>叶开宜</strong></p>
             <p>本科生，数据科学与大数据技术专业，2021级</p>
             <p>第三届伦琴AI实验班成员</p>
-        </div>
-    </div>
-        
-    <div class="container">
-        <div class="image">
-            <img src="/images/yjy.jpg" alt="余婧莹">
-        </div>
-        <div class="text">
-            <p><strong>余婧莹</strong></p>
-            <p>本科生，物联网工程专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/xzh.jpg" alt="肖智辉">
-        </div>
-        <div class="text">
-            <p><strong>肖智辉</strong></p>
-            <p>本科生，数据科学与大数据技术专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="image">
-            <img src="/images/hwb.jpg" alt="冯文斌">
-        </div>
-        <div class="text">
-            <p><strong>冯文斌</strong></p>
-            <p>本科生，计算机科学与技术专业，2022级</p>
-            <p>第四届伦琴AI实验班成员</p>
-        </div>
-    </div>
-
- <div class="container">
-        <div class="image">
-            <img src="/images/lixingyue.jpg" alt="李星玥">
-        </div>
-        <div class="text">
-            <p><strong>李星玥</strong></p>
-            <p>本科生，智能医学工程专业，2022级</p>
-            <p>毕业去向：深圳大学（读硕）</p>
         </div>
     </div>
 
