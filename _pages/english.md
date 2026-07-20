@@ -80,31 +80,30 @@ Research Projects
 13. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021011, “Multimodal Knowledge-Aware Hybrid Models and Methods for Domain-Specific Intelligent Question Answering,” Sep. 2020–Dec. 2023, participant.
 14. Shenzhen Science and Technology Application Demonstration Project, No. KJYY20170721163528274, “Intelligent Maternal and Child Internet-of-Things Platform for Perinatal Health Management,” Apr. 2017–Apr. 2020, RMB 3 million, completed, **Principal Investigator**.
     
-***横向项目***
+***Industry–University Collaborative Projects***
 
-1. 教育部产学合作协同育人项目，231105340010748，面向应用型人才培养的智能无人自主系统实验室建设，2023.10-2024.9，20万元，在研，**主持**。
-2. 深圳技术大学校企联合实验室项目，20231064010040，OpenHarmony联合实验室（广东九联科技股份有限公司），2023.4-2026.4，100万元，在研，参与。
-3. 横向项目，20210202027，基于人工智能技术的自主玻璃幕墙清洁机器人研发，2021.9-2023.12，50万元，结题，**主持**。
-4. 深圳技术大学校企合作人才培养项目，201922002，深圳京柏科技-医疗大数据联合实验室，2021.6-2024.5，100万，结题，**主持**。
-5. 教育部供需对接就业育人项目，20230109806，深圳技术大学计算机科学与技术专业人力资源提升项目，2023.1-2023.12，2万元，结题，**主持**。
-6. 教育部供需对接就业育人项目，20230103577，百度公司实训实践基地项目，2023.1-2023.12，结题，参与。
-7. 教育部产学合作协同育人项目，202101207006，基于大数据背景下面向计算思维的大学计算机基础课程改革与实践，2021.3-2023.2，5万元，结题，**主持**。
-8. 教育部产学合作协同育人项目，202101207006，新工科背景下应用技术型大学计算机基础课程建设研究，2021.3-2023.2，50万元，结题，参与。
-9. 教育部产学合作协同育人项目，201902259017，腾讯-深圳技术大学人工智能实践基地建设，2020.9-2021.8，2万元，结题，参与。
-10. 教育部产学合作协同育人项目，201901215018，基于vGPU环境的AI实践教学平台，2019.10-2020.9，50万元，结题，参与。
-11. 教育部产学合作协同育人项目，201802083053，基于人工智能技术的测试数据中心构建，2019.1-2019.12，1万元，结题，参与。
+1. Ministry of Education Industry–University Collaborative Education Project, No. 231105340010748, “Development of an Intelligent Autonomous Unmanned Systems Laboratory for Applied-Talent Education,” Oct. 2023–Sep. 2024, RMB 200,000, ongoing, Principal Investigator.
+2. Shenzhen Technology University–Enterprise Joint Laboratory Project, No. 20231064010040, “OpenHarmony Joint Laboratory” with Guangdong Nine-Link Technology Co., Ltd., Apr. 2023–Apr. 2026, RMB 1 million, ongoing, participant.
+3. Industry-Sponsored Project, No. 20210202027, “Development of an Autonomous Glass-Curtain-Wall Cleaning Robot Based on Artificial Intelligence,” Sep. 2021–Dec. 2023, RMB 500,000, completed, Principal Investigator.
+4. Shenzhen Technology University–Enterprise Collaborative Talent-Training Project, No. 201922002, “Shenzhen Jumper Technology–Medical Big Data Joint Laboratory,” Jun. 2021–May 2024, RMB 1 million, completed, Principal Investigator.
+5. Ministry of Education Supply–Demand Matching Employment Education Project, No. 20230109806, “Human-Resource Capacity Enhancement for the Computer Science and Technology Program at Shenzhen Technology University,” Jan. 2023–Dec. 2023, RMB 20,000, completed, Principal Investigator.
+6. Ministry of Education Supply–Demand Matching Employment Education Project, No. 20230103577, “Baidu Practical Training Base Project,” Jan. 2023–Dec. 2023, completed, participant.
+7. Ministry of Education Industry–University Collaborative Education Project, No. 202101207006, “Reform and Practice of a Computational-Thinking-Oriented University Computer Fundamentals Course in the Era of Big Data,” Mar. 2021–Feb. 2023, RMB 50,000, completed, Principal Investigator.
+8. Ministry of Education Industry–University Collaborative Education Project, No. 202101207006, “Development of University Computer Fundamentals Courses at Universities of Applied Sciences under the New Engineering Education Initiative,” Mar. 2021–Feb. 2023, RMB 500,000, completed, participant.
+9. Ministry of Education Industry–University Collaborative Education Project, No. 201902259017, “Development of the Tencent–Shenzhen Technology University Artificial Intelligence Practice Base,” Sep. 2020–Aug. 2021, RMB 20,000, completed, participant.
+10. Ministry of Education Industry–University Collaborative Education Project, No. 201901215018, “AI Practice Teaching Platform Based on a vGPU Environment,” Oct. 2019–Sep. 2020, RMB 500,000, completed, participant.
+11. Ministry of Education Industry–University Collaborative Education Project, No. 201802083053, “Development of a Test Data Center Based on Artificial Intelligence Technologies,” Jan. 2019–Dec. 2019, RMB 10,000, completed, participant.
 
-***教研项目***
+***Teaching and Education Reform Projects***
 
-1. 广东省高等教育教学改革项目，高质量应用型计算机领域人才培养体系探索与构建，2024.10-2027.10，在研，参与。
-2. “101计划”计算机领域本科教育教学改⾰试点⼯作计划第四批教材试点应⽤项⽬，计算概论，在研，**负责人**。
-3. 深圳技术大学大数据与互联网学院一般教学改革项目，BDI202301010，应用技术型大学计算机科学与技术一流本科专业建设的理论研究与实践，在研，**主持**。
-4. 深圳技术大学大数据与互联网学院特色课程建设项目，BDI202302012，机器学习导论，在研，**主持**。
-5. 全国高等学校计算机数育研究会2022年第四季度教育研究项目，“⼗四五”规划教材建设课题，CERACU2022P47，大学计算机基础教程，参与。
-6. 广东省高等教育教学改革项目，20211056040002，应用型大学计算机基础课程改革探索，2021.1-2022.12，10万元，结题，参与。
-7. 深圳技术大学教学改革研究项目，20181043,I<sup>3</sup>融合的应用型计算机学科人才培养体系探索，2018.11—2020.12，5万元，结题，参与
-8. 深圳技术大学教学改革研究项目，20181051，新工科背景下基于LEGO Mindstorms机器人系统的大学计算机基础课程创新教学的研究，2018.12—2020.11，5万元，优秀结题，**主持**。
-
+1. Guangdong Provincial Higher Education Teaching Reform Project, “Exploration and Development of a High-Quality Applied-Talent Education System in Computer-Related Disciplines,” Oct. 2024–Oct. 2027, ongoing, participant.
+2. Fourth-Batch Textbook Pilot Application Project under the “101 Plan” for Undergraduate Computer Education Reform, Introduction to Computing, ongoing, Project Lead.
+3. General Teaching Reform Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202301010, “Theory and Practice of Developing a First-Class Undergraduate Computer Science and Technology Program at a University of Applied Sciences,” ongoing, Principal Investigator.
+4. Distinctive Course Development Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202302012, Introduction to Machine Learning, ongoing, Principal Investigator.
+5. Education Research Project of the National Association for Computer Education in Higher Education, Fourth Quarter of 2022, “14th Five-Year Plan Textbook Development Project,” No. CERACU2022P47, University Computer Fundamentals, participant.
+6. Guangdong Provincial Higher Education Teaching Reform Project, No. 20211056040002, “Exploration of University Computer Fundamentals Course Reform at Universities of Applied Sciences,” Jan. 2021–Dec. 2022, RMB 100,000, completed, participant.
+7. Shenzhen Technology University Teaching Reform Research Project, No. 20181043, “Exploration of an I<sup>3</sup>-Integrated Applied-Talent Education System for Computer-Related Disciplines,” Nov. 2018–Dec. 2020, RMB 50,000, completed, participant.
+8. Shenzhen Technology University Teaching Reform Research Project, No. 20181051, “Innovative Teaching of University Computer Fundamentals Using the LEGO Mindstorms Robotic System under the New Engineering Education Initiative,” Dec. 2018–Nov. 2020, RMB 50,000, completed with an Excellent Rating, Principal Investigator.
 代表性学术论文
 ======
 **（2018.9-）**
