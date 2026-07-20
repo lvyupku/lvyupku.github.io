@@ -8,13 +8,13 @@ redirect_from:
 ---
 <!-- title: "Homepage" -->
 <!--  Welcome to my website! -->
-**吕羽 Yu Lu**
+**Yu Lu**
 
-副教授，深圳技术大学，人工智能学院
+Associate Professor，School of Artificial Intelligence，Shenzhen Technology University
 
-办公室：C1-1615
+Office: C1-1615
 
-实验室：C1-902（研究生、博士后）、C1-405（本科生）
+Labs: C1-902 (Graduate Students and Postdoctoral Researchers); C1-405 (Undergraduate Students)
 
 Email:
 
@@ -23,47 +23,51 @@ Email:
 
 Openings
 ======
-我有多个专职副研究员/博士后/联合培养博士生/硕士生/RA/本科生/实习生/访问学生的职位空缺（全年），从事与医学人工智能、无人自主系统、形式化方法等相关的研究项目。欢迎有兴趣与我一起工作的优秀学生发邮件联系我。
+I have multiple openings throughout the year for Research Fellows, postdoctoral researchers, jointly supervised Ph.D. students, master's students, research assistants, undergraduate students, interns, and visiting students. The available research projects cover medical artificial intelligence, autonomous unmanned systems, formal methods, and related areas. Motivated and talented students who are interested in working with me are welcome to contact me by email.
 
 Introduction
 ======
-现任副教授、硕士生导师，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。已在IEEE Journal of Biomedical and Health Informatics、IEEE Transactions on Aerospace and Electronic Systems、Pattern Recognition、Expert Systems With Applications、Applied Soft Computing、Neurocomputing、Knowledge-Based Systems、Artificial Intelligence in Medicine、Ocean Engineering、Reliability Engineering & System Safety等国际期刊，以及AAAI、IROS、ICME、ICASSP、BIBM等国际会议上发表学术论文100余篇。主持国家自然科学基金面上项目、广东省普通高校重点领域专项等项目10余项。获2项发明专利授权，另有6项发明专利申请中，已实现1项科技成果转化。担任IEEE TIP/TMI/JBHI/TDSC/TIFS/TII/TMECH/TGRS/TMC/TETCI等顶刊审稿人。
+I am currently an Associate Professor and Master's Supervisor at Shenzhen Technology University. I have been recognized as a Category C Talent under Shenzhen's Overseas High-Caliber Talent “Peacock Plan” and am a member of the Jiusan Society.
 
-- 2022.12-至今，深圳技术大学，副教授
-- 2018.09-2022.11，深圳技术大学，助理教授
-- 2017.03-2018.08，深圳京柏医疗科技股份有限公司，科学家
-- 2015.10-2017.03，英国克兰菲尔德大学，博士后
-- 2011.10-2015.09，英国格拉斯哥大学，计算机科学专业，博士
+I have published more than 100 academic papers in international journals, including IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Aerospace and Electronic Systems, Pattern Recognition, Expert Systems with Applications, Applied Soft Computing, Neurocomputing, Knowledge-Based Systems, Artificial Intelligence in Medicine, Ocean Engineering, and Reliability Engineering & System Safety, as well as at international conferences such as AAAI, IROS, ICME, ICASSP, and BIBM.
+
+I have led or participated in more than ten research projects, including General Programs of the National Natural Science Foundation of China and Key-Area Special Projects for General Universities in Guangdong Province. I have been granted two invention patents, with another six invention patent applications currently under examination, and have completed the commercialization of one research achievement. I also serve as a reviewer for leading IEEE journals, including IEEE TIP, IEEE TMI, IEEE JBHI, IEEE TDSC, IEEE TIFS, IEEE TII, IEEE TMECH, IEEE TGRS, IEEE TMC, and IEEE TETCI.
+
+- Dec. 2022–Present: Associate Professor, Shenzhen Technology University
+- Sep. 2018–Nov. 2022: Assistant Professor, Shenzhen Technology University
+- Mar. 2017–Aug. 2018: Scientist, Shenzhen Jumper Medical Equipment Co., Ltd.
+- Oct. 2015–Mar. 2017: Research Fellow, Cranfield University, United Kingdom
+- Oct. 2011–Sep. 2015: Ph.D. in Computing Science, University of Glasgow, UK
 
 News
 ======
-- [06/2026] 1 paper accepted to [IROS 2026](https://2026.ieee-iros.org/)（本科生一作）
-- [02/2026] 1 paper accepted to [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)（本科生一作）
+- [06/2026] 1 paper accepted by [IROS 2026](https://2026.ieee-iros.org/) (undergraduate student as the first author).
+- [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020) (undergraduate student as the first author).
 - [02/2026] 1 paper accepted to [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
 - [01/2026] 1 paper accepted to [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
-- [01/2026] 1 paper accepted to [ICASSP 2026](https://2026.ieeeicassp.org/)（硕士生一作）
+- [01/2026] 1 paper accepted to [ICASSP 2026](https://2026.ieeeicassp.org/) (master's student as the first author).）
 - [12/2025] 1 paper accepted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [10/2025] 1 regular paper, 2 short papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 - [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-- [06/2025] 1 paper accepted to [IROS 2025](https://www.iros25.org/)（硕士生一作）
-- [03/2025] 1 paper accepted to [ICME 2025](https://2025.ieeeicme.org/)（硕士生一作）
-- [12/2024] 1 paper accepted to [ICASSP 2025](https://2025.ieeeicassp.org/)（硕士生一作）
+- [06/2025] 1 paper accepted to [IROS 2025](https://www.iros25.org/) (master's student as the first author).
+- [03/2025] 1 paper accepted to [ICME 2025](https://2025.ieeeicme.org/) (master's student as the first author).
+- [12/2024] 1 paper accepted to [ICASSP 2025](https://2025.ieeeicassp.org/) (master's student as the first author).
 - [08/2024] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - [08/2024] 1 regular paper accepted to [BIBM 2024](https://ieeebibm.org/BIBM2024/)
-- [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
-- [07/2021] 1 paper accepted to [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)（本科生一作）
-  相关报道：“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行了报道。
+- [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) (master's student as the first author).
+- [07/2021] 1 paper accepted to [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems) (undergraduate student as the first author).
+  Related news coverage: “A Student Everyone Envies! Shenzhen Technology University Undergraduate Publishes Research Papers in an International Journal and at International Conferences.” The achievement was reported by [Tencent News](https://new.qq.com/rain/a/20210714A0AGOR00)，[Sina](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，[Shenzhen Special Zone Daily], and other media outlets.
 
 
-项目经历
+Research Projects
 ======
    
-***纵向项目***
+***Government-Funded Research Projects***
 
-1. 国家自然科学基金面上项目，62576222，多源生理信号智能异常检测与可解释性方法研究，2026.01-2029.12，50万元，在研，**主持**。
-2. 国家自然科学基金面上项目，62473267，大语言模型驱动的多源非完备生理信息融合方法研究，2025.01-2028.12，50万元，在研，参与。
+1. General Program of the National Natural Science Foundation of China, No. 62576222, “Intelligent Anomaly Detection and Explainability Methods for Multi-Source Physiological Signals,” Jan. 2026–Dec. 2029, ongoing, **Principal Investigator**.
+2. General Program of the National Natural Science Foundation of China, No. 62473267, “Large Language Model-Driven Fusion of Multi-Source Incomplete Physiological Information,” Jan. 2025–Dec. 2028, RMB 500,000, ongoing, participant.
 3. 广东省普通高校重点领域专项（生物医药与健康），2023ZDZX2055，基于AI多模态的妇幼健康状况中医诊断关键技术研究，2023.10-2026.10，20万元，在研，**主持**。
 4. 大数据系统计算技术国家工程实验室开放课题面上项目，SZU-BDSC-OF2024-11，基于大数据和大模型的多模态深度学习技术预测不良分娩结局的研究，2024.01-2025.12，2万元，在研，**主持**。
 5. 机器人学国家重点实验室开放课题，基于触觉的水下机械手感知建模与抓取仿真研究，2023.12-2025.12，5万元，在研，参与。
