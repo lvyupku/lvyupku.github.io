@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "荣誉获奖"
+    url: /award/
+    
   - title: "专业服务"
     url: /work/
 
