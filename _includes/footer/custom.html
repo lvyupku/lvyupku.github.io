@@ -1,6 +1,74 @@
-#<!-- start custom footer snippets -->
-#<!-- end custom footer snippets -->
+<div class="visitor-statistics">
+  <div class="visitor-title">
+    Global Visitors
+  </div>
 
-<!-- start custom footer snippets -->
-<a href="/sitemap/">Sitemap</a>
-<!-- end custom footer snippets -->
+  <div class="visitor-widgets">
+
+    <!-- 国家、国旗和访问人数 -->
+    <div class="visitor-widget visitor-countries">
+      <div class="visitor-widget-title">Visitors by Country</div>
+
+      <a href="http://s05.flagcounter.com/more/g9g"><img src="https://s05.flagcounter.com/count2/g9g/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    </div>
+
+  </div>
+</div>
+
+<style>
+.visitor-statistics {
+  width: 100%;
+  max-width: 1000px;
+  margin: 10px auto 25px;
+  padding: 18px 15px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.visitor-title {
+  margin-bottom: 16px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.visitor-widgets {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.visitor-widget {
+  padding: 12px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.visitor-widget-title {
+  margin-bottom: 10px;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.visitor-widget img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border: 0;
+}
+
+@media (max-width: 700px) {
+  .visitor-widgets {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .visitor-widget {
+    width: 100%;
+  }
+}
+</style>
