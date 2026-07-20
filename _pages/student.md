@@ -70,7 +70,7 @@ author_profile: true
             <p>兼职科研助理，2022年7月-至今</p>
             <p>本科生，生物医学工程专业，2018级</p>
             <p>毕业论文题目：基于病理学切片图像的乳腺癌淋巴结转移检测算法研究</p>
-            <p>硕士毕业于并就职于新加坡国立大学，任Research Associate</p>
+            <p>硕士毕业并就职于新加坡国立大学，任Research Associate</p>
         </div>
     </div> 
 
@@ -439,7 +439,7 @@ author_profile: true
         <div class="text">
             <p><strong>蒋拓</strong></p>
             <p>全职科研助理，2020年3月-2021年2月</p>
-            <p>硕士毕业于澳大利亚阿德莱德大学</p>
+            <p>硕士毕业于澳大利亚南澳大学</p>
             <p>目前就职于深圳技术大学外国语学院，任实验员</p>
         </div>
     </div>   
