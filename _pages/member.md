@@ -69,7 +69,6 @@ author_profile: true
             <p><strong>Xiaoqing Li (李晓庆）</strong></p>
             <p>兼职科研助理，2022年7月-至今</p>
             <p>本科生，生物医学工程专业，2018级</p>
-            <p>毕业论文题目：基于病理学切片图像的乳腺癌淋巴结转移检测算法研究</p>
             <p>硕士毕业并就职于新加坡国立大学，任Research Associate</p>
         </div>
     </div> 
