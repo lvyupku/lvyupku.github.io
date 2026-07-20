@@ -118,6 +118,27 @@ author_profile: true
         </div>
     </div>
 
+    <div class="container">
+        <div class="image">
+            <img src="/images/linzheng.jpg" alt="林政">
+        </div>
+        <div class="text">
+            <p><strong>林政</strong></p>
+            <p>本科生，物联网工程专业，2023级</p>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="image">
+            <img src="/images/wantengyuan.jpg" alt="万腾远">
+        </div>
+        <div class="text">
+            <p><strong>万腾远</strong></p>
+            <p>本科生，2024级</p>
+        </div>
+    </div>
+
+
      <div class="container">
         <div class="image">
             <img src="/images/zengzixuan.jpg" alt="曾子轩">
