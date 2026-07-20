@@ -45,7 +45,6 @@ author_profile: true
             <p><strong>Dr. Adil Nawaz</strong></p>
             <p>博士后，2026年5月-至今</p>
             <p>深圳大学博士毕业</p>
-            个人主页：<a href="https://scholar.google.com/citations?user=tWc9ldIAAAAJ">https://scholar.google.com/citations?user=tWc9ldIAAAAJ/</a>
         </div>
     </div>
     
