@@ -5,8 +5,9 @@ permalink: /english/
 author_profile: true
 ---
 
-**Yu Lu**
 
+**Yu Lu, Ph.D.**
+======
 Associate Professor，School of Artificial Intelligence，Shenzhen Technology University
 
 Office: C1-1615
@@ -77,7 +78,7 @@ Research Projects
 11. Guangdong Key-Discipline Research Capacity Enhancement Project, No. 2022ZDJS117, “Efficient Video-Coding Technologies Based on Neural Radiance Fields,” Jan. 2023–Dec. 2025, Co-I.
 12. Scientific Research Project for General Universities in Guangdong Province—Characteristic Innovation Category, No. 2019KTSCX204, “Key Technologies for Weakly Supervised Hybrid Intelligent Question Answering with Knowledge Reasoning,” Jan. 2020–Dec. 2021, Co-I.
 13. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021011, “Multimodal Knowledge-Aware Hybrid Models and Methods for Domain-Specific Intelligent Question Answering,” Sep. 2020–Dec. 2023, Co-I.
-14. Shenzhen Science and Technology Application Demonstration Project, No. KJYY20170721163528274, “Intelligent Maternal and Child Internet-of-Things Platform for Perinatal Health Management,” Apr. 2017–Apr. 2020, RMB 3 million, completed, **PI**.
+14. Shenzhen Science and Technology Application Demonstration Project, No. KJYY20170721163528274, “Intelligent Maternal and Child Internet-of-Things Platform for Perinatal Health Management,” Apr. 2017–Apr. 2020, **PI**.
     
 ***Industry–University Collaborative Projects***
 
@@ -97,7 +98,7 @@ Research Projects
 
 1. Guangdong Provincial Higher Education Teaching Reform Project, “Exploration and Development of a High-Quality Applied-Talent Education System in Computer-Related Disciplines,” Oct. 2024–Oct. 2027, Co-I.
 2. Fourth-Batch Textbook Pilot Application Project under the “101 Plan” for Undergraduate Computer Education Reform, Introduction to Computing, ongoing, **PI**.
-3. General Teaching Reform Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202301010, “Theory and Practice of Developing a First-Class Undergraduate Computer Science and Technology Program at a University of Applied Sciences,” **Principal Investigator**.
+3. General Teaching Reform Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202301010, “Theory and Practice of Developing a First-Class Undergraduate Computer Science and Technology Program at a University of Applied Sciences,” **PI**.
 4. Distinctive Course Development Project of the College of Big Data and Internet, Shenzhen Technology University, No. BDI202302012, Introduction to Machine Learning, **PI**.
 5. Education Research Project of the National Association for Computer Education in Higher Education, Fourth Quarter of 2022, “14th Five-Year Plan Textbook Development Project,” No. CERACU2022P47, University Computer Fundamentals, Co-I.
 6. Guangdong Provincial Higher Education Teaching Reform Project, No. 20211056040002, “Exploration of University Computer Fundamentals Course Reform at Universities of Applied Sciences,” Jan. 2021–Dec. 2022, Co-I.
