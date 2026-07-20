@@ -3,10 +3,9 @@ permalink: /
 excerpt: "Yu Lu"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /Homepage.html
+  - /english/
 ---
-<!-- title: "Homepage" -->
+<!-- title: "English Homepage" -->
 <!--  Welcome to my website! -->
 **Yu Lu**
 
@@ -66,20 +65,20 @@ Research Projects
    
 ***Government-Funded Research Projects***
 
-1. General Program of the National Natural Science Foundation of China, No. 62576222, “Intelligent Anomaly Detection and Explainability Methods for Multi-Source Physiological Signals,” Jan. 2026–Dec. 2029, ongoing, **Principal Investigator**.
-2. General Program of the National Natural Science Foundation of China, No. 62473267, “Large Language Model-Driven Fusion of Multi-Source Incomplete Physiological Information,” Jan. 2025–Dec. 2028, RMB 500,000, ongoing, participant.
-3. 广东省普通高校重点领域专项（生物医药与健康），2023ZDZX2055，基于AI多模态的妇幼健康状况中医诊断关键技术研究，2023.10-2026.10，20万元，在研，**主持**。
-4. 大数据系统计算技术国家工程实验室开放课题面上项目，SZU-BDSC-OF2024-11，基于大数据和大模型的多模态深度学习技术预测不良分娩结局的研究，2024.01-2025.12，2万元，在研，**主持**。
-5. 机器人学国家重点实验室开放课题，基于触觉的水下机械手感知建模与抓取仿真研究，2023.12-2025.12，5万元，在研，参与。
-6. 深圳市高等院校稳定支持计划面上项目，SZWD2021012，基于全同态加密的隐私保护机器学习算法研究，2020.9-2023.12，30万元，结题，参与。
-7. 深圳市新引进高端人才科研启动项目，2019010801011，应用于移动及嵌入式物联网系统的深度学习技术研究，2019.1-2021.12，170万元，通过，**主持**。
-8. 深圳市技术攻关面上项目，2021325715，重2022233 “互联网+”智慧母胎监 护技术研发，2022.1-2023.12，164万元，结题，参与。
-9. 广东省普通高校科研项目（青年创新人才类），2022KQNCX071，基于多中心数据集的范化深度学习研究，2022.9-2024.8，在研，参与。
-10. 广东省重点建设学科科研能力提升项目，2022ZDJS112，基于云边协同的多模态感知服务型人机交互系统关键技术研究，2023.1-2025.12，80万元，结题，参与。
-11. 广东省重点建设学科科研能力提升项目，2022ZDJS117，基于神经辐射场的高效视频编码技术研究，2023.1-2025.12，100万元，结题，参与。
-12. 广东省普通高校科研项目（特色创新类），2019KTSCX204，结合知识推理的弱监督混合式智能问答关键技术研究，2020.1-2021.12，10万元，结题，参与。
-13. 深圳市高等院校稳定支持计划面上项目，SZWD2021011，基于多模态知识感知的混合式特定域智能问答模型与方法研究，2020.9-2023.12，30万元，结题，参与。
-14. 深圳市科技应用示范项目，KJYY20170721163528274，智慧妇幼物联网围产期健康管理平台，2017.4-2020.4，300万元，结题，**主持**。
+1. General Program of the National Natural Science Foundation of China, No. 62576222, “Intelligent Anomaly Detection and Explainability Methods for Multi-Source Physiological Signals,” Jan. 2026–Dec. 2029, **Principal Investigator**.
+2. General Program of the National Natural Science Foundation of China, No. 62473267, “Large Language Model-Driven Fusion of Multi-Source Incomplete Physiological Information,” Jan. 2025–Dec. 2028, participant.
+3. Key-Area Special Project for General Universities in Guangdong Province—Biomedicine and Health, No. 2023ZDZX2055, “Key Technologies for Traditional Chinese Medicine Diagnosis of Maternal and Child Health Conditions Based on AI-Enabled Multimodal Data,” Oct. 2023–Oct. 2026, **Principal Investigator**.
+4. General Open Fund Project of the National Engineering Laboratory for Big Data System Computing Technology, No. SZU-BDSC-OF2024-11, “Prediction of Adverse Delivery Outcomes Using Multimodal Deep Learning Based on Big Data and Large Models,” Jan. 2024–Dec. 2025, **Principal Investigator**.
+5. Open Project of the State Key Laboratory of Robotics, “Tactile-Based Perception Modeling and Grasping Simulation for Underwater Manipulators,” Dec. 2023–Dec. 2025, ongoing, participant.
+6. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021012, “Privacy-Preserving Machine-Learning Algorithms Based on Fully Homomorphic Encryption,” Sep. 2020–Dec. 2023, participant.
+7. Shenzhen Research Start-Up Project for Newly Introduced High-Level Talents, No. 2019010801011, “Deep-Learning Technologies for Mobile and Embedded Internet-of-Things Systems,” Jan. 2019–Dec. 2021, RMB 1.7 million, completed, **Principal Investigator**.
+8. Shenzhen General Technology Research Project, No. 2021325715, Key Project No. 2022233, “Research and Development of an ‘Internet+’ Intelligent Maternal–Fetal Monitoring System,” Jan. 2022–Dec. 2023, participant.
+9. Scientific Research Project for General Universities in Guangdong Province—Young Innovative Talents Category, No. 2022KQNCX071, “Generalizable Deep Learning Based on Multi-Center Datasets,” Sep. 2022–Aug. 2024, participant.
+10. Guangdong Key-Discipline Research Capacity Enhancement Project, No. 2022ZDJS112, “Key Technologies for a Multimodal Perception-Based Human–Computer Interaction Service System Using Cloud–Edge Collaboration,” Jan. 2023–Dec. 2025, participant.
+11. Guangdong Key-Discipline Research Capacity Enhancement Project, No. 2022ZDJS117, “Efficient Video-Coding Technologies Based on Neural Radiance Fields,” Jan. 2023–Dec. 2025, participant.
+12. Scientific Research Project for General Universities in Guangdong Province—Characteristic Innovation Category, No. 2019KTSCX204, “Key Technologies for Weakly Supervised Hybrid Intelligent Question Answering with Knowledge Reasoning,” Jan. 2020–Dec. 2021, participant.
+13. General Program of the Shenzhen Stable Support Plan for Higher Education Institutions, No. SZWD2021011, “Multimodal Knowledge-Aware Hybrid Models and Methods for Domain-Specific Intelligent Question Answering,” Sep. 2020–Dec. 2023, participant.
+14. Shenzhen Science and Technology Application Demonstration Project, No. KJYY20170721163528274, “Intelligent Maternal and Child Internet-of-Things Platform for Perinatal Health Management,” Apr. 2017–Apr. 2020, RMB 3 million, completed, **Principal Investigator**.
     
 ***横向项目***
 
