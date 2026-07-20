@@ -1,12 +1,10 @@
 ---
-permalink: /
-excerpt: "Yu Lu"
+layout: archive
+title: "English Homepage"
+permalink: /english/
 author_profile: true
-redirect_from: 
-  - /english/
 ---
-<!-- title: "English Homepage" -->
-<!--  Welcome to my website! -->
+
 **Yu Lu**
 
 Associate Professor，School of Artificial Intelligence，Shenzhen Technology University
