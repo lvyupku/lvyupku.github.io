@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "主讲课程"
-permalink: /lesson/
+permalink: /teaching/
 author_profile: true
 ---
 
