@@ -82,10 +82,10 @@ analytics:
 author:
   #name             : "吕羽"
   avatar           : "tencent.jpg"
-  #bio              : "深圳技术大学·大数据与互联网学院·副教授·硕士生导师"
+  #bio              : "深圳技术大学·人工智能学院·副教授·硕士生导师"
   location         : "中国·深圳"
   employer         :
-  #wechat           : wojiaocaoxin
+  #wechat           : 
   googlescholar    : "https://scholar.google.com/citations?user=TsJSFVAAAAAJ"
   email            : lvyu@sztu.edu.cn
   researchgate     : "https://www.researchgate.net/profile/Yu-Lu-35"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  #linkedin        : "https://www.linkedin.com/in/xin-cao-4b4a7130/"
+  #linkedin        : 
   orcid            : "https://orcid.org/0000-0002-7799-9794"
   pinterest        :
   soundcloud       :
