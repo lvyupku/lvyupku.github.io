@@ -203,7 +203,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/" alt="陈可怡">
+            <img src="/images/chenkeyi.jpg" alt="陈可怡">
         </div>
         <div class="text">
             <p><strong>陈可怡</strong></p>
