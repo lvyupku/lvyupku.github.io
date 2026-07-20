@@ -436,7 +436,7 @@ author_profile: true
 
     <div class="container">
         <div class="image">
-            <img src="/images/lj.jpg" alt="刘靓">
+            <img src="/images/liuliang.jpg" alt="刘靓">
         </div>
         <div class="text">
             <p><strong>刘靓</strong></p>
