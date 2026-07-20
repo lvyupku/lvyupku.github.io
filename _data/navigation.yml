@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "项目经历"
+    url: /project/
+    
   - title: "荣誉获奖"
     url: /award/
     
