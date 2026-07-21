@@ -37,21 +37,21 @@ Introduction
 
 News
 ======
-- [06/2026] 1 paper accepted to [IROS 2026](https://2026.ieee-iros.org/)（本科生一作）
-- [02/2026] 1 paper accepted to [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)（本科生一作）
-- [02/2026] 1 paper accepted to [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
-- [01/2026] 1 paper accepted to [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
-- [01/2026] 1 paper accepted to [ICASSP 2026](https://2026.ieeeicassp.org/)（硕士生一作）
-- [12/2025] 1 paper accepted to [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
-- [11/2025] 1 paper accepted to [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
-- [10/2025] 1 regular paper, 2 short papers accepted to [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
-- [07/2025] 1 paper accepted to [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
-- [06/2025] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-- [06/2025] 1 paper accepted to [IROS 2025](https://www.iros25.org/)（硕士生一作）
-- [03/2025] 1 paper accepted to [ICME 2025](https://2025.ieeeicme.org/)（硕士生一作）
-- [12/2024] 1 paper accepted to [ICASSP 2025](https://2025.ieeeicassp.org/)（硕士生一作）
-- [08/2024] 1 paper accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-- [08/2024] 1 regular paper accepted to [BIBM 2024](https://ieeebibm.org/BIBM2024/)
-- [12/2022] 1 paper accepted to [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
-- [07/2021] 1 paper accepted to [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)（本科生一作）
+- [06/2026] 1 paper accepted by [IROS 2026](https://2026.ieee-iros.org/)（本科生一作）
+- [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)（本科生一作）
+- [02/2026] 1 paper accepted by [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
+- [01/2026] 1 paper accepted by [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
+- [01/2026] 1 paper accepted by [ICASSP 2026](https://2026.ieeeicassp.org/)（硕士生一作）
+- [12/2025] 1 paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- [11/2025] 1 paper accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
+- [10/2025] 1 regular paper, 2 short papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+- [07/2025] 1 paper accepted by [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
+- [06/2025] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+- [06/2025] 1 paper accepted by [IROS 2025](https://www.iros25.org/)（硕士生一作）
+- [03/2025] 1 paper accepted by [ICME 2025](https://2025.ieeeicme.org/)（硕士生一作）
+- [12/2024] 1 paper accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)（硕士生一作）
+- [08/2024] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+- [08/2024] 1 regular paper accepted by [BIBM 2024](https://ieeebibm.org/BIBM2024/)
+- [12/2022] 1 paper accepted by [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
+- [07/2021] 1 paper accepted by [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)（本科生一作）
   相关报道：“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行了报道。
