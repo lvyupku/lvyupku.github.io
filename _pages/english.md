@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "English Homepage"
-permalink: /english/
+permalink: /en/
 author_profile: true
 ---
 
