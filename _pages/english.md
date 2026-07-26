@@ -109,7 +109,7 @@ Research Projects
 
 Selected Publications
 ======
-**（2018.9-）**
+**(2018.9-)**
 
 ***International Journal Articles***
 1. Wenbin Feng, **Yu Lu**<sup>*</sup>, Xiaoqing Li, Kai Leung Yung, Wai Hung Ip. Fog/Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection, IEEE Journal of Biomedical and Health Informatics, 25 February 2026, Early Access. [https://doi.org/10.1109/JBHI.2026.3667969](https://doi.org/10.1109/JBHI.2026.3667969)
@@ -181,25 +181,10 @@ Selected Publications
 42. **Yu Lu**, Xi Zhang, Xianghua Fu, Fangxiong Chen, Kelvin K.L. Wong<sup>*</sup>. Ensemble Machine Learning for Estimating Fetal Weight at Varying Gestational Age. Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI 2019), 9522-9527, Honolulu, Hawaii, USA, January 27 - February 1, 2019. [https://doi.org/10.1609/aaai.v33i01.33019522](https://doi.org/10.1609/aaai.v33i01.33019522)
 
 
-**（2018.9以前）**
+**(before 2018.9)**
 
 1. Hanlin Niu, **Yu Lu**, Al Savvaris<sup>*</sup>, Antonios Tsourdos. An energy-efficient path planning algorithm for unmanned surface vehicles. Ocean Engineering, 161:308-321, August 2018. [https://doi.org/10.1016/j.oceaneng.2018.01.025](https://doi.org/10.1016/j.oceaneng.2018.01.025)
 2. **Yu Lu**<sup>*</sup>, Alice A. Miller, Ruth Hoffmann, Christopher W. Johnson. Towards the Automated Verification of Weibull Distributions for System Failure Rates. Joint 21st International Workshop on Formal Methods for Industrial Critical Systems and 16th International Workshop on Automated Verification of Critical Systems, FMICS-AVoCS 2016, Pisa, Italy, September 26-28, 2016. [https://doi.org/10.1007/978-3-319-45943-1_6](https://doi.org/10.1007/978-3-319-45943-1_6)
 3. Zhaoguang Peng, **Yu Lu**<sup>*</sup>, Alice Miller, Tingdi Zhao, Chris Johnson. Formal Specification and Quantitative Analysis of a Constellation of Navigation Satellites. Quality and Reliability Engineering International, 32(2):345-361, March 2016. [https://doi.org/10.1002/qre.1754](https://doi.org/10.1002/qre.1754)
 4. Zhaoguang Peng, **Yu Lu**<sup>*</sup>, Alice Miller, Chris Johnson, Tingdi Zhao. Risk Assessment of Railway Transportation Systems using Timed Fault Trees. Quality and Reliability Engineering International, 32(1):181-194, February 2016. [https://doi.org/10.1002/qre.1738](https://doi.org/10.1002/qre.1738)
 5. **Yu Lu**, Zhaoguang Peng<sup>*</sup>, Alice Miller, Tingdi Zhao, Chris Johnson. How reliable is satellite navigation for aviation? Checking availability properties with probabilistic verification. Reliability Engineering & System Safety, 144:95-116, December 2015.[https://doi.org/10.1016/j.ress.2015.07.020](https://doi.org/10.1016/j.ress.2015.07.020)
-
-
-***荣誉获奖***
-1. December 2025: Grand Prize, Guangdong Provincial Outstanding Teaching Achievement Award for Schools—Higher Education, Undergraduate Category, the highest-level award, for “Innovation and Practice of an Applied Computer-Discipline Talent-Development System through Deep I<sup>3</sup> Integration and the Collaborative Development of Students, Faculty, and Industry,” (ranked 7/14)
-2. December 2024: First Prize, Higher Education Teaching Achievement Award of the Guangdong Computer Society, the highest-level award, for “A Computer-Discipline Talent-Development System through I<sup>3</sup> Integration and the Collaborative Development of Students, Faculty, and Industry,” (ranked 9/10)
-3. December 2024: Second Prize, Higher Education Teaching Achievement Award of the Guangdong Computer Society, for “Reform and Practice of a Tiered and Categorized University Computer Curriculum for Applied Universities under the New Engineering Education Initiative,” (ranked 3/10)
-4. June 2024: First Prize, Second University-Level Teaching Achievement Award of Shenzhen Technology University, for “A Computer-Discipline Talent-Development System through I<sup>3</sup> Integration and the Collaborative Development of Students, Faculty, and Industry,” ranked 6th among 12 contributors. (ranked 6/12)
-5. June 2024: Second Prize, Second University-Level Teaching Achievement Award of Shenzhen Technology University, for “Reform and Practice of a Tiered and Categorized University Computer Curriculum for Applied Universities under the New Engineering Education Initiative,” (ranked 3/13)
-6. December 2023: Guangdong Provincial First-Class Undergraduate Course, Fundamentals of Programming (ranked 4/6)
-7. September 2022: Outstanding International Cooperation Contributor, Shenzhen Technology University, Academic Year 2021–2022.
-8. 2022: One Second Prize and one Third Prize in the 2022 Shenzhen Technology University High-Level Paper Awards in Natural Sciences.
-9. 2021: One First Prize in the 2021 Shenzhen Technology University High-Level Paper Awards in Natural Sciences.
-10. 2021: One Shenzhen Technology University Industry-Sponsored Research Project Award.
-11. 2020: One First Prize in the 2020 Shenzhen Technology University High-Level Paper Awards in Natural Sciences.
-12. 2019: One First Prize and one Third Prize in the 2019 Shenzhen Technology University High-Level Paper Awards in Natural Sciences.
