@@ -9,6 +9,7 @@ author_profile: true
 **Yu Lu, Ph.D.**
 ======
 Associate Professor，School of Artificial Intelligence，Shenzhen Technology University
+Academic Visitor, Department of Mechanical and Mechatronics Engineering, University of Auckland, Auckland, New Zealand
 
 Office: C1-1615
 
