@@ -45,6 +45,7 @@ author_profile: true
 
 
 **国际期刊审稿人 (Journal Reviewer)**
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 - IEEE Transactions on Image Processing (IEEE TIP)
 - IEEE Transactions on Medical Imaging (IEEE TMI)
 - IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
