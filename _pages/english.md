@@ -17,7 +17,7 @@ Labs:
 - C1-902 (Graduate Students and Postdoctoral Researchers)
 - C1-405 (Undergraduate Students)
 
-Email: lvyu@sztu.edu.cn
+Email: lvyu [at] sztu [dot] edu [dot] cn
 
 Openings
 ======
