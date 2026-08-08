@@ -16,7 +16,7 @@ redirect_from:
 
 实验室：C1-902（研究生、博士后）、C1-405（本科生）
 
-Email: lvyu@sztu.edu.cn
+Email: Email: lvyu [at] sztu [dot] edu [dot] cn
 
 
 Openings
