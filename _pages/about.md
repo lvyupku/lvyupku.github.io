@@ -35,6 +35,7 @@ Introduction
 
 News
 ======
+- [08/2026] 1 paper accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
 - [06/2026] 1 paper accepted by [IROS 2026](https://2026.ieee-iros.org/)（本科生一作）
 - [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)（本科生一作）
 - [02/2026] 1 paper accepted by [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
