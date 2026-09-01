@@ -18,6 +18,7 @@ author_profile: true
 
 **期刊编委**
 - 编委， [Computers, Materials & Continua](https://www.techscience.com/cmc/editors)
+- 编委，[AGI and Applications](https://www.oaepublish.com/agia/editor)
 - 客座编委，Journal of Sensors
 - 客座编委，Sustainability
 - 客座编委， [Journal of Radiation Research and Applied Sciences](https://www.sciencedirect.com/journal/journal-of-radiation-research-and-applied-sciences/special-issue/10PSSC1VQ37)
