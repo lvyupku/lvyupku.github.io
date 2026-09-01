@@ -25,7 +25,7 @@ I have multiple openings throughout the year for Research Fellows, postdoctoral 
 
 Introduction
 ======
-I am currently an Associate Professor and Master's Supervisor at Shenzhen Technology University. I have been recognized as a Category C Talent under Shenzhen's Overseas High-Caliber Talent “Peacock Plan” and am a member of the Jiusan Society.
+I am currently an Associate Professor, PhD Supervisor and Master's Supervisor at Shenzhen Technology University. I have been recognized as a Category C Talent under Shenzhen's Overseas High-Caliber Talent “Peacock Plan” and am a member of the Jiusan Society.
 
 I have published more than 100 academic papers in international journals, including IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Aerospace and Electronic Systems, Pattern Recognition, Expert Systems with Applications, Applied Soft Computing, Neurocomputing, Knowledge-Based Systems, Artificial Intelligence in Medicine, Ocean Engineering, and Reliability Engineering & System Safety, as well as at international conferences such as AAAI, IROS, ICME, ICASSP, and BIBM.
 
