@@ -46,6 +46,7 @@ author_profile: true
 
 
 **国际期刊审稿人 (Journal Reviewer)**
+
 ***IEEE Journals***
 1. IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 2. IEEE Transactions on Image Processing (IEEE TIP)
@@ -68,6 +69,7 @@ author_profile: true
 19. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
 20. IEEE Transactions on Consumer Electronics (IEEE TCE)
 21. IEEE Access
+
 ***Other International Journals***
 1. ACM Transactions on Intelligent Systems and Technology (ACM TIST)
 2. Applied Soft Computing
