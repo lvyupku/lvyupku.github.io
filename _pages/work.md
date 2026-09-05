@@ -46,53 +46,56 @@ author_profile: true
 
 
 **国际期刊审稿人 (Journal Reviewer)**
-- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-- IEEE Transactions on Image Processing (IEEE TIP)
-- IEEE Transactions on Medical Imaging (IEEE TMI)
-- IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
-- IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)
-- IEEE Transactions on Mobile Computing (IEEE TMC)
-- IEEE Transactions on Industrial Informatics (IEEE TII)
-- IEEE Transactions on Mechatronics (IEEE TMECH)
-- IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
-- IEEE Transactions on Information Forensics & Security (IEEE TIFS)
-- IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
-- IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
-- IEEE Transactions on Systems, Man and Cybernetics: Systems (IEEE SMC)
-- IEEE Transactions on Reliability (IEEE TR)
-- IEEE Transactions on Human-Machine Systems (IEEE THMS)
-- IEEE Transactions on Consumer Electronics (IEEE TCE)
-- IEEE Transactions on Vehicular Technology (IEEE TVT)
-- IEEE Internet of Things Journal  (IEEE IoTJ)
-- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
-- IEEE Signal Processing Letters (IEEE SPL)
-- IEEE Access
-- ACM Transactions on Intelligent Systems and Technology (ACM TIST)
-- Applied Soft Computing
-- Neurocomputing
-- Artificial Intelligence In Medicine
-- Computer Methods and Programs in Biomedicine
-- Computers in Biology and Medicine
-- Biomedical Signal Processing and Control
-- Computerized Medical Imaging and Graphics
-- Future Generation Computer Systems
-- Computer Science Review
-- IET Image Processing
-- International Journal of System Sciences
-- Neural Computing and Applications
-- The Journal of Maternal-Fetal & Neonatal Medicine
-- Journal of Bone Oncology
-- Journal of Medical Imaging and Health Informatics
-- Computational and Mathematical Methods in Medicine
-- Current Bioinformatics
-- Current Medical Imaging
-- Reliability Engineering & System Safety
-- Enterprise Information Systems
-- Cluster Computing
-- Computers & Electrical Engineering
-- Computer Modeling in Engineering & Sciences
-- Journal of Sensors
-- Healthcare Analytics
+***IEEE Journals***
+1. IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
+2. IEEE Transactions on Image Processing (IEEE TIP)
+3. IEEE Transactions on Medical Imaging (IEEE TMI)
+4. IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)
+5. IEEE Transactions on Mobile Computing (IEEE TMC)
+6. IEEE Transactions on Information Forensics and Security (IEEE TIFS)
+7. IEEE Transactions on Industrial Informatics (IEEE TII)
+8. IEEE Internet of Things Journal (IEEE IoTJ)
+9. IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)
+10. IEEE Transactions on Mechatronics (IEEE TMECH)
+11. IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)
+12. IEEE Transactions on Aerospace and Electronic Systems (IEEE TAES)
+13. IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE TSMC)
+14. IEEE Transactions on Vehicular Technology (IEEE TVT)
+15. IEEE Transactions on Emerging Topics in Computational Intelligence (IEEE TETCI)
+16. IEEE Transactions on Reliability (IEEE TR)
+17. IEEE Transactions on Human-Machine Systems (IEEE THMS)
+18. IEEE Signal Processing Letters (IEEE SPL)
+19. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE JSTARS)
+20. IEEE Transactions on Consumer Electronics (IEEE TCE)
+21. IEEE Access
+***Other International Journals***
+1. ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+2. Applied Soft Computing
+3. Artificial Intelligence in Medicine
+4. Neurocomputing
+5. Computer Methods and Programs in Biomedicine
+6. Computers in Biology and Medicine
+7. Biomedical Signal Processing and Control
+8. Computerized Medical Imaging and Graphics
+9. Future Generation Computer Systems
+10. Computer Science Review
+11. Reliability Engineering & System Safety
+12. Neural Computing and Applications
+13. International Journal of Systems Science
+14. Nondestructive Testing and Evaluation
+15. IET Image Processing
+16. The Journal of Maternal-Fetal & Neonatal Medicine
+17. Journal of Bone Oncology
+18. Journal of Medical Imaging and Health Informatics
+19. Computational and Mathematical Methods in Medicine
+20. Current Bioinformatics
+21. Current Medical Imaging
+22. Enterprise Information Systems
+23. Cluster Computing
+24. Computers & Electrical Engineering
+25. Computer Modeling in Engineering & Sciences
+26. Journal of Sensors
+27. Healthcare Analytics
 
 **会议审稿人 (Conference Reviewer)**
 - 2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
