@@ -113,7 +113,7 @@ author_profile: true
         <div class="text">
             <p><strong>朱沛鸿</strong></p>
             <p>硕士研究生，计算机技术专业，2025级</p>
-            <p>实验室：C1-902</p>
+            <p>实验室：C1-602</p>
         </div>
     </div>
 
