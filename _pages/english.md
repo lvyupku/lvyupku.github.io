@@ -40,6 +40,7 @@ I have led or participated in more than ten research projects, including General
 
 News
 ======
+- [09/2026] 6 **regular** paper accepted by [BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/)（master's student as the first author×3）
 - [08/2026] 1 paper accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
 - [06/2026] 1 paper accepted by [IROS 2026](https://2026.ieee-iros.org/) (undergraduate student as the first author).
 - [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020) (undergraduate student as the first author).
@@ -48,14 +49,17 @@ News
 - [01/2026] 1 paper accepted by [ICASSP 2026](https://2026.ieeeicassp.org/) (master's student as the first author).）
 - [12/2025] 1 paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [11/2025] 1 paper accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
-- [10/2025] 1 regular paper, 2 short papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+- [11/2025] 2 workshop papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)（master's student as the first author×1）
+- [10/2025] 2 short papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)（master's student as the first author×1）
+- [10/2025] 1 **regular** paper accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 - [07/2025] 1 paper accepted by [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - [06/2025] 1 paper accepted by [IROS 2025](https://www.iros25.org/) (master's student as the first author).
 - [03/2025] 1 paper accepted by [ICME 2025](https://2025.ieeeicme.org/) (master's student as the first author).
 - [12/2024] 1 paper accepted by [ICASSP 2025](https://2025.ieeeicassp.org/) (master's student as the first author).
 - [08/2024] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-- [08/2024] 1 regular paper accepted by [BIBM 2024](https://ieeebibm.org/BIBM2024/)
+- [08/2024] 1 **regular** paper accepted by [BIBM 2024](https://ieeebibm.org/BIBM2024/)
+- [11/2023] 1 workshop paper accepted by [BIBM 2023](https://ieeebibm.org/BIBM2023/)（undergraduate student as the first author）
 - [12/2022] 1 paper accepted by [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine) (master's student as the first author).
 - [07/2021] 1 paper accepted by [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems) (undergraduate student as the first author).
   Related news coverage: “A Student Everyone Envies! Shenzhen Technology University Undergraduate Publishes Research Papers in an International Journal and at International Conferences.” The achievement was reported by [Tencent News](https://new.qq.com/rain/a/20210714A0AGOR00)，[Sina](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，Shenzhen Special Zone Daily, and other media outlets.
