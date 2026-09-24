@@ -46,7 +46,7 @@ News
 - [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020) (undergraduate student as the first author).
 - [02/2026] 1 paper accepted by [IEEE Transactions on Aerospace and Electronic Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)
 - [01/2026] 1 paper accepted by [Expert Systems With Applications](https://www.sciencedirect.com/journal/expert-systems-with-applications)
-- [01/2026] 1 paper accepted by [ICASSP 2026](https://2026.ieeeicassp.org/) (master's student as the first author).）
+- [01/2026] 1 paper accepted by [ICASSP 2026](https://2026.ieeeicassp.org/) (master's student as the first author)
 - [12/2025] 1 paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [11/2025] 1 paper accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [11/2025] 2 workshop papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)（master's student as the first author×1）
