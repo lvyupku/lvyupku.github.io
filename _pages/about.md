@@ -35,6 +35,7 @@ Introduction
 
 News
 ======
+- [09/2026] 6 regular paper accepted by [BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/)（硕士生一作×3）
 - [08/2026] 1 paper accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
 - [06/2026] 1 paper accepted by [IROS 2026](https://2026.ieee-iros.org/)（本科生一作）
 - [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)（本科生一作）
@@ -43,7 +44,9 @@ News
 - [01/2026] 1 paper accepted by [ICASSP 2026](https://2026.ieeeicassp.org/)（硕士生一作）
 - [12/2025] 1 paper accepted by [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
 - [11/2025] 1 paper accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
-- [10/2025] 1 regular paper, 2 short papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+- [11/2025] 2 workshop papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)（硕士生一作）
+- [10/2025] 2 short papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+- [10/2025] 1 regular paper accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 - [07/2025] 1 paper accepted by [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - [06/2025] 1 paper accepted by [IROS 2025](https://www.iros25.org/)（硕士生一作）
@@ -51,6 +54,7 @@ News
 - [12/2024] 1 paper accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)（硕士生一作）
 - [08/2024] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - [08/2024] 1 regular paper accepted by [BIBM 2024](https://ieeebibm.org/BIBM2024/)
+- [11/2023] 1 workshop paper accepted by [BIBM 2023](https://ieeebibm.org/BIBM2023/)
 - [12/2022] 1 paper accepted by [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
 - [07/2021] 1 paper accepted by [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)（本科生一作）
   相关报道：“别人家的学生”！深圳技术大学本科生在国际期刊与国际会议中发表科研论文，[【腾讯】](https://new.qq.com/rain/a/20210714A0AGOR00)，[【新浪】](https://cj.sina.com.cn/articles/view/1893278624/70d923a002000uuka)，【深圳特区报】等媒体进行了报道。
