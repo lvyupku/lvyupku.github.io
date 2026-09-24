@@ -35,7 +35,7 @@ Introduction
 
 News
 ======
-- [09/2026] 6 regular paper accepted by [BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/)（硕士生一作×3）
+- [09/2026] 6 **regular** paper accepted by [BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/)（硕士生一作×3）
 - [08/2026] 1 paper accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
 - [06/2026] 1 paper accepted by [IROS 2026](https://2026.ieee-iros.org/)（本科生一作）
 - [02/2026] 1 paper accepted by [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)（本科生一作）
@@ -46,14 +46,14 @@ News
 - [11/2025] 1 paper accepted by [Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)
 - [11/2025] 2 workshop papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)（硕士生一作）
 - [10/2025] 2 short papers accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
-- [10/2025] 1 regular paper accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
+- [10/2025] 1 **regular** paper accepted by [BIBM 2025](https://biod.whu.edu.cn/bibm2025/)
 - [07/2025] 1 paper accepted by [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [06/2025] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
 - [06/2025] 1 paper accepted by [IROS 2025](https://www.iros25.org/)（硕士生一作）
 - [03/2025] 1 paper accepted by [ICME 2025](https://2025.ieeeicme.org/)（硕士生一作）
 - [12/2024] 1 paper accepted by [ICASSP 2025](https://2025.ieeeicassp.org/)（硕士生一作）
 - [08/2024] 1 paper accepted by [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
-- [08/2024] 1 regular paper accepted by [BIBM 2024](https://ieeebibm.org/BIBM2024/)
+- [08/2024] 1 **regular** paper accepted by [BIBM 2024](https://ieeebibm.org/BIBM2024/)（本科生一作）
 - [11/2023] 1 workshop paper accepted by [BIBM 2023](https://ieeebibm.org/BIBM2023/)
 - [12/2022] 1 paper accepted by [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)（硕士生一作）
 - [07/2021] 1 paper accepted by [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)（本科生一作）
