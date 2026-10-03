@@ -27,6 +27,7 @@ author_profile: true
 
 
 **国际学术会议技术委员会成员 (PC Member)**
+- 26th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2027), May 3-7, 2027, Hanoi, Vietnam
 - 41st AAAI Conference on Artificial Intelligence (AAAI 2027), February 16-23, 2027, Montréal, Canada
 - 2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), December 1-4, 2026, Dallas, TX, USA
 - 23rd Pacific Rim International Conference on Artificial Intelligence (PRICAI 2026), November 17-20, 2026, Guangzhou, China
