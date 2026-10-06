@@ -15,7 +15,7 @@ redirect_from:
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">Email: lvyu [at] sztu [dot] edu [dot] cn</p>
 <nav aria-label="页内导航" style="font-size: 13px; margin: 16px 0 22px;"><a href="#openings" target="_blank" rel="noopener noreferrer">招生与招聘</a> &nbsp;·&nbsp; <a href="#introduction" target="_blank" rel="noopener noreferrer">个人简介</a> &nbsp;·&nbsp; <a href="#news" target="_blank" rel="noopener noreferrer">最新动态</a> &nbsp;·&nbsp; <a href="#publications" target="_blank" rel="noopener noreferrer">发表论文</a></nav>
 <h2 id="openings" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">Openings · 招生与招聘</h2>
-<p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">全年开放专职副研究员、博士后、联合培养博士生、硕士生、研究助理（RA）、本科生、实习生及访问学生等机会，开展医学人工智能、无人自主系统、形式化方法等方向的研究。欢迎有兴趣加入团队的同学和研究人员通过邮件联系我。</p>
+<p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">全年开放专职副研究员、博士后、博士研究生、硕士研究生、研究助理（RA）、本科生、实习生及访问学生等机会，开展医学人工智能、无人自主系统、形式化方法等方向的研究。欢迎有兴趣加入团队的同学和研究人员通过邮件联系我。</p>
 <h2 id="introduction" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">Introduction · 个人简介</h2>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">现任副教授、博士生导师、硕士生导师，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。</p>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">已在IEEE Journal of Biomedical and Health Informatics、IEEE Transactions on Aerospace and Electronic Systems、Pattern Recognition、Expert Systems With Applications、Applied Soft Computing、Neurocomputing、Knowledge-Based Systems、Artificial Intelligence in Medicine、Ocean Engineering、Reliability Engineering &amp; System Safety等国际期刊，以及AAAI、IROS、ICME、ICASSP、BIBM等国际会议上发表学术论文100余篇。</p>
