@@ -20,12 +20,12 @@ lang: en
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">I have published over 100 research papers in international journals, including IEEE Journal of Biomedical and Health Informatics, IEEE Transactions on Aerospace and Electronic Systems, Pattern Recognition, Expert Systems With Applications, Applied Soft Computing, Neurocomputing, Knowledge-Based Systems, Artificial Intelligence in Medicine, Ocean Engineering, and Reliability Engineering &amp; System Safety, as well as at international conferences such as AAAI, IROS, ICME, ICASSP, and BIBM.</p>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">I have led more than 10 research projects, including a General Program project funded by the National Natural Science Foundation of China and a key-area research project for higher education institutions in Guangdong Province. I hold two granted invention patents, with six additional patent applications pending, and have completed one technology transfer. I serve as a reviewer for journals including IEEE TPAMI, TIP, TMM, TMI, JBHI, TDSC, TIFS, TII, TMECH, TGRS, TMC, and TETCI.</p>
 <ul style="font-size: 13px; line-height: 1.7; padding-left: 22px;">
-<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2026–Present: Adademic Visitor, University of Auckland, Auckland, New Zealand</li>
-<li style="font-size: 13px; margin-bottom: 4px;">Dec. 2022–Present: Associate Professor, Shenzhen Technology University, Shenzhen, China</li>
-<li style="font-size: 13px; margin-bottom: 4px;">Sept. 2018–Nov. 2022: Assistant Professor, Shenzhen Technology University, Shenzhen, China</li>
-<li style="font-size: 13px; margin-bottom: 4px;">Mar. 2017–Aug. 2018: Scientist, Shenzhen Jumper Medical Equipment Co., Ltd., Shenzhen, China</li>
-<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2015–Mar. 2017: Postdoctoral Researcher, Cranfield University, Cranfield, UK</li>
-<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2011–Sept. 2015: PhD in Computer Science, University of Glasgow, Glasgow, UK</li>
+<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2026–Present: Adademic Visitor, University of Auckland, New Zealand</li>
+<li style="font-size: 13px; margin-bottom: 4px;">Dec. 2022–Present: Associate Professor, Shenzhen Technology University, China</li>
+<li style="font-size: 13px; margin-bottom: 4px;">Sept. 2018–Nov. 2022: Assistant Professor, Shenzhen Technology University, China</li>
+<li style="font-size: 13px; margin-bottom: 4px;">Mar. 2017–Aug. 2018: Scientist, Shenzhen Jumper Medical Equipment Co., Ltd., China</li>
+<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2015–Mar. 2017: Postdoctoral Researcher, Cranfield University, UK</li>
+<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2011–Sept. 2015: PhD in Computing Science, University of Glasgow, UK</li>
 </ul>
 <h2 id="news" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">News</h2>
 <ul style="font-size: 13px; line-height: 1.7; padding-left: 22px;">
