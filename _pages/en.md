@@ -24,7 +24,7 @@ lang: en
 <li style="font-size: 13px; margin-bottom: 4px;">Dec. 2022–Present: Associate Professor, Shenzhen Technology University, China</li>
 <li style="font-size: 13px; margin-bottom: 4px;">Sept. 2018–Nov. 2022: Assistant Professor, Shenzhen Technology University, China</li>
 <li style="font-size: 13px; margin-bottom: 4px;">Mar. 2017–Aug. 2018: Scientist, Shenzhen Jumper Medical Equipment Co., Ltd., China</li>
-<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2015–Mar. 2017: Postdoctoral Researcher, Cranfield University, UK</li>
+<li style="font-size: 13px; margin-bottom: 4px;">Oct. 2015–Mar. 2017: Research Fellow, Cranfield University, UK</li>
 <li style="font-size: 13px; margin-bottom: 4px;">Oct. 2011–Sept. 2015: PhD in Computing Science, University of Glasgow, UK</li>
 </ul>
 <h2 id="news" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">News</h2>
