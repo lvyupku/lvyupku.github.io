@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "学术论文"
-    url: /publication/
-
   - title: "项目经历"
     url: /project/
     
