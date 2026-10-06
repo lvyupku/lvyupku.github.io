@@ -1,5 +1,5 @@
 ---
-permalink: /english/
+permalink: /en/
 excerpt: "Yu Lu — Academic Homepage"
 author_profile: true
 lang: en
