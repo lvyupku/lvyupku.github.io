@@ -242,7 +242,7 @@ redirect_from:
   <div style="font-size: 13px; line-height: 1.5;">Zhanjiang Yang<sup>#</sup>, Lijun Sun<sup>#</sup>, Jiawei Dong, Xiaoxin An, Yang Liu, <strong>Yu Lu</strong>, Meng Li<sup>*</sup></div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
-  <div style="font-size: 13px; line-height: 1.5;"><strong>Collaborative End-Edge-Cloud Framework for Multi-modal Dynamic 3D Reconstruction on Edge Devices</strong>. <em>ICIC 2026</em>. <a href="https://doi.org/10.65286/icic.v22i2.29781" target="_blank" rel="noopener noreferrer">[paper]</a></div>
+  <div style="font-size: 13px; line-height: 1.5;"><strong>Collaborative End-Edge-Cloud Framework for Multi-modal Dynamic 3D Reconstruction on Edge Devices</strong>. <em>ICIC 2026 Poster Paper</em>. <a href="https://doi.org/10.65286/icic.v22i2.29781" target="_blank" rel="noopener noreferrer">[paper]</a></div>
   <div style="font-size: 13px; line-height: 1.5;">Haikang Gao, Jiawei Dong, Yuan Zhao, Zhenyu Chen, Gaolei Yi, <strong>Yu Lu</strong>, Meng Li<sup>*</sup></div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
