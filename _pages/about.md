@@ -35,6 +35,7 @@ Introduction
 
 News
 ======
+- [10/2026] 1 paper accepted by [IVCNZ 2026](https://ivcnz.github.io/)
 - [10/2026] 1 paper accepted by [Internet of Things](https://www.sciencedirect.com/journal/internet-of-things)
 - [09/2026] 6 **regular** papers accepted by [BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/)（硕士生一作×3）
 - [08/2026] 1 paper accepted by [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
