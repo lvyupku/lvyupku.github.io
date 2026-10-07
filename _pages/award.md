@@ -9,7 +9,7 @@ author_profile: true
 <h2 style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">2026</h2>
 <ol start="1" style="font-size: 13px; padding-left: 24px;">
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 12px;">
-  <div style="font-size: 13px; line-height: 1.6;">2026.09：<strong>2026年深圳技术大学润园优秀教师</strong></div>
+  <div style="font-size: 13px; line-height: 1.6;">2026.09：<strong>2025-2026学年深圳技术大学润园优秀教师</strong></div>
 </li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.6;">2026.09：<strong>2025年深圳技术大学人工智能学院科研先进个人一等奖</strong></div>
