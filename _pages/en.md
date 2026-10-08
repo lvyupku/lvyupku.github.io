@@ -63,11 +63,6 @@ lang: en
 <h3 style="font-size: 16px; line-height: 1.4; margin: 20px 0 12px;">Journal Papers</h3>
 <ol>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
-  <div style="font-size: 13px; line-height: 1.5;"><strong>A Lightweight Perception-Enhanced Spatio-Temporal Graph Convolution Network for Skeleton-Based Action Recognition</strong></div>
-  <div style="font-size: 13px; line-height: 1.5;">Zhiqin Qian<sup>*</sup>, Biao Xu, Yuchen Lin, Yijie Yu, Jianjun Yi, Zhuming Bi, Baoying Wang, Wujun Zhu, <strong>Yu Lu</strong><sup>*</sup>, Wenjun Zhang<sup>*</sup></div>
-  <div style="font-size: 13px; line-height: 1.5;"><em>Internet of Things, Accepted</em>.</div>
-</li>
-<li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>High-Fidelity ECG Synthesis from Ballistocardiography Using an Adaptive Dual-Encoder Wavelet–Temporal Fusion Network</strong></div>
   <div style="font-size: 13px; line-height: 1.5;">Muhammad Tahir Rasheed, Yantao Zeng, Hufsa Khan, Mohammad Sultan Mahmud, <strong>Yu Lu</strong>, Yan Kang, Junsong Wang<sup>*</sup></div>
   <div style="font-size: 13px; line-height: 1.5;"><em>Biomedical Signal Processing and Control, Volume 128, December 2026, 111241</em>. <a href="https://doi.org/10.1016/j.bspc.2026.111241" target="_blank" rel="noopener noreferrer">[paper]</a></div>
