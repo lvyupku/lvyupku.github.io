@@ -69,6 +69,11 @@ redirect_from:
   <div style="font-size: 13px; line-height: 1.5;"><em>Biomedical Signal Processing and Control, Volume 128, December 2026, 111241</em>. <a href="https://doi.org/10.1016/j.bspc.2026.111241" target="_blank" rel="noopener noreferrer">[paper]</a></div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
+  <div style="font-size: 13px; line-height: 1.5;"><strong>A Lightweight Perception-Enhanced Spatio-Temporal Graph Convolution Network for Skeleton-Based Action Recognition</strong></div>
+  <div style="font-size: 13px; line-height: 1.5;">Zhiqin Qian*, Biao Xu, Yuchen Lin, Yijie Yu, Jianjun Yi, Zhuming Bi, Baoying Wang, Wujun Zhu, <strong>Yu Lu*</strong>, Wenjun Zhang*</div>
+  <div style="font-size: 13px; line-height: 1.5;"><em>Internet of Things, Volume 40, November 2026, 102125</em>. <a href="https://doi.org/10.1016/j.iot.2026.102125" target="_blank" rel="noopener noreferrer">[paper]</a></div>
+</li>
+<li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Fog/Edge-Aware State Space Models for Multi-Task Chest X-ray Report Generation and Lesion Detection</strong></div>
   <div style="font-size: 13px; line-height: 1.5;">Wenbin Feng, <strong>Yu Lu</strong><sup>*</sup>, Xiaoqing Li, Kai Leung Yung, Wai Hung Ip</div>
   <div style="font-size: 13px; line-height: 1.5;"><em>IEEE Journal of Biomedical and Health Informatics, 30(9):7733-7746, September 2026</em>. <a href="https://doi.org/10.1109/JBHI.2026.3667969" target="_blank" rel="noopener noreferrer">[paper]</a></div>
