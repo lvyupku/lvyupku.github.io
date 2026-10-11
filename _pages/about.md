@@ -10,7 +10,6 @@ redirect_from:
 <div style="font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 13px; line-height: 1.7;">
 <h1 style="font-size: 22px; line-height: 1.4; margin: 0 0 12px;">吕羽 Yu Lu</h1>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">副教授，深圳技术大学，人工智能学院</p>
-<p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">国家公派访问学者，新西兰奥克兰大学</p>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">办公室：C1-1615</p>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">实验室：C1-902（研究生、博士后）、C1-405（本科生）</p>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">Email: lvyu [at] sztu [dot] edu [dot] cn</p>
