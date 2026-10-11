@@ -132,6 +132,7 @@ author_profile: true
 </ol>
 <h2 id="conference-reviewing" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">会议审稿人 (Conference Reviewer)</h2>
 <ul style="font-size: 13px; line-height: 1.6; padding-left: 24px;">
+<li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">2027 IEEE International Conference on Robotics and Automation (ICRA)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">2026 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">40th AAAI Conference on Artificial Intelligence (AAAI 2026)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">28th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)</li>
