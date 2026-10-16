@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="770" viewBox="0 0 1500 770" role="img" aria-labelledby="title desc">
+  <title id="title">LV-SAM++ simplified architecture</title>
+  <desc id="desc">Local CNN and SAM ViT features are fused by cross-branch attention and weighted by semantic prompts. PubMedBERT and HSPF support semantic guidance and Grounding DINO box prompts. The SAM decoder produces an LV mask used for EI and ACR.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#667178" /></marker>
+    <marker id="blue-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 10 5 0 10Z" fill="#28758c" /></marker>
+    </defs>
+  <rect width="1500" height="770" fill="#fff" />
+  <rect x="260" y="55" width="930" height="425" rx="14" fill="#fbfcfd" stroke="#e7eaec" stroke-width="2" />
+  <text class="label" x="285" y="90" font-family="Helvetica, Arial, sans-serif" fill="#28758c" font-size="19px">VISUAL REPRESENTATION</text>
+  <rect x="260" y="530" width="930" height="190" rx="14" fill="#f7fbfc" stroke="#d5e9ef" stroke-width="2" />
+  <text class="label" x="285" y="565" font-family="Helvetica, Arial, sans-serif" fill="#28758c" font-size="19px">SEMANTIC PROMPT LEARNING</text>
+
+  <path class="line" d="M210 315H240V175H290" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="line" d="M240 315V370H290" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="line" d="M550 175H605V285H655" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="line" d="M550 370H605V315H655" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="line" d="M890 300H965" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="line" d="M1165 300H1245" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="line" d="M1350 355V420" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="line" d="M1350 510V585" fill="none" stroke="#667178" stroke-width="2.6" />
+  <path class="semantic" d="M210 640H290" fill="none" stroke="#28758c" stroke-width="2.6" />
+  <path class="semantic" d="M550 640H655" fill="none" stroke="#28758c" stroke-width="2.6" />
+  <path class="semantic" d="M890 640H965" fill="none" stroke="#28758c" stroke-width="2.6" />
+  <path class="semantic" d="M1165 640H1210V390H1300V355" fill="none" stroke="#28758c" stroke-width="2.6" />
+  <path class="semantic" d="M550 600H590V505H1065V355" fill="none" stroke="#28758c" stroke-width="2.6" />
+  <text class="label" x="704" y="495" font-family="Helvetica, Arial, sans-serif" fill="#28758c" font-size="19px">Semantic embedding</text>
+
+  <rect class="box" x="25" y="260" width="185" height="110" rx="8" fill="#f6f8f9" stroke="#d4dce0" stroke-width="2" />
+  <text class="heading" x="117.5" y="301" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">Ultrasound</text><text class="body" x="117.5" y="336" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">256 × 256 frame</text>
+  <rect class="box" x="290" y="120" width="260" height="110" rx="8" fill="#f6f8f9" stroke="#d4dce0" stroke-width="2" />
+  <text class="heading" x="420" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">Local CNN · LFE</text><text class="body" x="420" y="195" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">Boundary details</text>
+  <rect class="box" x="290" y="315" width="260" height="110" rx="8" fill="#f6f8f9" stroke="#d4dce0" stroke-width="2" />
+  <text class="heading" x="420" y="355" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">SAM ViT + adapters</text><text class="body" x="420" y="390" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">Global context</text>
+  <rect class="box" x="655" y="245" width="235" height="110" rx="8" fill="#f6f8f9" stroke="#d4dce0" stroke-width="2" />
+  <text class="heading" x="772.5" y="286" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">Cross-branch</text><text class="heading" x="772.5" y="319" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">attention</text>
+  <rect class="accent" x="965" y="245" width="200" height="110" rx="8" fill="#f0f8fa" stroke="#52adc8" stroke-width="2" />
+  <text class="heading" x="1065" y="286" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">PaFW</text><text class="body" x="1065" y="321" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">Feature weighting</text>
+  <rect class="accent" x="1245" y="245" width="210" height="110" rx="8" fill="#f0f8fa" stroke="#52adc8" stroke-width="2" />
+  <text class="heading" x="1350" y="286" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">SAM mask</text><text class="heading" x="1350" y="319" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">decoder</text>
+  <rect class="box" x="1245" y="420" width="210" height="90" rx="8" fill="#f6f8f9" stroke="#d4dce0" stroke-width="2" />
+  <text class="heading" x="1350" y="473" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">LV cavity mask</text>
+  <rect class="accent" x="1245" y="585" width="210" height="110" rx="8" fill="#f0f8fa" stroke="#52adc8" stroke-width="2" />
+  <text class="heading" x="1350" y="626" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">EI · ACR</text><text class="body" x="1350" y="661" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">Mask-derived indices</text>
+  <rect class="box" x="25" y="585" width="185" height="110" rx="8" fill="#f6f8f9" stroke="#d4dce0" stroke-width="2" />
+  <text class="heading" x="117.5" y="626" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">Anatomical</text><text class="heading" x="117.5" y="659" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">text prompts</text>
+  <rect class="accent" x="290" y="585" width="260" height="110" rx="8" fill="#f0f8fa" stroke="#52adc8" stroke-width="2" />
+  <text class="heading" x="420" y="626" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">PubMedBERT</text><text class="body" x="420" y="661" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">+ HSPF fusion</text>
+  <rect class="accent" x="655" y="585" width="235" height="110" rx="8" fill="#f0f8fa" stroke="#52adc8" stroke-width="2" />
+  <text class="heading" x="772.5" y="626" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">Grounding DINO</text><text class="body" x="772.5" y="661" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">Automatic box</text>
+  <rect class="accent" x="965" y="585" width="200" height="110" rx="8" fill="#f0f8fa" stroke="#52adc8" stroke-width="2" />
+  <text class="heading" x="1065" y="626" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">SAM prompt</text><text class="heading" x="1065" y="659" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" fill="#363c40" font-size="25px" font-weight="700">encoder</text>
+  <text class="body" x="27" y="745" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">Gray arrows: visual features and predictions</text><text class="body" x="655" y="745" font-family="Helvetica, Arial, sans-serif" fill="#667178" font-size="21px">Blue arrows: semantic guidance and prompts</text>
+<polygon points="290,175 279,169 279,181" fill="#667178" /><polygon points="290,370 279,364 279,376" fill="#667178" /><polygon points="655,285 644,279 644,291" fill="#667178" /><polygon points="655,315 644,309 644,321" fill="#667178" /><polygon points="965,300 954,294 954,306" fill="#667178" /><polygon points="1245,300 1234,294 1234,306" fill="#667178" /><polygon points="1350,420 1344,409 1356,409" fill="#667178" /><polygon points="1350,585 1344,574 1356,574" fill="#667178" /><polygon points="290,640 279,634 279,646" fill="#28758c" /><polygon points="655,640 644,634 644,646" fill="#28758c" /><polygon points="965,640 954,634 954,646" fill="#28758c" /><polygon points="1300,355 1294,366 1306,366" fill="#28758c" /><polygon points="1065,355 1059,366 1071,366" fill="#28758c" /></svg>
