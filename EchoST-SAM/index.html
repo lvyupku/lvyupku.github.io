@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>EchoST-SAM | IVCNZ 2026 | Yu Lu</title>
+  <meta name="description" content="EchoST-SAM combines anatomical prompts, global–local SAM features, and temporal memory for interaction-free left-ventricular segmentation in echocardiography. IVCNZ 2026.">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="canonical" href="https://lvyupku.github.io/EchoST-SAM/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="EchoST-SAM — IVCNZ 2026">
+  <meta property="og:description" content="Semantic-prompted spatiotemporal LV segmentation for functional analysis in echocardiography.">
+  <meta property="og:url" content="https://lvyupku.github.io/EchoST-SAM/">
+  <meta property="og:image" content="https://lvyupku.github.io/EchoST-SAM/assets/sequence.webp">
+  <meta property="og:image:width" content="1438">
+  <meta property="og:image:height" content="621">
+  <meta property="og:image:alt" content="LV predictions from the spatial and temporal EchoST-SAM models over five consecutive ultrasound frames.">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="citation_title" content="EchoST-SAM: Semantic-Prompted Spatiotemporal LV Segmentation for Functional Analysis in Echocardiography">
+  <meta name="citation_author" content="Yu Lu">
+  <meta name="citation_author" content="Xiaokang Deng">
+  <meta name="citation_author" content="Wei Zhang">
+  <meta name="citation_author" content="Bingding Huang">
+  <meta name="citation_publication_date" content="2026">
+  <meta name="citation_conference_title" content="International Conference on Image and Vision Computing New Zealand (IVCNZ)">
+  <meta name="citation_pdf_url" content="https://lvyupku.github.io/EchoST-SAM/assets/EchoST-SAM-paper.pdf">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/main.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="masthead">
+    <nav class="masthead-inner" aria-label="Main navigation">
+      <a class="site-name" href="/">吕羽 <span lang="en">Yu Lu</span></a>
+      <div class="site-links">
+        <a href="/">Home</a>
+        <a href="/#publications">Publications</a>
+        <a href="/project/">Projects</a>
+        <a href="/en/">English profile</a>
+      </div>
+    </nav>
+  </header>
+
+  <div class="page-shell">
+    <aside class="project-nav" aria-label="On this page">
+      <a class="project-nav-title" href="#top">EchoST-SAM</a>
+      <p class="nav-label">IVCNZ 2026</p>
+      <nav>
+        <a href="#overview" aria-current="location">Overview</a>
+        <a href="#method">Method</a>
+        <a href="#results">Results</a>
+        <a href="#geometry">Geometric readouts</a>
+        <a href="#resources">Resources</a>
+        <a href="#citation">Citation</a>
+      </nav>
+      <a class="back-home" href="/">← Yu Lu’s homepage</a>
+    </aside>
+
+    <main id="main">
+      <section class="hero" id="top" aria-labelledby="paper-title">
+        <p class="venue">IVCNZ 2026</p>
+        <h1 id="paper-title"><span class="project-name">EchoST-SAM<span class="visually-hidden">:</span></span><span class="paper-subtitle">Semantic-Prompted Spatiotemporal LV Segmentation for Functional Analysis in Echocardiography</span></h1>
+        <p class="authors"><span><a href="/en/">Yu Lu</a><sup>1,2,*</sup></span><span>Xiaokang Deng<sup>1,3</sup></span><span>Wei Zhang<sup>1</sup></span><span>Bingding Huang<sup>1</sup></span></p>
+        <div class="affiliations">
+          <p><sup>1</sup> School of Artificial Intelligence, Shenzhen Technology University</p>
+          <p><sup>2</sup> Department of Mechanical and Mechatronics Engineering, University of Auckland</p>
+          <p><sup>3</sup> School of Applied Technology, Shenzhen University</p>
+        </div>
+        <p class="correspondence"><sup>*</sup> Corresponding author: <a href="mailto:lvyu@sztu.edu.cn">lvyu@sztu.edu.cn</a></p>
+        <div class="resource-buttons" aria-label="Paper resources">
+          <a class="button button-primary" href="assets/EchoST-SAM-paper.pdf"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h8l4 4v14H6zM14 3v5h4M9 12h6M9 16h6"/></svg>Paper <span class="file-type">PDF</span></a>
+          <a class="button" href="assets/EchoST-SAM-slides.pdf"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h18v13H3zM12 17v4M8 21h8M7 13l3-3 3 2 4-5"/></svg>Slides <span class="file-type">PDF</span></a>
+          <a class="button" href="#citation"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 4H6v6l-3 2 3 2v6h3M15 4h3v6l3 2-3 2v6h-3"/></svg>BibTeX</a>
+          <a class="button" href="https://www.creatis.insa-lyon.fr/Challenge/camus/"><svg viewBox="0 0 24 24" aria-hidden="true"><ellipse cx="12" cy="5" rx="8" ry="3"/><path d="M4 5v14c0 4 16 4 16 0V5M4 12c0 4 16 4 16 0"/></svg>CAMUS dataset</a>
+        </div>
+        <p class="hero-takeaway">From independent frames to temporally coherent LV contours.</p>
+        <p class="hero-summary">Anatomical prompts, global–local features, and temporal memory bring SAM to full-cycle echocardiographic segmentation.</p>
+        <figure class="teaser">
+          <a class="figure-link" href="assets/sequence.webp" data-zoom aria-label="Enlarge the five-frame segmentation comparison">
+            <img src="assets/sequence.webp" width="1438" height="621" alt="Five consecutive echocardiography frames. The top row shows the spatial variant, the bottom row EchoST-SAM with temporal propagation. Cyan indicates predicted LV regions; the third-frame regions are magnified at right." fetchpriority="high" decoding="async">
+            <span class="zoom-hint" aria-hidden="true">View larger ↗</span>
+          </a>
+          <figcaption>Five consecutive frames from the paper. <strong>Top:</strong> spatial variant. <strong>Bottom:</strong> EchoST-SAM. Cyan marks the predicted LV region; yellow boxes identify the magnified region. This qualitative example does not show ground-truth masks.</figcaption>
+        </figure>
+        <dl class="headline-metrics" aria-label="Key results on CAMUS A2C">
+          <div><dt>Segmentation Dice</dt><dd>93.90<span>%</span></dd><dd class="metric-note">CAMUS A2C</dd></div>
+          <div><dt>Temporal consistency</dt><dd>0.956</dd><dd class="metric-note">+0.035 vs. spatial variant</dd></div>
+          <div><dt>Cavity-area change error</dt><dd>−9.9<span>%</span></dd><dd class="metric-note">Relative ACR MAE reduction vs. spatial</dd></div>
+        </dl>
+      </section>
+
+      <section class="paper-section" id="overview" aria-labelledby="overview-title">
+        <h2 id="overview-title">Overview</h2>
+        <p class="section-lead">A good contour in one frame is only part of the story.</p>
+        <p>Speckle noise, weak endocardial boundaries, and signal dropout make left-ventricular (LV) segmentation difficult. Processing each frame independently can introduce contour jitter across a cardiac cycle, affecting measurements derived from time-varying geometry.</p>
+        <p>EchoST-SAM is an interaction-free framework that combines an adapted SAM encoder with local ultrasound features, fixed anatomical text prompts, automatic box generation, and ConvLSTM temporal propagation. It predicts LV masks across consecutive frames and derives two transparent geometric readouts: ellipse eccentricity (EI) and fractional cavity-area change (ACR).</p>
+        <div class="finding">
+          <p><strong>The main finding.</strong> On CAMUS A2C, temporal propagation improves the reported temporal consistency and lowers EI/ACR measurement errors, with a small frame-level overlap trade-off: Dice changes from <strong>93.97% to 93.90%</strong>.</p>
+        </div>
+        <details class="paper-details">
+          <summary>Why temporal consistency matters</summary>
+          <figure>
+            <a class="figure-link" href="assets/motivation.webp" data-zoom aria-label="Enlarge the motivation illustration"><img src="assets/motivation.webp" width="1252" height="790" loading="lazy" decoding="async" alt="Conceptual illustration of contour jitter and geometric trajectories across an end-diastolic, end-systolic, and end-diastolic cardiac cycle."><span class="zoom-hint" aria-hidden="true">View larger ↗</span></a>
+            <figcaption>Motivation figure from the paper. The trajectories are conceptual illustrations, not measured experimental curves.</figcaption>
+          </figure>
+        </details>
+      </section>
+
+      <section class="paper-section" id="method" aria-labelledby="method-title">
+        <h2 id="method-title">Method</h2>
+        <p class="section-lead">Anatomical guidance meets spatial detail and temporal memory.</p>
+        <figure>
+          <a class="figure-link" href="assets/framework.webp" data-zoom aria-label="Enlarge the EchoST-SAM architecture diagram"><img src="assets/framework.webp" width="2700" height="1650" loading="lazy" decoding="async" alt="EchoST-SAM architecture. PubMedBERT encodes three anatomical phrases. A global SAM ViT branch and local feature-enhancement branch are fused and weighted by the semantic prior. Grounding DINO supplies automatic boxes. ConvLSTM propagates features over five frames before the adapted SAM decoder predicts LV masks."><span class="zoom-hint" aria-hidden="true">View larger ↗</span></a>
+          <figcaption>EchoST-SAM framework. The semantic prior is shared across frames; automatic box prompts are frame-specific. ConvLSTM propagates the fused features over five consecutive frames.</figcaption>
+        </figure>
+        <ol class="method-steps">
+          <li><span class="step-number">01</span><h3>Guide with anatomy</h3><p>Frozen PubMedBERT encodes “heart”, “left ventricle cavity”, and “endocardial border”. HSPF mean-pools and projects these embeddings into a shared semantic prior. Grounding DINO generates an automatic box for each frame.</p></li>
+          <li><span class="step-number">02</span><h3>Combine global and local</h3><p>A frozen SAM ViT with trainable adapters captures global context. The local feature-enhancement branch captures ultrasound boundary detail. Cross-branch attention and prompt-aware feature weighting fuse the two.</p></li>
+          <li><span class="step-number">03</span><h3>Propagate through time</h3><p>ConvLSTM processes five-frame clips in chronological order. The adapted SAM decoder combines temporal features and box embeddings to predict LV masks, from which EI and ACR are computed.</p></li>
+        </ol>
+        <details class="paper-details">
+          <summary>Training and implementation details</summary>
+          <div class="detail-body">
+            <p><strong>Input:</strong> 256 × 256 A2C frames; five-frame clips. Recurrent hidden and memory states are reset for each clip.</p>
+            <p><strong>Frozen:</strong> SAM ViT, PubMedBERT, Grounding DINO, and the SAM prompt encoder. <strong>Trainable:</strong> adapters, LFE, HSPF, PaFW, ConvLSTM, and the mask decoder.</p>
+            <p><strong>Optimization:</strong> binary cross-entropy + Dice loss + 0.1 × PaFW entropy. Adam, initial learning rate 0.01, weight decay 10<sup>−4</sup>, batch size 16, 200 epochs; learning rate multiplied by 0.1 every 50 epochs. Training uses an NVIDIA RTX 4090.</p>
+          </div>
+        </details>
+      </section>
+
+      <section class="paper-section" id="results" aria-labelledby="results-title">
+        <h2 id="results-title">Results on CAMUS A2C</h2>
+        <p>We evaluate 500 patients using a study-specific, patient-disjoint <strong>400 / 50 / 50</strong> train / validation / test split. Official end-diastolic (ED) and end-systolic (ES) masks are supplemented with quality-checked, clinician-provided intermediate-frame LV annotations. All compared methods use the same data, resolution, and split.</p>
+        <div class="table-wrap" tabindex="0" role="region" aria-label="Main results table; scroll horizontally on small screens">
+          <table class="results-table">
+            <caption>Segmentation accuracy and mask-derived geometric errors</caption>
+            <thead><tr><th scope="col">Method</th><th scope="col">Dice (%) ↑</th><th scope="col">HD (px) ↓</th><th scope="col">EI MAE ↓</th><th scope="col">ACR MAE ↓</th></tr></thead>
+            <tbody>
+              <tr><th scope="row">U-Net</th><td>93.56</td><td>9.90</td><td>0.0167</td><td>0.082</td></tr>
+              <tr><th scope="row">Swin-Unet</th><td>91.88</td><td>13.11</td><td>0.0192</td><td>0.087</td></tr>
+              <tr><th scope="row">MISSFormer</th><td>93.25</td><td>9.94</td><td>0.0163</td><td>0.084</td></tr>
+              <tr><th scope="row">TransUNet</th><td>93.60</td><td>9.60</td><td>0.0155</td><td>0.080</td></tr>
+              <tr><th scope="row">AAU-Net</th><td>93.59</td><td>9.13</td><td>0.0160</td><td>0.078</td></tr>
+              <tr><th scope="row">H2Former</th><td>93.44</td><td>9.60</td><td>0.0153</td><td>0.077</td></tr>
+              <tr><th scope="row">MedSAM</th><td>87.52</td><td>15.28</td><td>0.0239</td><td>0.091</td></tr>
+              <tr><th scope="row">SAMed</th><td>87.67</td><td>13.24</td><td>0.0242</td><td>0.094</td></tr>
+              <tr><th scope="row">SAMUS</th><td>91.13</td><td>11.76</td><td>0.0172</td><td>0.079</td></tr>
+              <tr><th scope="row">CC-SAM</th><td>92.85</td><td>10.88</td><td>0.0150</td><td>0.074</td></tr>
+              <tr class="spatial-row"><th scope="row">EchoST-SAM <span class="row-variant">(spatial)</span></th><td><strong>93.97</strong></td><td><strong>9.05</strong></td><td>0.0142</td><td>0.071</td></tr>
+              <tr class="ours-row"><th scope="row">EchoST-SAM</th><td>93.90</td><td>9.11</td><td><strong>0.0131</strong></td><td><strong>0.064</strong></td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="table-note">↑ Higher is better. ↓ Lower is better. Bold denotes the best reported value in each column. HD is the symmetric maximum Hausdorff distance in pixels, not HD95. MAE: mean absolute error.</p>
+        <div class="temporal-result">
+          <h3>What does temporal propagation change?</h3>
+          <p class="comparison-label">Full model vs. its frame-wise spatial variant</p>
+          <dl class="delta-list">
+            <div><dt>Temporal consistency</dt><dd>0.921 <span>→</span> <strong>0.956</strong></dd></div>
+            <div><dt>EI error</dt><dd>0.0142 <span>→</span> <strong>0.0131</strong></dd></div>
+            <div><dt>ACR error</dt><dd>0.071 <span>→</span> <strong>0.064</strong></dd></div>
+            <div><dt>Frame-level Dice</dt><dd>93.97% <span>→</span> <strong>93.90%</strong></dd></div>
+          </dl>
+          <p class="table-note">Temporal consistency (TC) averages adjacent predicted-mask Dice. It measures smoothness and may also reward over-smoothing; it does not directly measure fidelity to cardiac motion.</p>
+        </div>
+        <details class="paper-details">
+          <summary>Temporal window ablation</summary>
+          <div class="detail-body">
+            <p>Five frames provide the default validation-selected setting. Extending the window to seven adds only 0.001 TC while further lowering Dice and increasing HD.</p>
+            <div class="table-wrap" tabindex="0" role="region" aria-label="Temporal window ablation table">
+              <table><thead><tr><th scope="col">Window length</th><th scope="col">Dice (%) ↑</th><th scope="col">HD (px) ↓</th><th scope="col">TC ↑</th></tr></thead><tbody>
+                <tr><th scope="row">1 frame (spatial)</th><td>93.97</td><td>9.05</td><td>0.921</td></tr>
+                <tr><th scope="row">3 frames</th><td>93.84</td><td>9.28</td><td>0.944</td></tr>
+                <tr class="ours-row"><th scope="row">5 frames (default)</th><td>93.90</td><td>9.11</td><td>0.956</td></tr>
+                <tr><th scope="row">7 frames</th><td>93.76</td><td>9.33</td><td>0.957</td></tr>
+              </tbody></table>
+            </div>
+          </div>
+        </details>
+      </section>
+
+      <section class="paper-section" id="geometry" aria-labelledby="geometry-title">
+        <h2 id="geometry-title">From masks to geometric readouts</h2>
+        <div class="readout-grid">
+          <div><h3>Ellipse eccentricity · EI</h3><p>Describes the fitted cavity shape using its major and minor axes.</p><p class="formula" aria-label="EI equals the square root of one minus the squared ratio of the minor to major axis">EI = √(1 − (L<sub>min</sub> / L<sub>max</sub>)<sup>2</sup>)</p></div>
+          <div><h3>Fractional cavity-area change · ACR</h3><p>Describes the relative change in A2C cavity area between ED and ES.</p><p class="formula">ACR = (A<sub>ED</sub> − A<sub>ES</sub>) / A<sub>ED</sub></p></div>
+        </div>
+        <figure class="agreement-figure">
+          <a class="figure-link" href="assets/agreement.webp" data-zoom aria-label="Enlarge the correlation and Bland–Altman plots"><img src="assets/agreement.webp" width="1668" height="1205" loading="lazy" decoding="async" alt="Correlation and Bland–Altman plots comparing mask-derived EI and ACR with reference values for the spatial variant and full EchoST-SAM model."><span class="zoom-hint" aria-hidden="true">View larger ↗</span></a>
+          <figcaption>Correlation and Bland–Altman analyses from the paper. Pearson correlation increases from 0.924 to 0.937 for EI and from 0.931 to 0.945 for ACR. Correlation and measurement agreement answer different questions.</figcaption>
+        </figure>
+        <div class="scope-note">
+          <h3>Scope of the evidence</h3>
+          <p>Geometric measurements use <strong>reference ED/ES frame indices</strong> to isolate segmentation-derived errors. ACR is a two-dimensional area-change surrogate, not biplane left-ventricular ejection fraction. The results are single-run and descriptive; automatic phase selection, comparison with temporal baselines, uncertainty assessment, and external validation remain future work.</p>
+        </div>
+      </section>
+
+      <section class="paper-section" id="resources" aria-labelledby="resources-title">
+        <h2 id="resources-title">Resources</h2>
+        <div class="resource-list">
+          <a href="assets/EchoST-SAM-paper.pdf"><span><strong>Paper</strong><span>Camera-ready manuscript · IVCNZ 2026</span></span><span aria-hidden="true">PDF ↗</span></a>
+          <a href="assets/EchoST-SAM-slides.pdf"><span><strong>Presentation slides</strong><span>English · 13-minute talk · 17 main slides + backup</span></span><span aria-hidden="true">PDF ↗</span></a>
+          <a href="https://www.creatis.insa-lyon.fr/Challenge/camus/"><span><strong>CAMUS</strong><span>Original dataset website; the additional intermediate-frame annotations are study-specific</span></span><span aria-hidden="true">Website ↗</span></a>
+        </div>
+      </section>
+
+      <section class="paper-section" id="citation" aria-labelledby="citation-title">
+        <h2 id="citation-title">Citation</h2>
+        <div class="citation-toolbar"><p>BibTeX</p><div><a href="assets/echostsam.bib" download>Download .bib</a><button class="copy-button" id="copy-citation" type="button" hidden>Copy</button></div></div>
+        <pre class="citation-code" tabindex="0"><code id="bibtex">@inproceedings{lu2026echostsam,
+  title     = {{EchoST-SAM}: Semantic-Prompted Spatiotemporal
+               {LV} Segmentation for Functional Analysis
+               in Echocardiography},
+  author    = {Lu, Yu and Deng, Xiaokang and Zhang, Wei
+               and Huang, Bingding},
+  booktitle = {International Conference on Image and Vision
+               Computing New Zealand (IVCNZ)},
+  year      = {2026},
+  url       = {https://lvyupku.github.io/EchoST-SAM/}
+}</code></pre>
+        <p class="copy-status" id="copy-status" role="status" aria-live="polite"></p>
+        <p class="table-note">Accepted at IVCNZ 2026. Proceedings page numbers and DOI will be added when available.</p>
+        <details class="paper-details acknowledgments"><summary>Acknowledgments</summary><div class="detail-body"><p>This research was supported by the National Natural Science Foundation of China (62576222, 62266039), the Department of Education of Guangdong Province (2023ZDZX2055), the Shenzhen Medical Research Fund (D250402003), and the Shenzhen Science and Technology Program (KJZD20240903095605007, JCYJ20250604145033042). Additional support was provided in part by the China Scholarship Council.</p></div></details>
+      </section>
+    </main>
+  </div>
+
+  <footer class="site-footer"><div><a href="/">吕羽 Yu Lu</a><span>EchoST-SAM · IVCNZ 2026</span><a href="mailto:lvyu@sztu.edu.cn">Contact</a><a href="#top">Back to top ↑</a></div></footer>
+
+  <dialog id="figure-dialog" aria-labelledby="figure-dialog-title">
+    <div class="dialog-toolbar"><h2 id="figure-dialog-title">Figure detail</h2><button id="close-figure" type="button" autofocus>Close <span aria-hidden="true">×</span></button></div>
+    <div class="dialog-image-wrap"><img id="dialog-image" alt=""></div>
+    <p id="dialog-caption"></p>
+  </dialog>
+</body>
+</html>
