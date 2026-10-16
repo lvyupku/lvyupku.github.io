@@ -199,7 +199,7 @@ lang: en
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Frequency-Aware Conditional Diffusion for Non-Invasive Fetal ECG Extraction from Abdominal ECG</strong>. <em>BIBM 2026 Regular Paper</em>.</div>
-  <div style="font-size: 13px; line-height: 1.5;"><strong>Yu Lu</strong><sup>*</sup>, Yating Hu, Wei Zhang, Junsong Wang, Bingding Huang</div>
+  <div style="font-size: 13px; line-height: 1.5;"><strong>Yu Lu</strong><sup>*</sup>, Yating Hu, Wei Zhang<sup>*</sup>, Junsong Wang, Bingding Huang</div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Harmonizing Local Textures and Global Topology for Fundus Super-Resolution</strong>. <em>BIBM 2026 Regular Paper</em>.</div>
