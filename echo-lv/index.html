@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI for Left Ventricular Analysis in Echocardiography | Yu Lu</title>
+  <meta name="description" content="A research series on left ventricular segmentation, anatomical landmark detection, and functional assessment in echocardiography: SSP-MAEFNet, LV-SAM++, and EchoST-SAM.">
+  <meta name="theme-color" content="#ffffff">
+  <link rel="canonical" href="https://lvyupku.github.io/echo-lv/">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="AI for Left Ventricular Analysis in Echocardiography">
+  <meta property="og:description" content="SSP-MAEFNet · LV-SAM++ · EchoST-SAM — three studies on learning from cardiac ultrasound, anatomical guidance, and temporal consistency.">
+  <meta property="og:url" content="https://lvyupku.github.io/echo-lv/">
+  <meta property="og:image" content="https://lvyupku.github.io/LV-SAM++/assets/workflow.webp">
+  <meta property="og:image:width" content="915">
+  <meta property="og:image:height" content="296">
+  <meta property="og:image:alt" content="Ultrasound input, left ventricular cavity segmentation, and geometric measurements.">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/research-family.css">
+  <link rel="stylesheet" href="assets/hub.css">
+  <script src="assets/main.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="masthead"><nav class="masthead-inner" aria-label="Main navigation">
+    <a class="site-name" href="https://lvyupku.github.io/">吕羽 <span lang="en">Yu Lu</span></a>
+    <div class="site-links"><a href="https://lvyupku.github.io/">Home</a><a href="https://lvyupku.github.io/#publications">Publications</a><a href="https://lvyupku.github.io/project/">Projects</a><a href="https://lvyupku.github.io/en/">English profile</a></div>
+  </nav></header>
+  
+  <nav class="research-family" aria-label="Echocardiography research series"><div class="research-family-inner"><a href="../echo-lv/" aria-current="page">Research overview</a><a href="../SSP-MAEFNet/">SSP-MAEFNet</a><a href="../LV-SAM++/">LV-SAM++</a><a href="../EchoST-SAM/">EchoST-SAM</a></div></nav>
+
+  <div class="page-shell">
+    <aside class="project-nav" aria-label="On this page">
+      <a class="project-nav-title" href="#top">Echocardiography AI</a><p class="nav-label">RESEARCH SERIES · 2025–2026</p>
+      <nav><a href="#overview" aria-current="location">Overview</a><a href="#research-directions">Research directions</a><a href="#publications">Publications</a><a href="#evaluation">Evaluation scope</a><a href="#resources">Resources</a><a href="#citation">Citations</a><a href="#contact">Contact</a></nav>
+      <a class="back-home" href="https://lvyupku.github.io/">← Yu Lu’s homepage</a>
+    </aside>
+    <main id="main">
+      <section class="hero hub-hero" id="top" aria-labelledby="series-title">
+        <p class="venue">ECHOCARDIOGRAPHY · RESEARCH SERIES</p>
+        <h1 id="series-title">AI for Left Ventricular Analysis <span>in Echocardiography</span></h1>
+        <p class="series-subtitle">Segmentation, Anatomical Landmark Detection, and Functional Assessment</p>
+        <p class="series-chinese" lang="zh-CN">超声心动图左心室智能分析</p>
+        <p class="series-byline"><a href="https://lvyupku.github.io/en/">Yu Lu</a> and collaborators · Shenzhen Technology University</p>
+        <div class="resource-buttons"><a class="button button-primary" href="#publications">Explore the three studies ↓</a><a class="button" href="#resources">Papers &amp; presentation materials</a></div>
+        <div class="hub-teaser"><figure><a class="figure-link" href="../LV-SAM++/assets/workflow.webp" data-zoom aria-label="Enlarge figure: Echocardiographic input, segmented left ventricular cavity, and fitted ellipse axes."><img src="../LV-SAM++/assets/workflow.webp" width="915" height="296" fetchpriority="high" decoding="async" alt="Echocardiographic input, segmented left ventricular cavity, and fitted ellipse axes."><span class="zoom-hint" aria-hidden="true">View original figure ↗</span></a><figcaption>From ultrasound images to quantitative measurements. Example reproduced from the <a href="../LV-SAM++/#poster">LV-SAM++ conference poster</a>.</figcaption></figure></div>
+      </section>
+      <section class="paper-section" id="overview" aria-labelledby="overview-title">
+        <h2 id="overview-title">One research theme, three complementary studies</h2>
+        <p class="section-lead">Connecting cardiac ultrasound images with measurements of the left ventricle.</p>
+        <p>Left ventricular (LV) analysis in echocardiography depends on accurate cavity boundaries, anatomical landmarks, and consistent measurements over the cardiac cycle. Sparse annotations, ambiguous boundaries, and variation between frames make these tasks challenging.</p>
+        <p>This research series brings together three approaches: self-supervised multi-task learning in <a href="#ssp-maefnet">SSP-MAEFNet</a>, anatomical semantic guidance in <a href="#lv-sam-plus-plus">LV-SAM++</a>, and spatiotemporal modeling in <a href="#echost-sam">EchoST-SAM</a>. Each study has its own task setting, experiments, and publication page.</p>
+      </section>
+      <section class="paper-section" id="research-directions" aria-labelledby="directions-title">
+        <h2 id="directions-title">Research directions</h2>
+        <ul class="direction-list">
+          <li><p class="direction-label">Learning from limited labels</p><h3>Annotation efficiency</h3><p>Use reconstruction pretraining and shared representations to learn LV segmentation and landmark detection from sparsely annotated videos.</p><a href="#ssp-maefnet">SSP-MAEFNet ↗</a></li>
+          <li><p class="direction-label">Bringing anatomy into SAM</p><h3>Anatomical guidance</h3><p>Combine medical semantic prompts, global image context, and local boundary detail to adapt a foundation model to cardiac ultrasound.</p><a href="#lv-sam-plus-plus">LV-SAM++ ↗</a></li>
+          <li><p class="direction-label">Using the cardiac sequence</p><h3>Temporal consistency</h3><p>Model consecutive frames to improve the consistency of LV masks and the geometric readouts derived across a cardiac cycle.</p><a href="#echost-sam">EchoST-SAM ↗</a></li>
+        </ul>
+      </section>
+      <section class="paper-section" id="publications" aria-labelledby="publications-title">
+        <h2 id="publications-title">Publications</h2>
+        <p class="section-intro">Browse the studies in publication order. Each project page includes the original model figure, detailed results, presentation materials, and citation.</p>
+        <article class="study" id="ssp-maefnet" aria-labelledby="ssp-maefnet-title">
+          <div class="study-heading"><h3 id="ssp-maefnet-title"><a href="../SSP-MAEFNet/">SSP-MAEFNet</a></h3><span class="study-venue">ICME 2025</span></div>
+          <p class="study-theme">Self-supervised multi-task learning</p>
+          <div class="study-body"><div class="study-figure"><figure><a class="figure-link" href="../SSP-MAEFNet/assets/framework-original.png" data-zoom aria-label="Enlarge figure: Original SSP-MAEFNet model figure: self-supervised reconstruction pretraining and task-specific branches for LV segmentation and landmark detection."><img src="../SSP-MAEFNet/assets/framework-original.png" width="1555" height="914" loading="lazy" decoding="async" alt="Original SSP-MAEFNet model figure: self-supervised reconstruction pretraining and task-specific branches for LV segmentation and landmark detection."><span class="zoom-hint" aria-hidden="true">View original figure ↗</span></a><figcaption>Original model diagram from the SSP-MAEFNet paper. Select to enlarge.</figcaption></figure></div><div class="study-copy">
+            <h4>Multi-Task Self-Supervised Learning for Automated Measurement of Left Ventricular Ejection Fraction in Echocardiography</h4><p class="study-authors">Zhanpeng Xu, Yu Lu, Wei Zhang, Xiaoqing Li, Shijie Shi, Xianghua Fu</p><p>Learn from sparsely annotated echocardiographic videos. Masked reconstruction pretraining and a lightweight dual-task network jointly predict the LV cavity and anatomical landmarks, supporting volume and ejection fraction estimation.</p><p class="study-focus">LV segmentation · Apex and mitral-annulus landmarks · LVEF estimation</p>
+          </div></div>
+          <div class="study-links" aria-label="SSP-MAEFNet resources"><a class="button button-primary" href="../SSP-MAEFNet/">Project page ↗</a><a class="button" href="../SSP-MAEFNet/assets/SSP-MAEFNet-paper.pdf">Paper <span class="file-type">PDF</span></a><a class="button" href="../SSP-MAEFNet/assets/SSP-MAEFNet-slides.pdf">Slides <span class="file-type">PDF</span></a><a class="button" href="../SSP-MAEFNet/assets/SSP-MAEFNet-poster.pdf">Poster <span class="file-type">PDF</span></a><a class="button" href="../SSP-MAEFNet/#citation">BibTeX</a></div>
+        </article><article class="study" id="lv-sam-plus-plus" aria-labelledby="lv-sam-plus-plus-title">
+          <div class="study-heading"><h3 id="lv-sam-plus-plus-title"><a href="../LV-SAM++/">LV-SAM++</a></h3><span class="study-venue">ICASSP 2026</span></div>
+          <p class="study-theme">Anatomical semantic guidance</p>
+          <div class="study-body"><div class="study-figure"><figure><a class="figure-link" href="../LV-SAM++/assets/framework-original.webp" data-zoom aria-label="Enlarge figure: Original LV-SAM++ model figure: local feature enhancement, SAM ViT, semantic prompt learning, and functional analysis."><img src="../LV-SAM++/assets/framework-original.webp" width="3000" height="1903" loading="lazy" decoding="async" alt="Original LV-SAM++ model figure: local feature enhancement, SAM ViT, semantic prompt learning, and functional analysis."><span class="zoom-hint" aria-hidden="true">View original figure ↗</span></a><figcaption>Original model diagram from the LV-SAM++ paper. Select to enlarge.</figcaption></figure></div><div class="study-copy">
+            <h4>LLM-Guided SAM for Left Ventricle Segmentation and Functional Analysis in Echocardiography</h4><p class="study-authors">Xiaokang Deng, Yu Lu, Wei Zhang, Xianghua Fu</p><p>Adapt SAM to cardiac ultrasound with anatomical semantic prompts, automatic box prompts, and local feature enhancement. The predicted LV masks support analysis of cavity shape and area change.</p><p class="study-focus">LV segmentation · Eccentricity index (EI) · Area change ratio (ACR)</p>
+          </div></div>
+          <div class="study-links" aria-label="LV-SAM++ resources"><a class="button button-primary" href="../LV-SAM++/">Project page ↗</a><a class="button" href="../LV-SAM++/assets/LV-SAM-plus-plus-paper.pdf">Paper <span class="file-type">PDF</span></a><a class="button" href="../LV-SAM++/assets/LV-SAM-plus-plus-poster.pdf">Poster <span class="file-type">PDF</span></a><a class="button" href="../LV-SAM++/#citation">BibTeX</a></div>
+        </article><article class="study" id="echost-sam" aria-labelledby="echost-sam-title">
+          <div class="study-heading"><h3 id="echost-sam-title"><a href="../EchoST-SAM/">EchoST-SAM</a></h3><span class="study-venue">IVCNZ 2026</span></div>
+          <p class="study-theme">Spatiotemporal modeling</p>
+          <div class="study-body"><div class="study-figure"><figure><a class="figure-link" href="../EchoST-SAM/assets/framework.webp" data-zoom aria-label="Enlarge figure: Original EchoST-SAM framework: semantic prompts, adapted SAM and local features, ConvLSTM temporal propagation, and LV geometric readouts."><img src="../EchoST-SAM/assets/framework.webp" width="2700" height="1650" loading="lazy" decoding="async" alt="Original EchoST-SAM framework: semantic prompts, adapted SAM and local features, ConvLSTM temporal propagation, and LV geometric readouts."><span class="zoom-hint" aria-hidden="true">View original figure ↗</span></a><figcaption>Original model diagram from the EchoST-SAM paper. Select to enlarge.</figcaption></figure></div><div class="study-copy">
+            <h4>EchoST-SAM: Semantic-Prompted Spatiotemporal LV Segmentation for Functional Analysis in Echocardiography</h4><p class="study-authors">Yu Lu, Xiaokang Deng, Wei Zhang, Bingding Huang</p><p>Combine anatomical semantic guidance with five-frame temporal propagation. ConvLSTM modeling encourages consistency across consecutive LV masks and supports more stable geometric measurements over the cardiac cycle.</p><p class="study-focus">LV video segmentation · Temporal consistency · EI and ACR analysis</p>
+          </div></div>
+          <div class="study-links" aria-label="EchoST-SAM resources"><a class="button button-primary" href="../EchoST-SAM/">Project page ↗</a><a class="button" href="../EchoST-SAM/assets/EchoST-SAM-paper.pdf">Paper <span class="file-type">PDF</span></a><a class="button" href="../EchoST-SAM/assets/EchoST-SAM-slides-20261017.pdf">Slides <span class="file-type">PDF</span></a><a class="button" href="../EchoST-SAM/#citation">BibTeX</a></div>
+        </article>
+      </section>
+      <section class="paper-section" id="evaluation" aria-labelledby="evaluation-title">
+        <h2 id="evaluation-title">Evaluation scope</h2>
+        <p>The studies cover related questions under different data and evaluation protocols.</p>
+        <div class="table-wrap" tabindex="0" role="region" aria-label="Study scope table; scroll horizontally on small screens">
+          <table class="scope-table"><caption>Datasets, tasks, and reported measurements</caption><thead><tr><th scope="col">Study</th><th scope="col">Data setting</th><th scope="col">Tasks &amp; readouts</th></tr></thead><tbody>
+            <tr><th scope="row">SSP-MAEFNet</th><td>EchoNet-Dynamic · apical four-chamber videos</td><td>LV segmentation, anatomical landmarks, LV volumes, and ejection fraction (LVEF)</td></tr>
+            <tr><th scope="row">LV-SAM++</th><td>CAMUS · apical two-chamber images</td><td>LV segmentation, eccentricity index (EI), and area change ratio (ACR)</td></tr>
+            <tr><th scope="row">EchoST-SAM</th><td>CAMUS · apical two-chamber sequences; study-specific patient split and intermediate-frame annotations</td><td>LV segmentation, temporal consistency, EI, and ACR; functional evaluation uses reference ED/ES frames</td></tr>
+          </tbody></table>
+        </div>
+        <p class="table-note">ED: end-diastole. ES: end-systole. EI describes cavity shape; ACR measures relative change in two-dimensional cavity area. EI and ACR are geometric readouts and should be distinguished from volumetric LVEF. Results should be interpreted within each paper’s evaluation protocol.</p>
+      </section>
+      <section class="paper-section" id="resources" aria-labelledby="resources-title">
+        <h2 id="resources-title">Resources</h2>
+        <div class="table-wrap" tabindex="0" role="region" aria-label="Publication resources table; scroll horizontally on small screens">
+          <table class="resource-table"><caption>Paper and presentation materials</caption><thead><tr><th scope="col">Study</th><th scope="col">Paper</th><th scope="col">Slides</th><th scope="col">Poster</th><th scope="col">Citation</th></tr></thead><tbody><tr><th scope="row"><a href="../SSP-MAEFNet/">SSP-MAEFNet</a></th><td><a href="../SSP-MAEFNet/assets/SSP-MAEFNet-paper.pdf" aria-label="SSP-MAEFNet paper">PDF</a></td><td><a href="../SSP-MAEFNet/assets/SSP-MAEFNet-slides.pdf" aria-label="SSP-MAEFNet slides">PDF</a></td><td><a href="../SSP-MAEFNet/assets/SSP-MAEFNet-poster.pdf" aria-label="SSP-MAEFNet poster">PDF</a></td><td><a href="../SSP-MAEFNet/assets/sspmaefnet.bib" aria-label="SSP-MAEFNet bib">BibTeX</a></td></tr><tr><th scope="row"><a href="../LV-SAM++/">LV-SAM++</a></th><td><a href="../LV-SAM++/assets/LV-SAM-plus-plus-paper.pdf" aria-label="LV-SAM++ paper">PDF</a></td><td><span aria-label="Not provided">—</span></td><td><a href="../LV-SAM++/assets/LV-SAM-plus-plus-poster.pdf" aria-label="LV-SAM++ poster">PDF</a></td><td><a href="../LV-SAM++/assets/lvsamplusplus.bib" aria-label="LV-SAM++ bib">BibTeX</a></td></tr><tr><th scope="row"><a href="../EchoST-SAM/">EchoST-SAM</a></th><td><a href="../EchoST-SAM/assets/EchoST-SAM-paper.pdf" aria-label="EchoST-SAM paper">PDF</a></td><td><a href="../EchoST-SAM/assets/EchoST-SAM-slides-20261017.pdf" aria-label="EchoST-SAM slides">PDF</a></td><td><span aria-label="Not provided">—</span></td><td><a href="../EchoST-SAM/assets/echostsam.bib" aria-label="EchoST-SAM bib">BibTeX</a></td></tr></tbody></table>
+        </div>
+        <p class="table-note">— Material not provided. EchoST-SAM slides: English · 13-minute talk · 17 main slides + 7 backup · 16:9 · updated October 17, 2026.</p>
+      </section>
+      <section class="paper-section" id="citation" aria-labelledby="citation-title">
+        <h2 id="citation-title">Citations</h2>
+        <p>Please cite the individual paper(s) relevant to the method or results you use.</p>
+        <p><a class="button" href="assets/echo-lv-publications.bib" download>Download all three citations <span class="file-type">.BIB</span></a></p>
+        <details class="paper-details"><summary>View BibTeX entries</summary>
+          <div class="citation-toolbar"><p>Three publications</p><div><button class="copy-button" id="copy-citation" type="button" hidden>Copy</button></div></div>
+          <pre class="citation-code" tabindex="0"><code id="bibtex">@inproceedings{xu2025sspmaefnet,
+  title     = {Multi-Task Self-Supervised Learning for Automated
+               Measurement of Left Ventricular Ejection Fraction
+               in Echocardiography},
+  author    = {Xu, Zhanpeng and Lu, Yu and Zhang, Wei
+               and Li, Xiaoqing and Shi, Shijie and Fu, Xianghua},
+  booktitle = {2025 IEEE International Conference on Multimedia
+               and Expo (ICME)},
+  year      = {2025},
+  publisher = {IEEE},
+  doi       = {10.1109/ICME59968.2025.11210142},
+  url       = {https://doi.org/10.1109/ICME59968.2025.11210142}
+}
+
+@inproceedings{deng2026lvsamplusplus,
+  title     = {{LLM}-Guided {SAM} for Left Ventricle Segmentation
+               and Functional Analysis in Echocardiography},
+  author    = {Deng, Xiaokang and Lu, Yu and Zhang, Wei
+               and Fu, Xianghua},
+  booktitle = {ICASSP 2026 - 2026 IEEE International Conference
+               on Acoustics, Speech and Signal Processing (ICASSP)},
+  year      = {2026},
+  pages     = {4826--4830},
+  publisher = {IEEE},
+  doi       = {10.1109/ICASSP55912.2026.11464908},
+  url       = {https://doi.org/10.1109/ICASSP55912.2026.11464908}
+}
+
+@inproceedings{lu2026echostsam,
+  title     = {{EchoST-SAM}: Semantic-Prompted Spatiotemporal
+               {LV} Segmentation for Functional Analysis
+               in Echocardiography},
+  author    = {Lu, Yu and Deng, Xiaokang and Zhang, Wei
+               and Huang, Bingding},
+  booktitle = {International Conference on Image and Vision
+               Computing New Zealand (IVCNZ)},
+  year      = {2026},
+  url       = {https://lvyupku.github.io/EchoST-SAM/}
+}
+</code></pre>
+          <p class="copy-status" id="copy-status" role="status" aria-live="polite"></p>
+        </details>
+      </section>
+      <section class="paper-section" id="contact" aria-labelledby="contact-title">
+        <h2 id="contact-title">Contact</h2>
+        <p>For questions about these studies, please contact <a href="mailto:lvyu@sztu.edu.cn">Yu Lu</a>.</p>
+        <p><a href="https://lvyupku.github.io/">Personal homepage ↗</a><span class="contact-separator" aria-hidden="true"> · </span><a href="mailto:lvyu@sztu.edu.cn">lvyu@sztu.edu.cn</a></p>
+      </section>
+    </main>
+  </div>
+  <footer class="site-footer"><div><a href="https://lvyupku.github.io/">吕羽 Yu Lu</a><span>Echocardiography AI · Research series</span><span>Updated October 17, 2026</span><a href="#top">Back to top ↑</a></div></footer>
+  <dialog id="figure-dialog" aria-labelledby="figure-dialog-title"><div class="dialog-toolbar"><h2 id="figure-dialog-title">Original figure</h2><button id="close-figure" type="button" autofocus>Close <span aria-hidden="true">×</span></button></div><div class="dialog-image-wrap"><img id="dialog-image" alt=""></div><p id="dialog-caption"></p></dialog>
+</body>
+</html>
