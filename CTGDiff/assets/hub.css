@@ -1,0 +1,48 @@
+/* Research series page. Original project typography and palette are retained. */
+.hub-hero h1 { max-width: 890px; font-size: clamp(2rem, 3.55vw, 2.9rem); letter-spacing: -.035em; font-weight: 700; line-height: 1.18; margin-bottom: 1.15rem; text-wrap: balance; }
+.hub-hero h1 span { display: block; }
+.series-subtitle { max-width: 720px; margin: 0 auto .55rem; font-size: 1.06rem; line-height: 1.55; text-wrap: balance; }
+.series-chinese { margin-bottom: .7rem; font-size: .88rem; color: var(--muted); letter-spacing: .06em; }
+.series-byline { font-size: .84rem; color: var(--muted); margin-bottom: 0; }
+.series-byline a { text-decoration: none; }
+.hub-hero .resource-buttons { margin: 1.45rem 0 1.8rem; }
+.hub-teaser { max-width: 800px; margin: auto; }
+.hub-teaser figure { margin: 0; }
+.hub-teaser figcaption { text-align: center; font-size: .79rem; }
+.direction-list { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: 1.5rem; list-style: none; padding: 0; margin: 1.4rem 0 0; }
+.direction-list li { border-top: 3px solid var(--accent); padding-top: .9rem; }
+.direction-label { color: var(--muted); font-size: .74rem; margin-bottom: .4rem; }
+.direction-list h3 { font-size: 1.04rem; margin: 0 0 .65rem; }
+.direction-list li > p:not(.direction-label) { font-size: .87rem; }
+.direction-list a { font-size: .82rem; font-weight: 600; }
+.section-intro { font-size: .93rem; color: var(--muted); }
+.study { padding: 1.3rem 0 2rem; scroll-margin-top: 1.3rem; }
+.study + .study { border-top: 1px solid var(--line); padding-top: 2rem; }
+.study-heading { display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap; }
+.study-heading h3 { font-size: 1.4rem; margin: 0; letter-spacing: -.025em; }
+.study-heading h3 a { color: var(--heading); text-decoration: none; }
+.study-heading h3 a:hover { color: var(--link); }
+.study-venue { color: var(--link); font-size: .8rem; font-weight: 650; }
+.study-theme { margin: .25rem 0 1.15rem; font-size: .86rem; color: var(--muted); }
+.study-body { display: grid; grid-template-columns: minmax(0,.9fr) minmax(0,1.25fr); gap: 1.65rem; align-items: start; }
+.study-figure figure { margin: .15rem 0 0; }
+.study-figure figcaption { font-size: .72rem; margin-top: .45rem; }
+.study-copy h4 { color: var(--heading); font-size: 1rem; line-height: 1.5; font-weight: 600; margin: 0 0 .6rem; }
+.study-copy p { font-size: .87rem; }
+.study-copy .study-authors { font-size: .74rem; color: var(--muted); line-height: 1.65; margin-bottom: .8rem; }
+.study-copy .study-focus { font-size: .76rem; color: var(--link); line-height: 1.6; margin-bottom: 0; }
+.study-links { display: flex; flex-wrap: wrap; gap: .55rem; margin-top: 1.2rem; }
+.study-links .button { font-size: .78rem; min-height: 38px; padding: .4rem .7rem; }
+.scope-table { min-width: 610px; white-space: normal; }
+.scope-table th, .scope-table td { text-align: left; vertical-align: top; padding: .85rem 1rem; line-height: 1.6; }
+.scope-table tbody th { width: 20%; white-space: nowrap; font-weight: 600; }
+.scope-table td { width: 40%; font-size: .82rem; }
+.resource-table th, .resource-table td { text-align: center; padding: .85rem 1rem; }
+.resource-table th:first-child { text-align: left; }
+.resource-table a { text-underline-offset: 4px; }
+.contact-separator { color: var(--muted); }
+@media (max-width: 1080px) { .study-body { gap: 1.2rem; } .direction-list { gap: 1.1rem; } }
+@media (max-width: 850px) { .hub-hero h1 { font-size: clamp(2rem,4.9vw,2.6rem); } .hub-hero { padding-top: .2rem; } }
+@media (max-width: 680px) { .study-body { grid-template-columns: 1fr; } .study-figure { max-width: 500px; } .study-copy { grid-row: 1; } .study-figure figure { margin-top: .25rem; } .direction-list { grid-template-columns: 1fr; gap: 1.3rem; } .direction-list li { padding-top: .7rem; } .direction-list li > p:not(.direction-label) { margin-bottom: .45rem; } }
+@media (max-width: 560px) { .hub-hero h1 { font-size: 2rem; line-height: 1.2; } .series-subtitle { font-size: .96rem; } .series-byline { font-size: .76rem; } .hub-hero .venue { font-size: .72rem; letter-spacing: .08em; } .series-chinese { font-size: .8rem; } .study-heading h3 { font-size: 1.3rem; } .study-copy h4 { font-size: .98rem; } .study-links { gap: .5rem; } .resource-table th, .resource-table td { padding: .7rem .65rem; } .hub-teaser figcaption { font-size: .74rem; } }
+@media print { .study-body { grid-template-columns: 1fr 1.3fr; } .study-links { display: none; } }

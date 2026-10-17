@@ -1,0 +1,27 @@
+/* CTG series additions. The Echo-LV typography and palette are retained. */
+.hub-teaser { max-width: 650px; }
+.hub-hero h1 { max-width: 900px; }
+.study-figure .figure-link { min-height: 0; }
+.study-figure img { object-fit: contain; }
+.scope-table.four-columns { min-width: 700px; }
+.scope-table.four-columns td { width: auto; }
+.scope-table.four-columns td:last-child { width: 31%; }
+.facts { display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); margin: 1.5rem 0 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); text-align: left; }
+.facts > div { padding: 1rem; }
+.facts > div + div { border-left: 1px solid var(--line); }
+.facts dt { font-size: .74rem; color: var(--muted); }
+.facts dd { margin: .3rem 0 0; color: var(--heading); font-size: .94rem; font-weight: 600; line-height: 1.5; }
+.media-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 1.5rem 0; align-items: start; }
+.media-grid figure { margin: 0; }
+.media-grid:has(> figure:only-child) { grid-template-columns: minmax(0,650px); }
+.media-preview { display: block; background: var(--soft); padding: .65rem; border: 1px solid var(--line); }
+.media-preview img { width: 100%; }
+.video-wrap { max-width: 700px; margin: 1.4rem auto 1rem; }
+video { display: block; width: 100%; height: auto; background: #f6f8f9; border: 1px solid var(--line); }
+.media-description { font-size: .85rem; color: var(--muted); }
+.section-actions { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.2rem 0; }
+.small-figure { max-width: 740px; margin-left: auto; margin-right: auto; }
+.subsection-title { font-size: 1.08rem; margin-top: 2rem; }
+.metric-key { font-size: .81rem; color: var(--muted); }
+.related-series { padding-top: 1rem; font-size: .89rem; }
+@media (max-width: 680px) { .facts { grid-template-columns: 1fr; } .facts > div { padding: .7rem .2rem; } .facts > div + div { border-left: 0; border-top: 1px solid var(--line); } .facts dt { display: inline; } .facts dd { display: inline; margin-left: .6rem; } .media-grid { grid-template-columns: 1fr; } }

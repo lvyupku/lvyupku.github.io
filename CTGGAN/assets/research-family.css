@@ -1,0 +1,10 @@
+/* Shared research navigation, release 20261017-v1. */
+.research-family { border-bottom: 1px solid var(--line); background: #fbfcfc; }
+.research-family-inner { max-width: 1280px; margin: auto; padding: .6rem 2rem; display: flex; flex-wrap: wrap; align-items: center; gap: .3rem 1.5rem; }
+.research-family a { font-size: .78rem; padding: .25rem 0; color: var(--muted); text-decoration: none; }
+.research-family a:first-child { margin-right: auto; }
+.research-family a:hover { color: var(--link); }
+.research-family a[aria-current="page"] { color: var(--link); font-weight: 700; text-decoration: underline; text-underline-offset: 5px; }
+@media (max-width: 1080px) { .research-family-inner { padding-left: 1.5rem; padding-right: 1.5rem; } }
+@media (max-width: 560px) { .research-family-inner { padding: .5rem 1.1rem; gap: .15rem 1.2rem; } .research-family a:first-child { flex-basis: 100%; } .research-family a { font-size: .75rem; } }
+@media print { .research-family { display: none; } }
