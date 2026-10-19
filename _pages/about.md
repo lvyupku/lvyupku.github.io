@@ -30,6 +30,7 @@ redirect_from:
 </ul>
 <h2 id="news" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">News · 最新动态</h2>
 <ul style="font-size: 13px; line-height: 1.7; padding-left: 22px;">
+<li style="font-size: 13px; margin-bottom: 7px;">[10/2026] 1 workshop papers accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/" target="_blank" rel="noopener noreferrer">BIBM 2026</a>（本科生一作×1）</li>
 <li style="font-size: 13px; margin-bottom: 7px;">[10/2026] 1 paper accepted by <a href="https://ivcnz.github.io/" target="_blank" rel="noopener noreferrer">IVCNZ 2026</a></li>
 <li style="font-size: 13px; margin-bottom: 7px;">[10/2026] 1 paper accepted by <a href="https://www.sciencedirect.com/journal/internet-of-things" target="_blank" rel="noopener noreferrer">Internet of Things</a></li>
 <li style="font-size: 13px; margin-bottom: 7px;">[09/2026] 6 <strong>regular</strong> papers accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/" target="_blank" rel="noopener noreferrer">BIBM 2026</a>（硕士生一作×3）</li>
@@ -209,6 +210,10 @@ redirect_from:
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>M2F-PAG: A Unified Framework with Multi-Modal Fusion and Graph Reasoning for Multi-Label Fundus Diagnosis</strong>. <em>BIBM 2026 Regular Paper</em>.</div>
   <div style="font-size: 13px; line-height: 1.5;">Wei Zhang<sup>*</sup>, Jinyang Zhou, <strong>Yu Lu</strong>, Guomei Tang, Liyilei Su, Bingding Huang</div>
+</li>
+<li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
+  <div style="font-size: 13px; line-height: 1.5;"><strong>MambaXray-MTL: A Multi-Task Vision-Language Framework for Interpretable Lesion Detection and Medical Report Generation</strong>. <em>BIBM 2026 Workshop Paper</em>.</div>
+  <div style="font-size: 13px; line-height: 1.5;">Wenbin Feng, Xiaoqing Li, <strong>Yu Lu</strong><sup>*</sup>, Wei Zhang, Bingding Huang</div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Object-Centric State-Guided SAM for Temporally Coherent Multi-Object Segmentation in Complex Underwater Environments</strong>. <em>IROS 2026</em>.</div>
