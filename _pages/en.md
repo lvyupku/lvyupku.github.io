@@ -210,6 +210,10 @@ lang: en
   <div style="font-size: 13px; line-height: 1.5;">Wei Zhang<sup>*</sup>, Jinyang Zhou, <strong>Yu Lu</strong>, Guomei Tang, Liyilei Su, Bingding Huang</div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
+  <div style="font-size: 13px; line-height: 1.5;"><strong>MambaXray-MTL: A Multi-Task Vision-Language Framework for Interpretable Lesion Detection and Medical Report Generation</strong>. <em>BIBM 2026 Workshop Paper</em>.</div>
+  <div style="font-size: 13px; line-height: 1.5;">Wenbin Feng, Xiaoqing Li, <strong>Yu Lu</strong><sup>*</sup>, Wei Zhang, Bingding Huang</div>
+</li>
+<li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Object-Centric State-Guided SAM for Temporally Coherent Multi-Object Segmentation in Complex Underwater Environments</strong>. <em>IROS 2026</em>.</div>
   <div style="font-size: 13px; line-height: 1.5;">Wenbin Feng, <strong>Yu Lu</strong><sup>*</sup>, Yuetong Lin, Meng Li, Qiang Li</div>
 </li>
