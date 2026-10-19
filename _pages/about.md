@@ -30,7 +30,7 @@ redirect_from:
 </ul>
 <h2 id="news" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">News · 最新动态</h2>
 <ul style="font-size: 13px; line-height: 1.7; padding-left: 22px;">
-<li style="font-size: 13px; margin-bottom: 7px;">[10/2026] 1 workshop papers accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/" target="_blank" rel="noopener noreferrer">BIBM 2026</a>（本科生一作×1）</li>
+<li style="font-size: 13px; margin-bottom: 7px;">[10/2026] 1 workshop paper accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/" target="_blank" rel="noopener noreferrer">BIBM 2026</a>（本科生一作×1）</li>
 <li style="font-size: 13px; margin-bottom: 7px;">[10/2026] 1 paper accepted by <a href="https://ivcnz.github.io/" target="_blank" rel="noopener noreferrer">IVCNZ 2026</a></li>
 <li style="font-size: 13px; margin-bottom: 7px;">[10/2026] 1 paper accepted by <a href="https://www.sciencedirect.com/journal/internet-of-things" target="_blank" rel="noopener noreferrer">Internet of Things</a></li>
 <li style="font-size: 13px; margin-bottom: 7px;">[09/2026] 6 <strong>regular</strong> papers accepted by <a href="https://www3.cs.stonybrook.edu/~bibm2026/" target="_blank" rel="noopener noreferrer">BIBM 2026</a>（硕士生一作×3）</li>
