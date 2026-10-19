@@ -204,7 +204,7 @@ redirect_from:
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Harmonizing Local Textures and Global Topology for Fundus Super-Resolution</strong>. <em>BIBM 2026 Regular Paper</em>.</div>
-  <div style="font-size: 13px; line-height: 1.5;">Wei Zhang<sup>*</sup>, Zhenzhao Li, Liyilei Su, Xiujuan Zhao, <strong>Yu Lu</strong>, Bingding Huang</div>
+  <div style="font-size: 13px; line-height: 1.5;">Wei Zhang, Zhenzhao Li, Liyilei Su, Xiujuan Zhao, <strong>Yu Lu</strong><sup>*</sup>, Bingding Huang<sup>*</sup></div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>M2F-PAG: A Unified Framework with Multi-Modal Fusion and Graph Reasoning for Multi-Label Fundus Diagnosis</strong>. <em>BIBM 2026 Regular Paper</em>.</div>
