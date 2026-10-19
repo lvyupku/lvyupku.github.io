@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <div style="font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 13px; line-height: 1.6;">
-<nav aria-label="项目分类导航" style="font-size: 13px; margin: 0 0 20px;"><a href="#research-projects">纵向科研项目</a> &nbsp;·&nbsp; <a href="#collaborative-projects">横向科研项目</a> &nbsp;·&nbsp; <a href="#teaching-projects">教研项目</a></nav>
+<nav aria-label="项目分类导航" style="font-size: 13px; margin: 0 0 20px;"><a href="#research-projects">纵向科研项目</a> &nbsp;·&nbsp; <a href="#research-platforms">科研平台</a> &nbsp;·&nbsp; <a href="#collaborative-projects">横向科研项目</a> &nbsp;·&nbsp; <a href="#teaching-projects">教研项目</a></nav>
 <h2 id="research-projects" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">纵向科研项目</h2>
 <ol style="font-size: 13px; padding-left: 24px;">
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
@@ -80,6 +80,21 @@ author_profile: true
   <div style="font-size: 13px; line-height: 1.6;">2017.04–2020.04；经费：300万元；状态：结题；角色：<strong>主持</strong></div>
 </li>
 </ol>
+  
+<h2 id="research-platforms" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">科研平台</h2>
+<ol style="font-size: 13px; padding-left: 24px;">
+<li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
+  <div style="font-size: 13px; line-height: 1.6;"><strong>广东省边缘智能工程技术研究中心</strong></div>
+  <div style="font-size: 13px; line-height: 1.6;">广东省科技厅工程技术研究中心；编号：2025B184</div>
+  <div style="font-size: 13px; line-height: 1.6;">2025年；经费：100万元；状态：在研；角色：参与</div>
+</li>
+<li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
+  <div style="font-size: 13px; line-height: 1.6;"><strong>感传算用一体化物联网工程技术研究中心</strong></div>
+  <div style="font-size: 13px; line-height: 1.6;">广东省普通高校工程技术中心；编号：2024GCZX004</div>
+  <div style="font-size: 13px; line-height: 1.6;">2024年；经费：60万元；状态：在研；角色：参与</div>
+</li>
+</ol>
+
 <h2 id="collaborative-projects" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">横向科研项目</h2>
 <ol style="font-size: 13px; padding-left: 24px;">
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
