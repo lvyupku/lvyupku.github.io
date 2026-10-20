@@ -209,7 +209,7 @@ redirect_from:
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>M2F-PAG: A Unified Framework with Multi-Modal Fusion and Graph Reasoning for Multi-Label Fundus Diagnosis</strong>. <em>BIBM 2026 Regular Paper</em>.</div>
-  <div style="font-size: 13px; line-height: 1.5;">Wei Zhang<sup>*</sup>, Jinyang Zhou, <strong>Yu Lu</strong>, Guomei Tang, Liyilei Su, Bingding Huang</div>
+  <div style="font-size: 13px; line-height: 1.5;">Wei Zhang<sup>*</sup>, Jinyang Zhou, <strong>Yu Lu</strong>, Guomei Tang, Liyilei Su<sup>*</sup>, Bingding Huang</div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>MambaXray-MTL: A Multi-Task Vision-Language Framework for Interpretable Lesion Detection and Medical Report Generation</strong>. <em>BIBM 2026 Workshop Paper</em>.</div>
