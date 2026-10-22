@@ -15,7 +15,7 @@ author_profile: true
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">中国计算机学会（CCF），<strong>会员</strong></li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">中国人工智能学会（CAAI），<strong>会员</strong></li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">深圳市计算机学会（SZCCF），<strong>会员、东部会员活动中心副秘书长</strong></li>
-<li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">全国本科毕业论文（设计）抽检评审专家库专家，2024年、2025年、2026年</li>
+<li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">全国本科毕业论文（设计）抽检评审专家库专家，2024年（湖南省）、2025年（湖北省）、2026年（内蒙古自治区）</li>
 </ul>
 <h2 id="editorial" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">期刊编委与客座编委</h2>
 <h3 style="font-size: 16px; line-height: 1.4; margin: 18px 0 10px;">编委</h3>
