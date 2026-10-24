@@ -372,6 +372,10 @@ redirect_from:
   <div style="font-size: 13px; line-height: 1.5;">Huanwen Liang, <strong>Yu Lu</strong><sup>*</sup>, Qianying Liu, Xianghua Fu</div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
+  <div style="font-size: 13px; line-height: 1.5;"><strong>Hybrid Model-based Defect Analysis of Thermoelectric Cooler Components</strong>. <em>ICPRAM 2022</em>. pp. 602–609.</div>
+  <div style="font-size: 13px; line-height: 1.5;"><strong>Yu Lu</strong><sup>*</sup>, Weifang Xie, Jianlong Huang</div>
+</li>
+<li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Data Enhancement and Deep Learning for Bone Age Assessment using The Standards of Skeletal Maturity of Hand and Wrist for Chinese</strong>. <em>EMBC 2021</em>. <a href="https://doi.org/10.1109/EMBC46164.2021.9630226" target="_blank" rel="noopener noreferrer">[paper]</a></div>
   <div style="font-size: 13px; line-height: 1.5;"><strong>Yu Lu</strong><sup>*</sup>, Xi Zhang, Liwen Jing, Xianghua Fu</div>
 </li>
