@@ -89,8 +89,8 @@ author_profile: true
   <div style="font-size: 13px; line-height: 1.6;">2025年；经费：100万元；状态：在研；角色：参与</div>
 </li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
-  <div style="font-size: 13px; line-height: 1.6;"><strong>感传算用一体化物联网工程技术研究中心</strong></div>
-  <div style="font-size: 13px; line-height: 1.6;">广东省普通高校工程技术中心；编号：2024GCZX004</div>
+  <div style="font-size: 13px; line-height: 1.6;"><strong>广东省感传算用一体化物联网工程技术研究中心</strong></div>
+  <div style="font-size: 13px; line-height: 1.6;">广东省普通高校工程技术研究（开发）中心；编号：2024GCZX004</div>
   <div style="font-size: 13px; line-height: 1.6;">2024年；经费：60万元；状态：在研；角色：参与</div>
 </li>
 </ol>
