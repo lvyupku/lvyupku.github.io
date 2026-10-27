@@ -396,6 +396,15 @@ redirect_from:
   <div style="font-size: 13px; line-height: 1.5;"><em>Ocean Engineering, 161:308-321, August 2018</em>. <a href="https://doi.org/10.1016/j.oceaneng.2018.01.025" target="_blank" rel="noopener noreferrer">[paper]</a></div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
+  <div style="font-size: 13px; line-height: 1.5;">
+    <strong>Computerised Interpretation Systems for Cardiotocography for Both Home and Hospital Uses</strong>. <em>CBMS 2018</em>.
+    <a href="https://doi.org/10.1109/CBMS.2018.00080" target="_blank" rel="noopener noreferrer">[paper]</a>
+  </div>
+  <div style="font-size: 13px; line-height: 1.5;">
+    <strong>Yu Lu</strong><sup>*</sup>, Yongjie Gao, Yuyang Xie, Shunan He
+  </div>
+</li>
+<li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Towards the Automated Verification of Weibull Distributions for System Failure Rates</strong>. <em>FMICS-AVoCS 2016</em>. <a href="https://doi.org/10.1007/978-3-319-45943-1_6" target="_blank" rel="noopener noreferrer">[paper]</a></div>
   <div style="font-size: 13px; line-height: 1.5;"><strong>Yu Lu</strong><sup>*</sup>, Alice A. Miller, Ruth Hoffmann, Christopher W. Johnson</div>
 </li>
