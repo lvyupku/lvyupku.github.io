@@ -1,4 +1,4 @@
----
+<img width="432" height="19" alt="image" src="https://github.com/user-attachments/assets/7a86e2f2-2447-462b-a43b-5e4847903d1c" /><img width="432" height="19" alt="image" src="https://github.com/user-attachments/assets/f6c102eb-8eb9-41ab-8880-c62825ab8f0f" />---
 layout: archive
 title: "实验室成员"
 permalink: /member/
@@ -227,6 +227,7 @@ author_profile: true
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">孙攀</h4>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">硕士研究生毕业，计算机技术专业，2023级</p>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">论文题目：基于半监督深度学习的水下目标检测方法</p>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">毕业去向：深圳希音信息技术有限公司</p>
   </div>
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
@@ -237,6 +238,7 @@ author_profile: true
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">胡亚婷</h4>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">硕士研究生毕业，计算机科学与技术专业，2023级</p>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">论文题目：基于深度生成模型的胎儿心电信号提取方法研究</p>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">毕业去向：中国电信股份有限公司</p>
   </div>
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
@@ -257,6 +259,7 @@ author_profile: true
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">彭翊婷</h4>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">硕士研究生毕业，计算机技术，2023级</p>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">论文题目：结合自监督对比学习与连续学习的胎心监护异常检测方法研究</p>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">毕业去向：深圳华为云计算技术有限公司</p>
   </div>
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
@@ -267,6 +270,7 @@ author_profile: true
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">冯文斌</h4>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">本科生，计算机科学与技术专业，2022级</p>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">第四届伦琴AI实验班成员</p>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">毕业去向：香港理工大学（读硕）</p>
     <p style="font-size: 13px; line-height: 1.6; margin: 6px 0 0;"><a href="https://wenbin-feng.github.io/">[个人主页]</a></p>
   </div>
 </article>
