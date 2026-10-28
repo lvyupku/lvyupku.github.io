@@ -95,6 +95,16 @@ author_profile: true
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
   <div style="flex: 0 0 100px; width: 100px;">
+    <img src="/images/fanxincheng.jpg" alt="范新成" width="100" height="125" loading="lazy" decoding="async" style="display: block; width: 100px; height: 125px; max-width: 100%; object-fit: contain; object-position: center top; border-radius: 4px;">
+  </div>
+  <div style="flex: 1 1 220px; min-width: 0; overflow-wrap: anywhere;">
+    <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">范新成</h4>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">硕士研究生，自动化专业，2025级</p>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">实验室：C1-902</p>
+  </div>
+</article>
+<article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
+  <div style="flex: 0 0 100px; width: 100px;">
     <img src="/images/huangjinjia.jpg" alt="黄锦佳" width="100" height="125" loading="lazy" decoding="async" style="display: block; width: 100px; height: 125px; max-width: 100%; object-fit: contain; object-position: center top; border-radius: 4px;">
   </div>
   <div style="flex: 1 1 220px; min-width: 0; overflow-wrap: anywhere;">
