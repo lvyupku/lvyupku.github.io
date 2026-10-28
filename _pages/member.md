@@ -259,7 +259,7 @@ author_profile: true
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">彭翊婷</h4>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">硕士研究生毕业，计算机技术，2023级</p>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">论文题目：结合自监督对比学习与连续学习的胎心监护异常检测方法研究</p>
-    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">毕业去向：深圳华为云计算技术有限公司</p>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">毕业去向：华为（深圳华为云计算技术有限公司）</p>
   </div>
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
