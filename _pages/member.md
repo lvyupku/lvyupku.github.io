@@ -1,4 +1,4 @@
-<img width="432" height="19" alt="image" src="https://github.com/user-attachments/assets/7a86e2f2-2447-462b-a43b-5e4847903d1c" /><img width="432" height="19" alt="image" src="https://github.com/user-attachments/assets/f6c102eb-8eb9-41ab-8880-c62825ab8f0f" />---
+---
 layout: archive
 title: "实验室成员"
 permalink: /member/
