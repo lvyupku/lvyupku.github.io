@@ -26,7 +26,7 @@ author_profile: true
   <div style="flex: 1 1 220px; min-width: 0; overflow-wrap: anywhere;">
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">Dr. Haseeb Hassan</h4>
     <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">2026年8月-至今</p>
-    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">安徽大学博士毕业，深圳大学博士后，深圳技术大学特聘副研究员，香港中文大学（深圳）科研与教学助理</p>
+    <p style="font-size: 13px; line-height: 1.6; margin: 0 0 5px;">安徽大学博士毕业，深圳大学博士后，深圳技术大学特聘副研究员，香港中文大学（深圳）Research and Teaching Associate</p>
   </div>
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
