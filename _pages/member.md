@@ -31,7 +31,7 @@ author_profile: true
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
   <div style="flex: 0 0 100px; width: 100px;">
-    <img src="/images/lqy.png" alt="刘倩颖" width="100" height="125" loading="lazy" decoding="async" style="display: block; width: 100px; height: 125px; max-width: 100%; object-fit: contain; object-position: center top; border-radius: 4px;">
+    <img src="/images/liuqainying.png" alt="刘倩颖" width="100" height="125" loading="lazy" decoding="async" style="display: block; width: 100px; height: 125px; max-width: 100%; object-fit: contain; object-position: center top; border-radius: 4px;">
   </div>
   <div style="flex: 1 1 220px; min-width: 0; overflow-wrap: anywhere;">
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">Qianying Liu (刘倩颖)</h4>
@@ -390,7 +390,7 @@ author_profile: true
 </article>
 <article style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 16px; padding: 14px; margin-bottom: 14px; border: 1px solid #e4e7eb; border-radius: 6px; box-sizing: border-box;">
   <div style="flex: 0 0 100px; width: 100px;">
-    <img src="/images/lly.jpg" alt="李乐雅" width="100" height="125" loading="lazy" decoding="async" style="display: block; width: 100px; height: 125px; max-width: 100%; object-fit: contain; object-position: center top; border-radius: 4px;">
+    <img src="/images/lileya.png" alt="李乐雅" width="100" height="125" loading="lazy" decoding="async" style="display: block; width: 100px; height: 125px; max-width: 100%; object-fit: contain; object-position: center top; border-radius: 4px;">
   </div>
   <div style="flex: 1 1 220px; min-width: 0; overflow-wrap: anywhere;">
     <h4 style="font-family: inherit; font-size: 15px; line-height: 1.4; margin: 0 0 8px;">李乐雅</h4>
