@@ -216,6 +216,10 @@ lang: en
   <div style="font-size: 13px; line-height: 1.5;">Wenbin Feng, Xiaoqing Li, <strong>Yu Lu</strong><sup>*</sup>, Wei Zhang, Bingding Huang</div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
+  <div style="font-size: 13px; line-height: 1.5;"><strong>ECSSNet: Multi-Scale Gated Skip Fusion for Retinal Vessel Segmentation</strong>. <em>BIBM 2026 Poster Paper</em>.</div>
+  <div style="font-size: 13px; line-height: 1.5;">Wei Zhang, Ziqi Lin, Chenxi Liu, Liyilei Su, <strong>Yu Lu</strong>, Bingding Huang</div>
+</li>
+<li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Object-Centric State-Guided SAM for Temporally Coherent Multi-Object Segmentation in Complex Underwater Environments</strong>. <em>IROS 2026</em>.</div>
   <div style="font-size: 13px; line-height: 1.5;">Wenbin Feng, <strong>Yu Lu</strong><sup>*</sup>, Yuetong Lin, Meng Li, Qiang Li</div>
 </li>
