@@ -98,6 +98,11 @@ author_profile: true
 <h2 id="collaborative-projects" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">横向科研项目</h2>
 <ol style="font-size: 13px; padding-left: 24px;">
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
+  <div style="font-size: 13px; line-height: 1.6;"><strong>石河子大学第一附属医院-深圳技术大学-天山医工融合智能联合实验室</strong></div>
+  <div style="font-size: 13px; line-height: 1.6;">校企合作联合实验室；编号：HT20260626003</div>
+  <div style="font-size: 13px; line-height: 1.6;">2026.07–2029.06；经费：100万元；状态：在研；角色：<strong>参与</strong></div>
+</li>
+<li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
   <div style="font-size: 13px; line-height: 1.6;"><strong>面向应用型人才培养的智能无人自主系统实验室建设</strong></div>
   <div style="font-size: 13px; line-height: 1.6;">教育部产学合作协同育人项目；编号：231105340010748</div>
   <div style="font-size: 13px; line-height: 1.6;">2023.10–2024.09；经费：20万元；状态：在研；角色：<strong>主持</strong></div>
