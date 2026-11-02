@@ -82,6 +82,7 @@ author_profile: true
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">IEEE Transactions on Multimedia (IEEE TMM)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">IEEE Transactions on Medical Imaging (IEEE TMI)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">IEEE Journal of Biomedical and Health Informatics (IEEE JBHI)</li>
+<li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">IEEE Transactions on Mobile Computing (IEEE TMC)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">IEEE Transactions on Information Forensics and Security (IEEE TIFS)</li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 7px;">IEEE Transactions on Industrial Informatics (IEEE TII)</li>
