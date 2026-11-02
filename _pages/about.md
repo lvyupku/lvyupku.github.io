@@ -19,7 +19,7 @@ redirect_from:
 <h2 id="introduction" style="font-size: 18px; line-height: 1.4; margin: 24px 0 12px;">Introduction · 个人简介</h2>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">现任副教授、博士生导师、硕士生导师，新西兰奥克兰大学国家公派访问学者，深圳市海外高层次“孔雀计划”C类人才，九三学社社员。</p>
 <p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">已在IEEE Journal of Biomedical and Health Informatics、IEEE Transactions on Aerospace and Electronic Systems、Pattern Recognition、Expert Systems With Applications、Applied Soft Computing、Neurocomputing、Knowledge-Based Systems、Artificial Intelligence in Medicine、Biomedical Signal Processing and Control、Ocean Engineering、Reliability Engineering &amp; System Safety等国际期刊，以及AAAI、IROS、ICME、ICASSP、BIBM等国际会议上发表学术论文100余篇。</p>
-<p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">主持国家自然科学基金面上项目、广东省普通高校重点领域专项等项目10余项。获2项发明专利授权，另有6项发明专利申请中，已实现1项科技成果转化。担任IEEE TPAMI/TIP/TMM/TMI/JBHI/TDSC/TIFS/TII/TMECH/TGRS/TMC/TETCI等期刊审稿人。</p>
+<p style="font-size: 13px; line-height: 1.7; margin: 0 0 10px;">主持国家自然科学基金面上项目、广东省普通高校重点领域专项等项目10余项。获2项发明专利授权，另有6项发明专利申请中，已实现1项科技成果转化。担任IEEE TPAMI/TIP/TMM/TMI/JBHI/TNNLS/TDSC/TIFS/TII/TMECH/TGRS/TMC/TETCI等期刊审稿人。</p>
 <ul style="font-size: 13px; line-height: 1.7; padding-left: 22px;">
 <li style="font-size: 13px; margin-bottom: 4px;">2026.10-至今，新西兰奥克兰大学，访问学者</li>
 <li style="font-size: 13px; margin-bottom: 4px;">2022.12-至今，深圳技术大学，副教授</li>
