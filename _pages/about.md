@@ -73,7 +73,7 @@ redirect_from:
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>Pretraining Accurate Facial Landmark Detection of Wildlife Animals with SuperAnimalFace</strong></div>
   <div style="font-size: 13px; line-height: 1.5;">Huilin Ge, Zhiwen Qiu, Cheng Fang, <strong>Yu Lu</strong>, Jin Lyu, Haiyang Mei<sup>*</sup>, Xueying Shi, Liang An<sup>*</sup></div>
-  <div style="font-size: 13px; line-height: 1.5;"><em>Big Data Mining and Analytics, Volume 9, Issue 6, December 2026, pp. 1447–1463</em>. <a href="https://ieeexplore.ieee.org/document/11758678" target="_blank" rel="noopener noreferrer">[paper]</a></div>
+  <div style="font-size: 13px; line-height: 1.5;"><em>Big Data Mining and Analytics, Volume 9, Issue 6, December 2026, pp. 1447–1463</em>. <a href="https://doi.org/10.26599/BDMA.2026.9020008" target="_blank" rel="noopener noreferrer">[paper]</a></div>
 </li>
 <li style="font-size: 13px; line-height: 1.5; margin-bottom: 12px;">
   <div style="font-size: 13px; line-height: 1.5;"><strong>A Lightweight Perception-Enhanced Spatio-Temporal Graph Convolution Network for Skeleton-Based Action Recognition</strong></div>
