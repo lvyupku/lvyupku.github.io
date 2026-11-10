@@ -21,13 +21,18 @@ author_profile: true
 </li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
   <div style="font-size: 13px; line-height: 1.6;"><strong>基于AI多模态的妇幼健康状况中医诊断关键技术研究</strong></div>
-  <div style="font-size: 13px; line-height: 1.6;">广东省普通高校重点领域专项（生物医药与健康）；编号：2023ZDZX2055</div>
+  <div style="font-size: 13px; line-height: 1.6;">广东省普通高校重点领域专项；编号：2023ZDZX2055</div>
   <div style="font-size: 13px; line-height: 1.6;">2023.10–2026.10；经费：20万元；状态：在研；角色：<strong>主持</strong></div>
 </li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
   <div style="font-size: 13px; line-height: 1.6;"><strong>基于大数据和大模型的多模态深度学习技术预测不良分娩结局的研究</strong></div>
   <div style="font-size: 13px; line-height: 1.6;">大数据系统计算技术国家工程实验室开放课题面上项目；编号：SZU-BDSC-OF2024-11</div>
   <div style="font-size: 13px; line-height: 1.6;">2024.01–2025.12；经费：2万元；状态：在研；角色：<strong>主持</strong></div>
+</li>
+<li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
+  <div style="font-size: 13px; line-height: 1.6;"><strong>基于无人机-机械臂的农作物病害检测与靶向喷施研究</strong></div>
+  <div style="font-size: 13px; line-height: 1.6;">广东省普通高校重点领域专项；编号：2026ZDZX2008</div>
+  <div style="font-size: 13px; line-height: 1.6;">2026.10–2029.10；经费：20万元；状态：在研；角色：<strong>参与</strong></div>
 </li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
   <div style="font-size: 13px; line-height: 1.6;"><strong>基于触觉的水下机械手感知建模与抓取仿真研究</strong></div>
