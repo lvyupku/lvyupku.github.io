@@ -32,7 +32,7 @@ author_profile: true
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
   <div style="font-size: 13px; line-height: 1.6;"><strong>基于无人机-机械臂的农作物病害检测与靶向喷施研究</strong></div>
   <div style="font-size: 13px; line-height: 1.6;">广东省普通高校重点领域专项；编号：2026ZDZX2008</div>
-  <div style="font-size: 13px; line-height: 1.6;">2026.10–2029.10；经费：20万元；状态：在研；角色：<strong>参与</strong></div>
+  <div style="font-size: 13px; line-height: 1.6;">2026.10–2029.10；经费：20万元；状态：在研；角色：参与</div>
 </li>
 <li style="font-size: 13px; line-height: 1.6; margin-bottom: 14px;">
   <div style="font-size: 13px; line-height: 1.6;"><strong>基于触觉的水下机械手感知建模与抓取仿真研究</strong></div>
